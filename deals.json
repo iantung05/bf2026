@@ -1,8 +1,73 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/24 18:30",
-  "updated_at_utc": "2026-11-24T10:31:00Z",
+  "updated_at_taipei": "2026/11/24 19:30",
+  "updated_at_utc": "2026-11-24T11:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-24-1900",
+      "date": "11/24",
+      "time_taipei": "11/24 19:00",
+      "created_at_utc": "2026-11-24T11:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Apple Watch Ultra 3（黑／原色鈦金屬）",
+          "price": "$549（69 折 / 現省 $250 / 原價 $799；米蘭錶環版 $649）",
+          "store": "Amazon US / Best Buy",
+          "highlight": "MacRumors 焦點史低直降 $250，折台幣約 1.78 萬比台灣價差極大，體積超小帶回最划算。",
+          "tags": [
+            "Apple",
+            "美妝保健穿戴"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Sony WF-1000XM6 旗艦真無線降噪耳機",
+          "price": "$248（75 折 / 省 $82 / 原價 $329.99；前代 XM5 $169–$180）",
+          "store": "Amazon US / Best Buy",
+          "highlight": "Sony 最新旗艦豆首度史低直降破 $250，體積極輕巧、通勤降噪首選。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Bose QuietComfort Ultra Headphones（第 2 代）& Soundcore",
+          "price": "Bose QC Ultra 2 代 $369（省 $80 / 原價 $449）／Soundcore Liberty 5 Pro $129.99",
+          "store": "Amazon US / Best Buy / Soundcore 官網",
+          "highlight": "Bose 新 2 代支援 USB-C 無損音訊與升級降噪；預算友善看 Soundcore Space 2 耳罩同步降 $99.99。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Samsung Galaxy Tab S11（256GB 附 S Pen）",
+          "price": "$800（73 折 / 省 $300 / 原價 $1,100；Ultra 最高直降 $500）",
+          "store": "Amazon US / Best Buy / Samsung 官網",
+          "highlight": "免舊換新直接現金折 $300–$500，旗艦 OLED 安卓平板超輕薄好塞隨身行李。",
+          "tags": [
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "US",
+          "title": "旅行／戶外包黑五：Calpak／Cotopaxi／Osprey",
+          "price": "Calpak 全站 8 折（Luka Duffel 最高 7 折）／Cotopaxi 75 折／Osprey 8 折",
+          "store": "各品牌美國官網",
+          "highlight": "歐美爆紅登機軟包 Luka Duffel 與經典登山包同步下殺，軟包可摺疊塞箱帶回超方便。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-24-1800",
       "date": "11/24",
