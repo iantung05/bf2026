@@ -1,8 +1,73 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/24 12:30",
-  "updated_at_utc": "2026-11-24T04:31:00Z",
+  "updated_at_taipei": "2026/11/24 13:30",
+  "updated_at_utc": "2026-11-24T05:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-24-1300",
+      "date": "11/24",
+      "time_taipei": "11/24 13:00",
+      "created_at_utc": "2026-11-24T05:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Walmart Event 2 正式開放全員：Apple AirPods 4 & AirPods Pro 3",
+          "price": "AirPods 4 $89（68 折 / 原價 $129.99）／AirPods Pro 3 $149（6 折）",
+          "store": "Walmart（免 Walmart+ 會員）",
+          "highlight": "13:01 正式解除 Walmart+ 會員門檻！AirPods 4 壓破台幣 2,900、AirPods Pro 3 $149 全員開搶（線上至 11/29，超輕好帶回）。",
+          "tags": [
+            "Apple",
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Ninja SLUSHi 96oz 智慧冰沙機 & Shark Detect 吸塵器",
+          "price": "Ninja SLUSHi $169（53 折 / 原價 $319）／Shark Detect $144（38 折 / 原價 $379.99）",
+          "store": "Walmart Event 2（全員開放）",
+          "highlight": "美國爆紅不用加冰塊就能做手搖冰沙的 Ninja SLUSHi 狂省 $150，同步開放非會員搶購（體積較大）。",
+          "tags": [
+            "家電居家工具"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Sephora 11/24 今日限定 7 折＋全週彩妝加碼",
+          "price": "今日 7 折：Youth To The People／Laura Mercier／Kiehl's；Sol de Janeiro 75 折",
+          "store": "Sephora US",
+          "highlight": "今日 11/24 限時輪動品牌 7 折，另有 Westman Atelier、Patrick Ta 精選底妝 7 折起（至 11/30），輕巧超適合請朋友順帶。",
+          "tags": [
+            "美妝保健穿戴"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Old Navy 黑五全站 5 折開跑",
+          "price": "全站 5 折（50% Off Everything）",
+          "store": "Old Navy US（Slickdeals 11/24 首頁）",
+          "highlight": "平價美式基本款、刷毛外套、居家服與童裝全站直接對折，買起來完全不心痛又輕便。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "DIGITAL",
+          "title": "Disney+ & Hulu 雙享方案（含廣告）今日正式開賣",
+          "price": "$4.99/月 × 12 個月（美區黑五年度神價）",
+          "store": "Disney+ / Hulu 美國官網（至 11/30）",
+          "highlight": "剛正式上線！新戶與符合資格的回歸用戶都能鎖定一整年每月不到台幣 160 元雙串流（記得明年到期前關自動續訂）。",
+          "tags": [
+            "訂閱禮品卡"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-24-1200",
       "date": "11/24",
