@@ -1,8 +1,73 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 03:31",
-  "updated_at_utc": "2026-11-24T19:31:00Z",
+  "updated_at_taipei": "2026/11/25 04:31",
+  "updated_at_utc": "2026-11-24T20:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-0400",
+      "date": "11/25",
+      "time_taipei": "11/25 04:00",
+      "created_at_utc": "2026-11-24T20:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "DJI Osmo Pocket 3 單機組創史低（全能組同步下殺）",
+          "price": "標準組 $373（原價 $499–$519）／Creator 全能組 $466（原價 $549）",
+          "store": "Amazon US / Best Buy",
+          "highlight": "單機組首度破盤降至史低 $373（約台幣 1.2 萬）、含 Mic 2 全能組同步省 $83，口袋尺寸超好帶回（含鋰電池須手提登機）。",
+          "tags": [
+            "相機攝影"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "歐美爆紅助眠神物：Hatch Restore 3 & Loop Quiet 2 耳塞",
+          "price": "Hatch Restore 3 $135.99（8 折 / 省 $34 / 原價 $169.99）／Loop 全站 8 折（Quiet 2 約 $20）",
+          "store": "Amazon US / Loop 官網",
+          "highlight": "Hatch 最新第 3 代智慧日出鬧鐘＋白噪音助眠燈罕見下殺；Loop 矽膠降噪耳塞幾乎零重量，搭飛機／淺眠必備。",
+          "tags": [
+            "家電居家工具",
+            "精選綜合"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "廚房控神器：MEATER Plus 無線溫度計 & 象印微電腦電子鍋",
+          "price": "MEATER Plus $59（74 折 / 原價 $79–$80）／Zojirushi Neuro Fuzzy 5 杯電子鍋 $165（67 折 / 原價 $246）",
+          "store": "Amazon US",
+          "highlight": "MEATER 藍牙烤肉探針極輕巧（尖銳金屬探針請放托運行李）；象印微電腦鍋破盤 67 折（電子鍋體積較大且偏重）。",
+          "tags": [
+            "家電居家工具"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Tory Burch 美國官網黑五節日特賣",
+          "price": "精選包款與鞋履 6–7 折起（Kira／Fleming／Ella／Miller 經典款）",
+          "store": "Tory Burch 美國官網",
+          "highlight": "美國原價本就比台灣專櫃甜許多，黑五再下殺 6–7 折，輕奢包與平底鞋送禮自用價差超大。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "BundleHunt 2026 黑五 Mac／Win 買斷軟體自選包開跑",
+          "price": "單套軟體 $1 起（44+ 款任選湊包，最高 0.5 折起）",
+          "store": "BundleHunt 官網",
+          "highlight": "一次買斷免訂閱！含 Mountain Duck、Commander One PRO、Fluent、SwifDoo PDF 等工具；另預告 Indie App Sales 11/27–30 接力開跑。",
+          "tags": [
+            "數位訂閱"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-0300",
       "date": "11/25",
