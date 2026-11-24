@@ -1,8 +1,74 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 06:31",
-  "updated_at_utc": "2026-11-24T22:31:00Z",
+  "updated_at_taipei": "2026/11/25 07:31",
+  "updated_at_utc": "2026-11-24T23:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-0700",
+      "date": "11/25",
+      "time_taipei": "11/25 07:00",
+      "created_at_utc": "2026-11-24T23:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Sennheiser 降噪耳罩大跳水：Accentum Wireless & HDB 630",
+          "price": "Accentum Wireless $84.95–$94.95（約 34–38 折 / 原價 $249.95）／HDB 630 $399.95（省 $100）",
+          "store": "Amazon US",
+          "highlight": "不用台幣 3 千就能入手聲海長續航降噪耳罩，與台灣售價價差驚人（無線耳機含鋰電池建議手提登機）。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "瑞士爆紅跑鞋 On Cloud 代理通路罕見 7 折起",
+          "price": "On Cloudtilt $119（7 折 / 原價 $170）／Cloud 6・Cloudrunner $96–$125（原價 $160）",
+          "store": "Nordstrom / REI / Backcountry",
+          "highlight": "On 官網從不跟進黑五折扣，只能趁 Nordstrom 與戶外通路撿 7 折，極輕量塞行李箱很好帶。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Patagonia 戶外經典款代理黑五破盤（官網不打折）",
+          "price": "Better Sweater 刷毛衣 $83–$96／Houdini 風衣 $96／Windsweep 外套 $119（6 折 / 原價 $199）",
+          "store": "REI / Nordstrom / Backcountry",
+          "highlight": "Patagonia 官網照例不辦黑五，靠 REI／Nordstrom／Backcountry 撿 6–7 折最划算，衣物輕軟極好打包。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "台灣好市多 Day 3（11/25）07:30 剛開門補遺焦點",
+          "price": "TED BAKER 雙人真絲印花床包四件組現省 NT$10,000／日本 A4 和牛紐約客每公斤折 NT$550（限今日）",
+          "store": "台灣好市多（07:30 黑鑽／08:30 一般會員）",
+          "highlight": "補列今日折價最高單品（真絲床包省一萬）；再次提醒 A4 和牛折 $550/kg 僅限 11/25 單日，稍後持續盯現場隱藏特價。",
+          "tags": [
+            "好市多",
+            "家電居家工具"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Humble Choice 2026 年 11 月超強 PC 遊戲月包（至 12/1）",
+          "price": "$14.99 一次永久入手 8 款遊戲",
+          "store": "Humble Bundle",
+          "highlight": "陣容超誇張！內含《The Outer Worlds 2》（兌換至 Battle.net）、《Mafia: The Old Country》+2DLC、《SHINOBI: Art of Vengeance》、《人中之龍 6》等 8 款，不到台幣 500。",
+          "tags": [
+            "遊戲",
+            "數位訂閱"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-0600",
       "date": "11/25",
