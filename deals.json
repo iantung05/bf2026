@@ -1,8 +1,73 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 02:31",
-  "updated_at_utc": "2026-11-24T18:31:00Z",
+  "updated_at_taipei": "2026/11/25 03:31",
+  "updated_at_utc": "2026-11-24T19:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-0300",
+      "date": "11/25",
+      "time_taipei": "11/25 03:00",
+      "created_at_utc": "2026-11-24T19:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Twelve South AirFly Pro 2 機上雙人藍牙發射器再創史低",
+          "price": "$41.99（7 折 / 原價 $59.99）",
+          "store": "Amazon US",
+          "highlight": "較先前報價 $50.99 再砍 $9，可同時配對兩副 AirPods／耳機接飛機娛樂螢幕，超迷你零負重（含小容量鋰電池建議手提登機）。",
+          "tags": [
+            "3C硬體",
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Shark CryoGlow 冰敷抗老／控痘 LED 美容面罩",
+          "price": "$299（Amazon US，原價 $350）／$279（Sam's Club）",
+          "store": "Amazon US / Sam's Club",
+          "highlight": "2026 歐美爆紅 LED 光療面罩搭配眼周瞬涼冰敷片，重量輕巧不佔行李（含內建鋰電池建議手提登機）。",
+          "tags": [
+            "美妝保養"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "UGREEN NASync 4-Bay 高階 NAS（雙 10GbE）",
+          "price": "DXP4800 GT $527.99（72 折 / 省 $202 / 原價 $729.99）／DXP4800 Pro $639.99（8 折）",
+          "store": "Amazon US",
+          "highlight": "之前僅 2-Bay 入門機特價，這波連 AMD Ryzen＋雙 10G 網口旗艦 4-Bay 空機也下殺（體積略大且約 4–5kg，請先確認托運額度）。",
+          "tags": [
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Ralph Lauren & Timberland 美國官網黑五開跑",
+          "price": "Ralph Lauren 結帳自動 7 折（Macy's 精選最高 4 折）／Timberland 經典防水 6 吋靴最高 59 折（$104.99 起）",
+          "store": "Ralph Lauren US / Timberland US / Macy's",
+          "highlight": "Ralph Lauren 官網無需折扣碼至 11/30（衣物輕薄極好塞）；Timberland 經典靴美區差價有感（靴子體積略大）。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "國際兩大飯店集團黑五開搶（全球／日本／台灣訂房通用）",
+          "price": "萬豪 Marriott Bonvoy App 最高 75 折（11/24 剛開跑至 12/1）／IHG 會員最高 7 折（至 12/3）",
+          "store": "Marriott Bonvoy App / IHG 官網",
+          "highlight": "萬豪入住效期拉長至 2027/5/2（網頁訂僅 85 折、務必用 App 訂！）、IHG 適用至 2027/4/30，跨年與明年春節／清明連假可先鎖價。",
+          "tags": [
+            "旅遊機票"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-0200",
       "date": "11/25",
