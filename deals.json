@@ -1,8 +1,73 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/24 19:30",
-  "updated_at_utc": "2026-11-24T11:31:00Z",
+  "updated_at_taipei": "2026/11/24 20:30",
+  "updated_at_utc": "2026-11-24T12:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-24-2000",
+      "date": "11/24",
+      "time_taipei": "11/24 20:00",
+      "created_at_utc": "2026-11-24T12:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Philips Sonicare 電動牙刷 & Panasonic Arc5 五刀頭電鬍刀",
+          "price": "Sonicare 7300 $100（5 折 / 原價 $200）／4100 $29.99 起；Arc5 $129–$179",
+          "store": "Amazon US / Best Buy / Walmart",
+          "highlight": "美國理容小家電黑五價差驚人，DiamondClean 套組亦折 $100；體積小且國際電壓好帶回。",
+          "tags": [
+            "美妝保健穿戴",
+            "家電居家工具"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "專櫃保養美國黑五：雅詩蘭黛／蘭蔻／雪花秀",
+          "price": "小棕瓶 $89（66 折 / 原價 $135）／蘭蔻 7 折／雪花秀 US 全站 8 折",
+          "store": "Amazon US / 品牌美國官網",
+          "highlight": "保養品超輕巧不佔行李空間；官網消費達門檻（如雪花秀）再疊送高單價試用禮盒。",
+          "tags": [
+            "美妝保健穿戴"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Dyson 無線吸塵器 & Bissell Little Green 織物清潔機",
+          "price": "Dyson V15 Detect $599.99（省 $250–$300）／V9 Motorbar $269.99（45 折）／Bissell $94.99（迷你 $79.99）",
+          "store": "Best Buy / Amazon US / Walmart",
+          "highlight": "Best Buy V15 附立架、V9 狂砍破半價；網紅沙發地毯清潔神器 Bissell 同步下殺（體積較大）。",
+          "tags": [
+            "家電居家工具"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "PlayStation Portal 掌機",
+          "price": "約 $179（省 $20 / 原價 $199.99）",
+          "store": "Amazon US / 主流通路",
+          "highlight": "更新支援 PS Plus 高級方案雲端直串遊戲後人氣翻倍，罕見官降，輕薄好帶回。",
+          "tags": [
+            "遊戲"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "DIGITAL",
+          "title": "Starz 串流年費 & NordPass 密碼管理器",
+          "price": "Starz 一整年 $12（$1/月）／NordPass 2 年 45 折（$1.29/月起＋送 3–4 個月）",
+          "store": "Starz / NordPass 官網",
+          "highlight": "Starz 歐美劇一整年不到台幣 400 元；NordPass 同步提供個人長約全年最低價。",
+          "tags": [
+            "訂閱禮品卡"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-24-1900",
       "date": "11/24",
