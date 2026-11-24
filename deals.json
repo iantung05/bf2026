@@ -1,8 +1,63 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 04:31",
-  "updated_at_utc": "2026-11-24T20:31:00Z",
+  "updated_at_taipei": "2026/11/25 05:31",
+  "updated_at_utc": "2026-11-24T21:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-0500",
+      "date": "11/25",
+      "time_taipei": "11/25 05:00",
+      "created_at_utc": "2026-11-24T21:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Amazon Kindle Scribe（64GB 大容量手寫電子紙）",
+          "price": "$389.99（71 折 / 省 $160 / 原價 $549.99）",
+          "store": "Amazon US（至 11/30）",
+          "highlight": "看 PDF 與手寫筆記的頂配 64GB 版直砍 $160，機身輕薄好帶回（含鋰電池須手提登機）。",
+          "tags": [
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "SHARGE 閃極透明賽博風快充＆隨身 SSD 盒黑五",
+          "price": "最高 5 折：ICEMAG 2/3 散熱磁吸行充 $45.90–$63.90／Disk Pro 2 硬碟盒 $73.90 起",
+          "store": "Sharge 美國官網 / Amazon US",
+          "highlight": "極客圈人氣超高的透明風扇散熱磁吸行充與 M.2 擴充盒下殺（行動電源務必手提登機、不可托運）。",
+          "tags": [
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "MOFT 磁吸配件官網 & Hydro Flask 保溫瓶黑五",
+          "price": "MOFT 全站最高 5 折（滿 3 件再 95 折）／Hydro Flask 全站最高 75 折",
+          "store": "MOFT 官網 / Hydro Flask 官網",
+          "highlight": "MOFT 磁吸手機架／筆電保護套／MOVAS 手機殼輕薄不佔行李；Hydro Flask 吸管瓶與保溫杯同步 75 折起。",
+          "tags": [
+            "3C硬體",
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "Green Man Gaming 2026 黑五 Steam 正版序號特賣",
+          "price": "最高 25 折起（多款 2026 新作同步折＋額外 5% 結帳券）",
+          "store": "Green Man Gaming 官網",
+          "highlight": "搶先明天（11/26）Steam 官方黑五頁開跑，正版授權 Steam Key 常比 Steam 直購再省一截。",
+          "tags": [
+            "遊戲",
+            "數位訂閱"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-0400",
       "date": "11/25",
