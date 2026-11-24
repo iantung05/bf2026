@@ -1,8 +1,74 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/24 13:30",
-  "updated_at_utc": "2026-11-24T05:31:00Z",
+  "updated_at_taipei": "2026/11/24 14:30",
+  "updated_at_utc": "2026-11-24T06:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-24-1400",
+      "date": "11/24",
+      "time_taipei": "11/24 14:00",
+      "created_at_utc": "2026-11-24T06:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Bose Ultra Open Earbuds（第 2 代耳夾式開放耳機）",
+          "price": "$249（首度直降 $50 / 原價 $299）",
+          "store": "Amazon US",
+          "highlight": "10 月剛上市的第 2 代首度特價！升級低音單體、9 小時續航與無線充電盒（黑／煙白／櫻桃可可色皆入列），超輕好帶回。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Shark FlexStyle 多功能吹風造型器",
+          "price": "約 $200（現省逾 $100）",
+          "store": "Amazon US / Ulta / 官網",
+          "highlight": "口碑最高的 Dyson Airwrap 平替，價錢不到 Airwrap 一半（約台幣 6,500），美版 120V 台灣可直插使用。",
+          "tags": [
+            "美妝保健穿戴",
+            "家電居家工具"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Allen Edmonds 美國經典手工正裝皮鞋",
+          "price": "精選 $199 起＋Factory Seconds 福利品再額外 8 折",
+          "store": "Allen Edmonds 美國官網",
+          "highlight": "美製固特異縫法經典牛津鞋、樂福鞋與靴款年度大促，疊加福利品額外 8 折 CP 值爆表。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Backcountry 戶外大促 & Ooni 披薩窯烤爐",
+          "price": "Backcountry 最高 5 折／Ooni 全線 8 折（至 11/30）",
+          "store": "Backcountry / Ooni 美國官網",
+          "highlight": "Patagonia 官網不打折、Red Wing 少折扣，Backcountry 是撿這兩家折扣的秘密入口；Ooni 含 Koda 2 Pro 與室內 Volt 2 全線 8 折（烤爐體積較大）。",
+          "tags": [
+            "服飾鞋包戶外",
+            "家電居家工具"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "DIGITAL",
+          "title": "Headspace 冥想助眠 & The Economist 經濟學人黑五",
+          "price": "Headspace 年繳 5 折 $34.99/年（原價 $69.99）／經濟學人 4–5 折",
+          "store": "各官方網站",
+          "highlight": "Headspace 半價連贈禮年卡也適用；經濟學人黑五數位方案年度低點（可再留意現金回饋網導購疊加）。",
+          "tags": [
+            "訂閱禮品卡"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-24-1300",
       "date": "11/24",
