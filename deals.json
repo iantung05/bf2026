@@ -1,8 +1,63 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 01:31",
-  "updated_at_utc": "2026-11-24T17:31:00Z",
+  "updated_at_taipei": "2026/11/25 02:31",
+  "updated_at_utc": "2026-11-24T18:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-0200",
+      "date": "11/25",
+      "time_taipei": "11/25 02:00",
+      "created_at_utc": "2026-11-24T18:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "AMD Ryzen 7 9800X3D 遊戲神級處理器",
+          "price": "$379.99（Micro Center 門市）／$399.99（Amazon US／Newegg 用碼 BFF36，原價 $479）",
+          "store": "Micro Center / Amazon US / Newegg",
+          "highlight": "遊戲效能王罕見破 $400 關卡，盒裝超小超輕零負重，與台灣通路價差非常有感。",
+          "tags": [
+            "3C硬體",
+            "遊戲"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Switch 2 專用 microSD Express 高速記憶卡（讀速 800 MB/s）",
+          "price": "Samsung P9 Express 256GB $44.99（56 折）／512GB $99.99（66 折）；SanDisk 512GB ~$99",
+          "store": "Amazon US",
+          "highlight": "Switch 2 必備的 PCIe NVMe 新世代高速卡黑五首度大降，指甲片大小零重量零空間，有買 Switch 2 必順手帶。",
+          "tags": [
+            "3C硬體",
+            "遊戲"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Bowers & Wilkins 新世代旗艦降噪耳罩：Px7 S3 & Px8 S2",
+          "price": "Px7 S3 $379（79 折 / 省 $100 / 原價 $479）／Px8 S2 $679（85 折 / 省 $120 / 原價 $799）",
+          "store": "Amazon US",
+          "highlight": "之前僅前代 Px7 S2e 特價，這波連新款 Px7 S3 與頂級真皮旗艦 Px8 S2 雙雙開折，與台灣代理價差極大（含鋰電池建議手提登機）。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Vuori 頂級運動休閒服飾黑五清倉區",
+          "price": "指定款最高 5 折（Ponto／Coronado 經典棉褲與上衣指定色下殺）",
+          "store": "Vuori 美國官網 / Nordstrom / Evo",
+          "highlight": "美國爆紅、觸感口碑封神的運動休閒品牌平常極少折扣，衣物輕薄好折完全不佔行李箱空間。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-0100",
       "date": "11/25",
