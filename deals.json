@@ -1,8 +1,83 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/24 21:30",
-  "updated_at_utc": "2026-11-24T13:31:00Z",
+  "updated_at_taipei": "2026/11/24 22:32",
+  "updated_at_utc": "2026-11-24T14:32:00Z",
   "digests": [
+    {
+      "id": "2026-11-24-2200",
+      "date": "11/24",
+      "time_taipei": "11/24 22:00",
+      "created_at_utc": "2026-11-24T14:32:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Apple MacBook Air 15\"（2026 M5 / 16GB / 512GB）再降創史低",
+          "price": "$1,199（8 折 / 省 $300 / 原價 $1,499）",
+          "store": "Amazon US / Best Buy",
+          "highlight": "較先前早鳥價 $1,249 再砍 $50、正式對齊 $300 折扣幅，大螢幕輕薄機型好攜帶（筆電含鋰電池須手提登機）。",
+          "tags": [
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Walmart Switch 2 本家大作 $30 破盤清單擴大",
+          "price": "Donkey Kong Bananza／Kirby Air Riders／瑪利歐銀河 1+2 $30（43 折 / 原價 $70）",
+          "store": "Walmart（庫存跳動快）",
+          "highlight": "原本僅瑪利歐派對 $30，今早擴大至多款 Switch 2 獨佔大作（含數位版）；另《Metroid Prime 4》Switch 2 版 $49、Switch 版 $40，極輕好帶。",
+          "tags": [
+            "遊戲"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "影像裝備黑五新低：GoPro MAX2 8K 360° & Canon EOS RP",
+          "price": "GoPro MAX2 $274–$279.99（55 折 / 原價 $499.99）／Canon EOS RP 全片幅單機 $699（61 折 / 省 $450）",
+          "store": "Amazon US / B&H / Adorama",
+          "highlight": "8K 全景運動相機砍近半價、入門全片幅無反不用台幣 2.3 萬，體積精巧放隨身包輕鬆帶回（電池手提登機）。",
+          "tags": [
+            "相機攝影"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Breville Barista Pro 半自動義式咖啡機",
+          "price": "$564.95（66 折 / 省 $285 / 原價 $849.95）",
+          "store": "Amazon US",
+          "highlight": "內建磨豆機＋3 秒瞬熱 ThermoJet＋LCD 螢幕，比先前 Barista Express 降幅更深、與台灣代理價差破萬（體積較大且重約 10kg，建議先衡量行李額度）。",
+          "tags": [
+            "家電居家工具"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "STUDIO A 2026 黑五特賣會預告（11/27 10:30 發號碼牌）",
+          "price": "SA 認證機 3.1 折起：iPhone 17 Pro Max 256GB NT$30,900 起／Mac mini M4 NT$13,900／Watch S11 NT$9,900",
+          "store": "STUDIO A 全台 7 指定門市",
+          "highlight": "認證機享 180 天保固且師生憑證再打 9 折；另有全新 MBP 14\" M5 Pro (24GB/2TB) NT$88,888（現省逾 2 萬），台北西門／士林等 7 門市限量開搶。",
+          "tags": [
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 6,
+          "market": "Digital",
+          "title": "Crunchyroll 動畫串流官方黑五 4 折起（至 11/30）",
+          "price": "Fan 方案 $3.99/月 x 6 個月（原價 $9.99/月）",
+          "store": "Crunchyroll 官網",
+          "highlight": "Mega Fan 同步降至 $5.99/月、Ultimate Fan $8.99/月，新戶與符合資格的回鍋訂戶皆適用，適合追新番與龐大日漫片庫。",
+          "tags": [
+            "數位訂閱"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-24-2100",
       "date": "11/24",
