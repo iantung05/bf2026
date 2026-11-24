@@ -1,8 +1,74 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/24 23:32",
-  "updated_at_utc": "2026-11-24T15:32:00Z",
+  "updated_at_taipei": "2026/11/25 00:31",
+  "updated_at_utc": "2026-11-24T16:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-0000",
+      "date": "11/25",
+      "time_taipei": "11/25 00:00",
+      "created_at_utc": "2026-11-24T16:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Apple Pencil Pro 觸控筆",
+          "price": "$99（77 折 / 省 $30 / 原價 $129）",
+          "store": "Amazon US / Walmart",
+          "highlight": "旗艦版支援側轉＋捏合＋尋找功能，約台幣 3,200 入手（台灣定價 NT$4,390），極輕零負擔（含小容量鋰電池建議手提登機）。",
+          "tags": [
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Belkin UltraCharge 最新 25W Qi2 折疊快充系列",
+          "price": "2 合 1 折疊座 $43（原價 $60）／Pro 3 合 1 折疊座 $77（原價 $100）／Qi2 15W 磁吸 2 入 $30（6 折）",
+          "store": "Amazon US",
+          "highlight": "新一代 25W Qi2 高速磁吸旅行折疊座直降史低，體積扁平輕巧、出差旅遊收納超省空間。",
+          "tags": [
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Slickdeals 11/24 熱門：LEGO 寶麗來相機 & Onkyo 監聽喇叭",
+          "price": "LEGO Ideas Polaroid SX-70 $45（56 折 / 原價 $80）／Onkyo GX-10DB 主動監聽喇叭 $160（64 折）",
+          "store": "Amazon US / Crutchfield",
+          "highlight": "516 片復古拍立得樂高創史低 $45（盒組不大很好帶）；Onkyo 桌面監聽喇叭砍至 64 折（體積略大）。",
+          "tags": [
+            "精選綜合",
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "蝦皮 11.25 商城狂購節 00:00 即時戰報（PTT 回報）",
+          "price": "全站 $100-50 好搶／碼 SHO25NOV 折 $20／蝦皮直營 65・68 折券回歸",
+          "store": "蝦皮購物",
+          "highlight": "PTT 省錢板回報全站 $1,000-200 秒殺，但 $100-50 好搶、直營 65/68 折券買咖啡豆與日用品超補，換日後 VIP 10 蝦幣記得領。",
+          "tags": [
+            "精選綜合"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "PC 遊戲黑五雙平台開跑（至 12/1）：Ubisoft & Epic",
+          "price": "Ubisoft 最高 15 折＋碼 HOLIDAY20 再 8 折／Epic 豪華版最高 0.5 折",
+          "store": "Ubisoft Store / Epic Games Store",
+          "highlight": "Ubisoft 含《刺客教條：暗影者》、Black Flag Resynced、Anno 117 折上折；Epic 主打終極／豪華版下殺，另緊盯預計今日突襲開跑的 GOG 黑五。",
+          "tags": [
+            "遊戲",
+            "數位訂閱"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-24-2300",
       "date": "11/24",
