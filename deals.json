@@ -1,8 +1,75 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/24 20:30",
-  "updated_at_utc": "2026-11-24T12:31:00Z",
+  "updated_at_taipei": "2026/11/24 21:30",
+  "updated_at_utc": "2026-11-24T13:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-24-2100",
+      "date": "11/24",
+      "time_taipei": "11/24 21:00",
+      "created_at_utc": "2026-11-24T13:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "高階發燒耳機＆音響黑五：Focal／Beyerdynamic／B&O",
+          "price": "Focal Bathys $639（8 折 / 原價 $799）／DT 770・990 Pro $139.99／B&O Explore $224（75 折）",
+          "store": "Amazon US / 專業音響通路",
+          "highlight": "發燒友難得齊降：Focal Bathys MG 同步折 $300 至 $1,199、Sennheiser Momentum 5 降至 $339（原價 $399），與台灣代理價差極大。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Wi-Fi 7 路由器跳水：TP-Link Deco BE63 & ASUS ROG",
+          "price": "Deco BE63 2 入 $279.99／Archer BE700 $199.99／ROG Strix GS-BE12000 $269.97（省 $130）",
+          "store": "Amazon US / Newegg",
+          "highlight": "三頻 Wi-Fi 7＋多組 2.5G 埠一次到位，體積不大放行李箱很好帶回。",
+          "tags": [
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Yale Assure Lock 2 指紋／Wi-Fi 智慧門鎖 & Ubiquiti UniFi 官網特賣",
+          "price": "Yale Assure Lock 2 $174.99（58 折 / 原價 $300）；UniFi Camera AI Pro／G5 Pro 罕見開折",
+          "store": "Best Buy / Amazon US / UniFi 官網",
+          "highlight": "Yale 指紋＋Wi-Fi 門鎖現省 $125（購買前請先確認家中門厚規格）；UniFi 官網極少打折，監控玩家可逛。",
+          "tags": [
+            "家電居家工具",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "PlayStation VR2 官方黑五直降 & JBL Go 5 迷你防水喇叭",
+          "price": "PS VR2 官方直降 $100／JBL Go 5 $39.95（73 折）",
+          "store": "PlayStation / Amazon US / Walmart",
+          "highlight": "PlayStation 2026 官方黑五周邊全面啟動；JBL Go 5 口袋防水小喇叭不到台幣 1,300 超好湊單。",
+          "tags": [
+            "遊戲",
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "US",
+          "title": "Slickdeals 11/24 今早首頁生活小物：Goodyear 工作靴 & Carhartt 牽繩",
+          "price": "Goodyear 戶外高筒靴 $22.49／Carhartt 減震寵物牽繩 $19.54",
+          "store": "Walmart / Amazon US",
+          "highlight": "美國早班通勤剛衝上 Slickdeals 首頁的超高 CP 值日常／毛孩小物，不到 $25 無痛入手。",
+          "tags": [
+            "服飾鞋包戶外",
+            "精選綜合"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-24-2000",
       "date": "11/24",
