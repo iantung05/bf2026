@@ -1,8 +1,74 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/24 17:30",
-  "updated_at_utc": "2026-11-24T09:30:30Z",
+  "updated_at_taipei": "2026/11/24 18:30",
+  "updated_at_utc": "2026-11-24T10:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-24-1800",
+      "date": "11/24",
+      "time_taipei": "11/24 18:00",
+      "created_at_utc": "2026-11-24T10:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "DJI Osmo Action 4 運動相機標準套組",
+          "price": "$179（6 折 / 原價 $299；精簡組最低 $169）",
+          "store": "Amazon US（Best Buy 探險組 $279）",
+          "highlight": "1/1.3 吋大感光元件＋裸機防水運動相機破史低（約台幣 5,800），體積掌心大超好帶回。",
+          "tags": [
+            "攝影影音"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Mejuri 輕珠寶黑五全站特惠",
+          "price": "全站最高 7 折（免碼自動折抵，至 12/1）",
+          "store": "Mejuri 美國官網",
+          "highlight": "北美超人氣 14K 金／純銀日常輕珠寶年度唯一大促，飾品體積最小零行李負擔，自用送禮都超適合。",
+          "tags": [
+            "服飾鞋包戶外",
+            "美妝保健穿戴"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "美國鞋包黑五齊發：Allbirds／Vans／New Balance／Kate Spade Outlet",
+          "price": "Allbirds 最高 3 折／Vans 特價再 6 折／NB 最高 6 折／KS Outlet 最高 3 折再 6–75 折",
+          "store": "各品牌美國官網",
+          "highlight": "全部免折扣碼購物車自動折抵，比台灣專櫃與代購價差大又輕便。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Slickdeals 首頁銅板小物：POLONO 藍牙標籤機 & GoveeLife 溫濕度計 2 入",
+          "price": "標籤機 $9.99（33 折 / 原價 $29.99）／溫濕度計 2 入 $18（7 折）",
+          "store": "Amazon US（Slickdeals 11/24 首頁）",
+          "highlight": "300 台幣出頭買無線熱感應標籤機（免墨水）、收納控與智慧家庭玩家會愛上的超輕量湊單神物。",
+          "tags": [
+            "家電居家工具",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "蝦皮 11.25 商城狂購節今晚先預領神券（明日 00:00 開搶）",
+          "price": "商城 9 折券＋國泰聯名卡滿 $3,000 領券 9 折（最高折 $500）",
+          "store": "蝦皮購物 App",
+          "highlight": "今晚先去主會場預領免運券與商城券、把 3C／品牌正貨放購物車，00:00 準點結帳可疊加賣場券＋站方券＋信用卡回饋（永豐等銀行另有分期滿額千元回饋）。",
+          "tags": [
+            "精選綜合"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-24-1700",
       "date": "11/24",
