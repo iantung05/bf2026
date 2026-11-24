@@ -1,8 +1,86 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 00:31",
-  "updated_at_utc": "2026-11-24T16:31:00Z",
+  "updated_at_taipei": "2026/11/25 01:31",
+  "updated_at_utc": "2026-11-24T17:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-0100",
+      "date": "11/25",
+      "time_taipei": "11/25 01:00",
+      "created_at_utc": "2026-11-24T17:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Apple 全新 OLED iPad mini（A20 Pro / 128GB）首降創史低",
+          "price": "$599（86 折 / 省 $100 / 原價 $699）",
+          "store": "Amazon US",
+          "highlight": "剛上市沒多久的新款 OLED iPad mini（午夜色）首度直降 $100，極輕薄隨身包秒帶回（含鋰電池須手提登機）。",
+          "tags": [
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "JBL Tour One M3 旗艦降噪耳罩（含 Smart Tx 發射器）破盤",
+          "price": "$149.95（33 折 / 狂省 $300 / 原價 $449.95）",
+          "store": "Amazon US / Best Buy",
+          "highlight": "旗艦降噪耳機直接砍掉三分之二價格，附 Smart Tx 螢幕發射器可直插機上娛樂系統或 USB-C 無損連線（含鋰電池建議手提登機）。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Nordstrom 高價沙龍香罕見 85 折：Le Labo／Tom Ford／Byredo／Creed",
+          "price": "全面 85 折（15% off，另含 Parfums de Marly）",
+          "store": "Nordstrom US",
+          "highlight": "台灣專櫃幾乎不打折的精品香氛，美區定價本就較甜再疊 85 折，送禮自用極划算（液體單瓶逾 100ml 或多瓶請放托運行李）。",
+          "tags": [
+            "美妝保養"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Google Pixel Watch 5 & Sonos Era 300 空間音訊喇叭",
+          "price": "Pixel Watch 5 $300–$326／Sonos Era 300 $399（8 折 / 省 $100 / 原價 $499）",
+          "store": "Amazon US / Best Buy",
+          "highlight": "Pixel Watch 5 創黑五新低（極輕好帶，含鋰電池須手提登機）；Sonos Era 300 支援 Dolby Atmos 罕見省 $100（體積略大且偏重）。",
+          "tags": [
+            "3C硬體",
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "US",
+          "title": "小物湊單神價：Anker Nano 45W/60W 動態快充 & Tapo Matter 插座",
+          "price": "Anker Nano 45W/60W $16（史低）／Tapo Matter 迷你智慧插座 $7.99（4 折 / 原價 $19.99）",
+          "store": "Amazon US",
+          "highlight": "不到台幣 550 入手 Anker 新款動態螢幕快充頭、$8 收支援 Apple Home/Matter 插座，超輕小塞行李零負擔。",
+          "tags": [
+            "3C硬體",
+            "家電居家工具"
+          ]
+        },
+        {
+          "num": 6,
+          "market": "TW",
+          "title": "PTT 省錢板爆推神單：三星 Odyssey OLED G5 27 吋 2K 180Hz 螢幕",
+          "price": "疊券低至 NT$7,756（常態價 NT$9,900–$11,900）",
+          "store": "蝦皮商城（三星旗艦／直營）",
+          "highlight": "11.25 商城日特價 $8,990 疊蝦皮直營 95 折＋商城 94 折＋銀行分期折抵，不到台幣 8 千無痛升級 27\" 2K 真霧面 QD-OLED！",
+          "tags": [
+            "3C硬體",
+            "遊戲"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-0000",
       "date": "11/25",
