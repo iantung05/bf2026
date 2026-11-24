@@ -1,8 +1,75 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 05:31",
-  "updated_at_utc": "2026-11-24T21:31:00Z",
+  "updated_at_taipei": "2026/11/25 06:31",
+  "updated_at_utc": "2026-11-24T22:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-0600",
+      "date": "11/25",
+      "time_taipei": "11/25 06:00",
+      "created_at_utc": "2026-11-24T22:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "單車／公路車迷黑五：Garmin Edge 車錶 & Wahoo & Rapha",
+          "price": "Edge 1050 $599.98（省 $100）／Edge 850 $499.98／Wahoo Bolt $279.99（8 折）／Rapha Archive 最高 5 折",
+          "store": "Amazon US / Wahoo / Rapha 官網",
+          "highlight": "Garmin 旗艦車錶與 Wahoo 碼錶同步開折（超輕好帶，含鋰電池須手提登機）；Rapha Gore-Tex 雨衣降至 $255（6 折）。",
+          "tags": [
+            "服飾鞋包戶外",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "桌遊＆星戰樂高對折：卡坦島 6 版／花磚／璀璨寶石／強哥費特頭盔",
+          "price": "Catan 第 6 版 $24.99（5 折）／Azul・Splendor $22.49（56 折）／LEGO Jango Fett 頭盔 $35（5 折）",
+          "store": "Amazon US / Walmart",
+          "highlight": "多款不吃英文的經典聚會桌遊與星戰頭盔樂高集體對折下殺，盒裝平放托運行李箱很好帶。",
+          "tags": [
+            "遊戲",
+            "精選綜合"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "輕奢防護＆法系服飾黑五：Pitaka 芳綸殼 & Maje／Sandro",
+          "price": "Pitaka 最高 6 折（碼 PKBF10 精選再折）／Maje・Sandro 美國官網秋冬款全面 7 折",
+          "store": "Pitaka / Amazon US / Maje / Sandro",
+          "highlight": "Pitaka 超薄芳綸保護殼與 iPad 套極輕零負擔；法系女裝 Maje／Sandro 美區 7 折與台灣百貨價差大。",
+          "tags": [
+            "3C硬體",
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Sephora 11/25 每日輪動 7 折預告（台北約 16:00 切換）",
+          "price": "Lancôme／Viktor&Rolf／Living Proof／Eilish 香水全面 7 折",
+          "store": "Sephora US",
+          "highlight": "美西 11/25 00:00 接棒開跑，Viktor&Rolf 花炸彈香水與 Living Proof 護髮罕見 7 折（液體逾 100ml 請放托運行李）。",
+          "tags": [
+            "美妝保養"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "11/25 超商咖啡黑五寄杯＆買一送一整理（上班族必收）",
+          "price": "7-11 大美式／拿鐵 14 杯 NT$520（$37/杯）／全家大單品買一送一（11/25 最後一天）／萊爾富特大杯買一送一",
+          "store": "7-11 APP / 全家 APP / 萊爾富門市",
+          "highlight": "全家 APP「優惠趣」領券大單品美式／拿鐵買一送一只到今天 11/25；7-11 黑五 520 組合至 11/30；萊爾富特大特濃現場買一送一至 12/8。",
+          "tags": [
+            "精選綜合"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-0500",
       "date": "11/25",
