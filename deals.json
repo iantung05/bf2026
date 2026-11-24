@@ -1,8 +1,63 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/24 15:30",
-  "updated_at_utc": "2026-11-24T07:31:00Z",
+  "updated_at_taipei": "2026/11/24 16:30",
+  "updated_at_utc": "2026-11-24T08:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-24-1600",
+      "date": "11/24",
+      "time_taipei": "11/24 16:00",
+      "created_at_utc": "2026-11-24T08:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Sonos Ace 旗艦降噪耳罩 & Roam 2／Move 2 便攜喇叭",
+          "price": "Sonos Ace $229（66 折 / 省 $120 / 原價 $349）／Roam 2 $139（省 $40）／Move 2 $399（省 $100）",
+          "store": "Amazon US / Sonos 官網（至 11/30）",
+          "highlight": "旗艦耳罩 Sonos Ace 狂砍破 $230 創史低，迷你防水喇叭 Roam 2 只要 $139，兩款都輕便好請朋友帶回。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Woot 11/24 快閃：Apple 專區碼 APPLETEN 再 9 折 & Helly Hansen 外套",
+          "price": "Apple／周邊額外 9 折；Helly Hansen 防水夾克低至 $59（最高 29 折）",
+          "store": "Woot（Prime 免運）",
+          "highlight": "Slickdeals／DealNews 今日限定快閃，挪威頂級防水機能外套 $59 入手超誇張（APPLETEN 至美國 11/24 深夜截止）。",
+          "tags": [
+            "Apple",
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "LEGO 官網 11/27–29 黑五雙滿額贈＋哥吉拉新品預告",
+          "price": "滿 $170 送 40918 冬季水晶球／滿 $250 疊送 40914 復古點唱機",
+          "store": "LEGO 美國官網（11/27 開跑）",
+          "highlight": "11/27 同步開賣話題新作 21375 哥吉拉，達 $250 可一次拿兩組黑五限定 GWP（大盒組請留意行李體積）。",
+          "tags": [
+            "精選綜合"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "台灣好市多黑五 Day 3（11/25 明日清單剛曝光！）",
+          "price": "HP 16\" AI 筆電省 $7,700／ACER 電動滑板車省 $6,000／三星 65\" MiniLED 省 $5,900／日本 A4 和牛省 $550/kg",
+          "store": "台灣好市多賣場（明日黑鑽 07:30、金星 08:30）",
+          "highlight": "16:00 剛公布完整第三波：另含 KOHLER 瞬熱免治馬桶座省 $2,200、Samsonite 22+29 吋行李箱二入組省 $1,200、SteelSeries Arctis Nova Pro X 省 $1,100、ROG Harpe Ace Mini 滑鼠省 $700、ASUS ProArt 滑鼠省 $590、140W GaN 組省 $400、李施德霖漱口水省 $230！",
+          "tags": [
+            "家電居家工具",
+            "3C硬體"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-24-1500",
       "date": "11/24",
