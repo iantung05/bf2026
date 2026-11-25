@@ -1,8 +1,62 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 11:31",
-  "updated_at_utc": "2026-11-25T03:31:00Z",
+  "updated_at_taipei": "2026/11/25 12:31",
+  "updated_at_utc": "2026-11-25T04:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-1200",
+      "date": "11/25",
+      "time_taipei": "11/25 12:00",
+      "created_at_utc": "2026-11-25T04:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "SKIMS 美國官網黑五：全站自動 7 折＋特價區再 7 折",
+          "price": "結帳自動 7 折（至 12/2，特價區折上折約 49 折起）",
+          "store": "SKIMS 官網 / App",
+          "highlight": "人氣塑身衣與居家睡衣連新品與聯名都進全站 7 折，衣物極輕超省行李空間、台灣代購價差大。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "智慧居家小物破盤：Eufy 監視器 & Google Nest 溫控器",
+          "price": "Eufy 室內攝影機 $15.99–$19.99 起／Google Nest Thermostat $79（61 折 / 原價 $130）",
+          "store": "Amazon US",
+          "highlight": "不到台幣 650 收免月費本地錄影的 Eufy 監視器，小巧零負擔；另 Target Circle 360 新一波搶先黑五今日台北 16:00 啟動。",
+          "tags": [
+            "家電居家工具",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "TW",
+          "title": "蝦皮黑五專區今日（11/25）正式開跑：VIP 滿千折 $250",
+          "price": "蝦皮 VIP 滿 NT$1,000 現折 NT$250（75 折）＋品牌旗艦限時券",
+          "store": "蝦皮購物",
+          "highlight": "配合今日 11.25 商城日同步啟動黑五專區，有訂閱蝦皮 VIP 記得搶這張 75 折神券。",
+          "tags": [
+            "精選綜合"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "Mac 虛擬機＆外媒黑五：Parallels Desktop 5 折起 & 華爾街日報 $1",
+          "price": "Parallels 首年碼 PD50：Standard $44.99–$49.99／Pro $53.99；WSJ $1 看 2 個月",
+          "store": "Parallels 官網 / WSJ 官網",
+          "highlight": "Apple Silicon Mac 跑 Windows 必備神器一年一度對折（Pro 原價 $119.99）；華爾街日報 $1 試讀兩個月。",
+          "tags": [
+            "數位訂閱"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-1100",
       "date": "11/25",
