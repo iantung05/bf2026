@@ -1,8 +1,63 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 10:31",
-  "updated_at_utc": "2026-11-25T02:31:00Z",
+  "updated_at_taipei": "2026/11/25 11:31",
+  "updated_at_utc": "2026-11-25T03:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-1100",
+      "date": "11/25",
+      "time_taipei": "11/25 11:00",
+      "created_at_utc": "2026-11-25T03:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "機能／攝影神包美區黑五：Nomatic & Wandrd & Timbuk2",
+          "price": "Nomatic 最高 6 折（碼 SAYCHEESE 75 折）／Wandrd 全站 8 折＋滿 $200 送 X1 包／Timbuk2 75 折",
+          "store": "各品牌美國官網",
+          "highlight": "硬派機能與攝影背包難得開折，買來剛好讓朋友裝其他戰利品直接背回台。",
+          "tags": [
+            "服飾鞋包戶外",
+            "相機攝影"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Filson 美式硬派工裝黑五開跑",
+          "price": "精選全面 75 折／清倉外套最高 5 折（Spokane Insulated Cruiser $224.50，原價 $449）",
+          "store": "Filson 美國官網",
+          "highlight": "百年美式戶外帆布包與羊毛外套罕見全線折扣，與台灣選物店價差極大。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Klipsch The Three Plus 復古木質桌上藍牙音響",
+          "price": "$199.99–$229.99（約 67 折起 / 原價 $299–$399）",
+          "store": "Best Buy / Target / Amazon US",
+          "highlight": "胡桃木＋金屬旋鈕高顏值復古喇叭，支援光纖／USB-C／黑膠輸入（體積略大且約 4.8kg，建議確認托運額度）。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "台灣好市多 Day 3（11/25）現場實價＆隱藏版直擊",
+          "price": "HP 16\" AI 筆電 NT$30,699／隱藏版 ROG SpeedNova 耳機 NT$3,899／140W GaN 套裝 NT$999",
+          "store": "台灣好市多實體賣場",
+          "highlight": "實價全面曝光：SteelSeries Nova Pro X $4,399、ROG Harpe Ace Mini $2,399、ProArt 鼠 $2,189、李施德霖漱口水組 $549、M2R 安全帽 $1,399、隱藏版 Olay 膠原精華 $989（每卡每項限購 1 件）。",
+          "tags": [
+            "好市多",
+            "3C硬體"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-1000",
       "date": "11/25",
