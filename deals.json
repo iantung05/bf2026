@@ -1,8 +1,76 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 05:31",
-  "updated_at_utc": "2026-11-25T21:31:30Z",
+  "updated_at_taipei": "2026/11/26 06:31",
+  "updated_at_utc": "2026-11-25T22:31:30Z",
   "digests": [
+    {
+      "id": "2026-11-26-0600",
+      "date": "11/26",
+      "time_taipei": "11/26 06:00",
+      "created_at_utc": "2026-11-25T22:31:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Bose SoundLink Max 旗艦便攜喇叭追平史低",
+          "price": "$279（7 折 / 省 $120 / 原價 $399）",
+          "store": "Amazon US / Best Buy",
+          "highlight": "Bose 隨身喇叭旗艦款直殺史低，低音澎湃配防水提把，露營聚會神器（體積略重，含鋰電池須手提登機）。",
+          "tags": [
+            "影音耳機",
+            "運動戶外"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "美規旗艦電視盒破盤：Fire TV Cube＆Roku Ultra",
+          "price": "Fire TV Cube $89.99（45 折 / 原價 $199.99）／Roku Ultra $88–$89.99（6 折）／Stick 4K Plus $29.99",
+          "store": "Amazon US / Best Buy",
+          "highlight": "輕巧不佔行李空間！Fire TV Cube 直接砍至 45 折，老電視輕鬆升級流暢 4K 串流。",
+          "tags": [
+            "3C硬體",
+            "影音串流"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "機能包＆防漏杯黑五：Dagne Dover／BrüMate／Corkcicle",
+          "price": "Dagne Dover 全站 7 折／BrüMate 碼 GIFT25 75 折／Corkcicle 全站 75 折、清倉 5 折起",
+          "store": "各品牌美國官網",
+          "highlight": "歐美超夯潛水布 Dakota 後背包／媽媽包與防漏吸管杯年度低價，台灣代購價差明顯。",
+          "tags": [
+            "服飾鞋包",
+            "生活選物"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "新光三越台北站前店週年慶今日（11/26）壓軸開跑",
+          "price": "全館滿 $5,000 送 5,000 點／化妝品滿 $2,000 送 2,000 點／大家電・iStore 滿萬送萬點",
+          "store": "新光三越台北站前店",
+          "highlight": "年度百貨壓軸！APP 扣 30 點換 $300 電子券，首七日行李箱＆冬被買一送一，廣場有 3 米巨型卡比獸打卡點。",
+          "tags": [
+            "精選綜合",
+            "美妝保養"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "感恩節今日（11/26）買一送一：萊爾富買 11 送 11＆繼光香香雞",
+          "price": "萊爾富 APP 大杯特濃美式／拿鐵／台茶 18 歐蕾「買 11 送 11」；繼光香香雞買 XL 炸雞送 L 券",
+          "store": "萊爾富 APP（11/26–28）/ 繼光香香雞（11/26–29）",
+          "highlight": "萊爾富可跨店寄杯至明年 2 月底；繼光香香雞再享 $53 加購墨魚甜不辣（另今日 11:00 星巴克＆CoCo 買一送一別錯過！）。",
+          "tags": [
+            "美食飲品"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-0500",
       "date": "11/26",
