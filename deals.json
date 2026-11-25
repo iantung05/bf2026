@@ -1,8 +1,76 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 00:31",
-  "updated_at_utc": "2026-11-25T16:31:30Z",
+  "updated_at_taipei": "2026/11/26 01:31",
+  "updated_at_utc": "2026-11-25T17:31:30Z",
   "digests": [
+    {
+      "id": "2026-11-26-0100",
+      "date": "11/26",
+      "time_taipei": "11/26 01:00",
+      "created_at_utc": "2026-11-25T17:31:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Garmin Venu X1 狂省 $300＆Forerunner 570／970 黑五直降",
+          "price": "Venu X1 $499.99（62 折 / 原價 $799.99）／Forerunner 570 $449.99（省 $100）／970 $649.99（省 $100）",
+          "store": "Amazon US / Best Buy",
+          "highlight": "超薄話題方錶 Venu X1 直接砍 $300，新一代跑錶 570／970 同步大降，錶盒輕巧超適合帶回（含鋰電池建議手提登機）。",
+          "tags": [
+            "穿戴裝置",
+            "運動戶外"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "EDC 質感包袋＆隨身裝備黑五：Alpaka／Matador／Orbitkey／Olight",
+          "price": "Alpaka 最高 45 折（至 11/30）／Matador 7 折／Orbitkey 最高 75 折＋盲盒 6 折起／Olight 最高 5 折",
+          "store": "各品牌美國官網",
+          "highlight": "機能與旅行收納控天堂！Alpaka 斜背包、Matador 折疊包與 Olight Oclip 2 Pro（$39.99）都超輕好塞行李箱。",
+          "tags": [
+            "服飾鞋包",
+            "旅遊機票"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Soundcore 旗艦耳機黑五史低：Space One Pro＆Sleep A30",
+          "price": "Space One Pro $113.99（57 折 / 原價 $199.99）／Sleep A30 助眠耳塞 $150（省 $80）／Liberty 5 $75.99",
+          "store": "Amazon US / Soundcore 官網（至 11/30）",
+          "highlight": "長途飛行降噪與淺眠側睡神器！不到台幣 3,700 帶走高階折疊耳罩（含鋰電池建議手提登機）。",
+          "tags": [
+            "影音耳機",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Converse Cyber Week 7 折＆GOLF le FLEUR 聯名 6 折起",
+          "price": "精選自動 7 折；Tyler, The Creator 聯名 Chuck 70／1908 6 折起（$57–$78）；Shai 001 約 $60（43 折）",
+          "store": "Converse US 官網（至 12/2）",
+          "highlight": "人氣聯名檔案庫補貨直降 6 折，鞋款拆盒請朋友帶回輕鬆省下台灣代購價差。",
+          "tags": [
+            "服飾鞋包"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "出國必囤 eSIM ＆影迷串流黑五：Airalo／Ubigi／Criterion",
+          "price": "Airalo 不限流量 75 折（碼 BLACK25 / 全方案 BFDREW25）／Ubigi 8 折（碼 BLACKFRIDAY）／Criterion 年費 $74.99（碼 BF2026）",
+          "store": "Airalo / Ubigi / Criterion Channel 官網",
+          "highlight": "跨年／寒假／春節飛日本歐美先囤 eSIM 省漫遊費（Airalo 至 11/30）；影迷殿堂 Criterion 難得開出年費 75 折。",
+          "tags": [
+            "旅遊機票",
+            "數位訂閱"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-0000",
       "date": "11/26",
