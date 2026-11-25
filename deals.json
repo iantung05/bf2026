@@ -1,8 +1,76 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 23:31",
-  "updated_at_utc": "2026-11-25T15:31:30Z",
+  "updated_at_taipei": "2026/11/26 00:31",
+  "updated_at_utc": "2026-11-25T16:31:30Z",
   "digests": [
+    {
+      "id": "2026-11-26-0000",
+      "date": "11/26",
+      "time_taipei": "11/26 00:00",
+      "created_at_utc": "2026-11-25T16:31:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Medicube Booster Pro X2 爆紅美容儀美亞半價破盤",
+          "price": "Booster Pro X2 $149（最高 5 折 / 原價 $249–$299）；Ulta 經典款 $176；棉片／凍膜 $13",
+          "store": "Amazon US / Ulta / Medicube US",
+          "highlight": "社群洗版韓系美容導入儀！升級版下殺不到台幣 4,900，輕巧超好請朋友帶回（含鋰電池建議手提登機）。",
+          "tags": [
+            "美妝保養",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Clinique 倩碧 7 折＋$69 聖誕大禮盒＆Laneige 蘭芝 7 折",
+          "price": "倩碧全站 7 折＋碼 ICONS $69 換價值 $293 禮盒；蘭芝滿 $80 7 折、晚安唇膜 $18.75",
+          "store": "品牌美國官網 / Amazon US",
+          "highlight": "倩碧年度必搶超值聖誕組回歸、蘭芝人氣唇膜直降 75 折（超過 100ml 液體保養品記得放托運行李）。",
+          "tags": [
+            "美妝保養"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Anthropologie 黑五 7 折＋特賣區折上再 6 折",
+          "price": "精選服飾／飾品／香氛／居家 7 折，特賣區結帳再 6 折",
+          "store": "Anthropologie US 官網",
+          "highlight": "歐美質感選物、毛衣洋裝與人氣香氛蠟燭年度最深折扣（免費加入 AnthroPerks 即可享優惠）。",
+          "tags": [
+            "服飾鞋包",
+            "生活選物"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "高速 SSD 抗漲精選：Lexar NM790 2TB＆Samsung T9",
+          "price": "Lexar NM790 2TB $319–$329（73 折）／NM1090 Pro Gen5 1TB $229；Samsung T9 1TB $254–$259",
+          "store": "Amazon US / B&H / Best Buy",
+          "highlight": "今年受記憶體漲價潮影響 SSD 折扣稀少，這幾款高速內／外接碟難得直降，體積如卡片不佔行李空間。",
+          "tags": [
+            "3C硬體",
+            "儲存裝置"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "台灣好市多 11/27 黑五當日線上限定：滿 NT$8,800 折 $880",
+          "price": "單筆滿 NT$8,800 現折 $880（再 9 折，可疊加線上逾 200 款特價品）",
+          "store": "台灣好市多線上購物（限 11/27 週五）",
+          "highlight": "提前一天預告！明天線上免排隊折上折；另提醒今天（11/26）07:30 實體 Day 4 開跑、今晚 23:00 日亞黑五先行特賣開搶。",
+          "tags": [
+            "好市多",
+            "精選綜合"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-2300",
       "date": "11/25",
