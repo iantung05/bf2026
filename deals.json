@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 04:31",
-  "updated_at_utc": "2026-11-25T20:31:30Z",
+  "updated_at_taipei": "2026/11/26 05:31",
+  "updated_at_utc": "2026-11-25T21:31:30Z",
   "digests": [
+    {
+      "id": "2026-11-26-0500",
+      "date": "11/26",
+      "time_taipei": "11/26 05:00",
+      "created_at_utc": "2026-11-25T21:31:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "SteelSeries Apex Pro 磁軸電競鍵盤最高 5 折",
+          "price": "Mini Wireless $119.99（5 折 / 原價 $239.99）／Apex Pro Gen 3 $194.99／TKL Gen 3 $167 起",
+          "store": "Amazon US / Best Buy",
+          "highlight": "競技 FPS 必備可調觸發磁軸鍵盤！60% 無線版半價破盤超好塞行李（無線款含鋰電池建議手提登機）。",
+          "tags": [
+            "遊戲電玩",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Focusrite Scarlett 第 4 代錄音介面黑五直降",
+          "price": "Solo $129（省 $30）／2i2 $189（省 $35）／18i20 $649（省 $120）",
+          "store": "Sweetwater / Amazon US",
+          "highlight": "Podcast、宅錄與直播圈公認經典紅盒子，2i2 體積輕巧好帶回、美國入手省下明顯代理價差。",
+          "tags": [
+            "影音耳機",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "聖誕送禮清單：NARS／Armani／YSL＆Pandora／Swarovski",
+          "price": "NARS 碼 CYBER 7 折／Armani 最高 7 折／YSL 75–8 折；Pandora 最高 5 折／Swarovski 6–7 折再疊 8–9 折",
+          "store": "各品牌美國官網",
+          "highlight": "輕巧零負擔送禮首選！飾品與精品彩妝美國黑五價差驚人（大瓶香水／液體記得放托運行李）。",
+          "tags": [
+            "美妝保養",
+            "服飾鞋包"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Coravin 紅酒取酒器 5 折起＆Puma 4 折起（含 Speedcat）",
+          "price": "Coravin 最高 5 折／Puma 全站最高 4 折／Timex 碼 BLACKFRIDAY30 全站 7 折",
+          "store": "各品牌美國官網",
+          "highlight": "品酒神物 Coravin 不拔軟木塞即可單杯取酒（註：氬氣瓶屬壓縮氣體切勿帶上飛機，建議單買主機回台買氣瓶！）。",
+          "tags": [
+            "生活選物",
+            "服飾鞋包"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "工程師／資料科學進修＆西洋棋黑五（最高 15 折）",
+          "price": "DataCamp $132/年（4 折）／Codecademy 碼 BF2026 4 折／Udemy $9.99 起／Chess.com 5 折",
+          "store": "各品牌官網",
+          "highlight": "趁年底進修 AI、Python、資料分析或西洋棋的年度最低點（Codecademy 至 11/28、DataCamp 至 12/3，Brilliant 同步 7 折）。",
+          "tags": [
+            "數位訂閱",
+            "軟體工具"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-0400",
       "date": "11/26",
