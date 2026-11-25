@@ -1,8 +1,63 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 02:31",
-  "updated_at_utc": "2026-11-25T18:31:30Z",
+  "updated_at_taipei": "2026/11/26 03:31",
+  "updated_at_utc": "2026-11-25T19:31:30Z",
   "digests": [
+    {
+      "id": "2026-11-26-0300",
+      "date": "11/26",
+      "time_taipei": "11/26 03:00",
+      "created_at_utc": "2026-11-25T19:31:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "全片幅無反大降：Nikon Z6 III 狂省 $700＆Lumix S5 II 省 $400",
+          "price": "Nikon Z6 III $1,996.95（74 折 / 原價 $2,696.95）／Lumix S5 II $1,597.99（含 20-60mm $1,797.99）",
+          "store": "B&H Photo / Amazon US",
+          "highlight": "Z6 III 首破 $2,000 大關、S5 II 錄影神機現省 $400，SmallRig 兔籠與燈具同步最高 6 折（含鋰電池建議手提登機）。",
+          "tags": [
+            "相機攝影",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "電競旗艦周邊：Razer Viper V3 Pro 破百＆Corsair 整合 Stream Deck 鍵盤",
+          "price": "Viper V3 Pro $99.99（63 折 / 原價 $159.99）／Corsair Galleon 100 SD $259.99–$299.99／PRO X 2 耳麥 $189.99",
+          "store": "Amazon US / Best Buy",
+          "highlight": "職業選手最愛超輕量滑鼠 Viper V3 Pro 下殺破百美元，內建 Stream Deck 螢幕的 Corsair 新旗艦鍵盤同步首降（含鋰電池建議手提登機）。",
+          "tags": [
+            "遊戲電玩",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "歐美輕奢精品包黑五：Strathberry／STAUD／Cuyana／Marc Jacobs",
+          "price": "Strathberry 全站 75 折／STAUD 全站 7 折／Cuyana 包款最高 7 折／Marc Jacobs 最高 5 折",
+          "store": "各品牌美國官網",
+          "highlight": "Mosaic／Kite Hobo／The Tote Bag 等高討論度包款齊下殺，美國買省下大幅代購價差（註：Polène 官方不打折）。",
+          "tags": [
+            "服飾鞋包"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "歐美乾淨美妝黑馬：Tower 28 72 折＆Kosas 75 折",
+          "price": "Tower 28 全站 72 折（指定品最高 6 折）／Kosas 全站 75 折＋滿 $80 送正貨（至 12/1）",
+          "store": "美國品牌官網",
+          "highlight": "Sephora 暢銷榜常客（SOS 舒緩噴霧、Swipe 遮瑕液），官網折扣比通路更深且輕巧好帶（超過 100ml 放托運）。",
+          "tags": [
+            "美妝保養"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-0200",
       "date": "11/26",
