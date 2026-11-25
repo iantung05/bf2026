@@ -1,8 +1,63 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 12:31",
-  "updated_at_utc": "2026-11-25T04:31:00Z",
+  "updated_at_taipei": "2026/11/25 13:31",
+  "updated_at_utc": "2026-11-25T05:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-1300",
+      "date": "11/25",
+      "time_taipei": "11/25 13:00",
+      "created_at_utc": "2026-11-25T05:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Garmin 旗艦＆入門跑錶美區黑五實價",
+          "price": "fēnix 8 系列 $749.99–$849.99（最高省 $250）／Forerunner 165 $191（76 折）",
+          "store": "Best Buy / Amazon US",
+          "highlight": "旗艦 fēnix 8 美金實價最高現省台幣 8 千、入門跑錶不用台幣 6,200，極輕好帶（含鋰電池須手提登機）。",
+          "tags": [
+            "3C硬體",
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Ulta Beauty 美國美妝黑五正檔開跑",
+          "price": "最高 5 折；MAC／Anastasia Beverly Hills／Touchland／CÉCRED 7 折（App 點數 5 倍）",
+          "store": "Ulta US / App",
+          "highlight": "美國必買美妝通路正檔上線，Touchland 乾洗手與 MAC 彩妝輕巧好帶（液體噴霧類請放托運行李）。",
+          "tags": [
+            "美妝保養"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "網紅保溫杯美亞殺價：Stanley 40oz 對折 & YETI Rambler 7 折",
+          "price": "Stanley Quencher H2.0 40oz $22.50（5 折 / 原價 $45）／YETI Rambler 20oz $24.50・40oz $33.60（7 折）",
+          "store": "Amazon US",
+          "highlight": "人氣吸管杯與 YETI 磁吸杯指定色下殺至對折～7 折，自用送禮超划算（杯體略佔空間，可內塞衣物小物）。",
+          "tags": [
+            "家電居家工具",
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "CoCo 都可感恩節限定（11/25–11/26）：日焙珍珠奶茶買一送一",
+          "price": "2 杯 NT$65（平均一杯 NT$32.5）",
+          "store": "CoCo 官方 LINE / 都可訂",
+          "highlight": "限今明兩天！下午茶直接省一半；foodpanda 外送同步推日式焙茶／日焙珍奶等 4 款買一送一至 12/30。",
+          "tags": [
+            "精選綜合"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-1200",
       "date": "11/25",
