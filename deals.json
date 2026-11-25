@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 16:31",
-  "updated_at_utc": "2026-11-25T08:31:00Z",
+  "updated_at_taipei": "2026/11/25 17:33",
+  "updated_at_utc": "2026-11-25T09:33:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-1700",
+      "date": "11/25",
+      "time_taipei": "11/25 17:00",
+      "created_at_utc": "2026-11-25T09:33:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Dell XPS 13 羽量筆電史低（Core 5 320 / 13.4\" QHD+ 觸控）",
+          "price": "$549.99（73 折 / 省 $200 / 原價 $749.99）",
+          "store": "Dell US 官網",
+          "highlight": "僅 1kg 鋁合金旗艦機殼配 2560×1600 觸控螢幕（8GB RAM / 256GB SSD），輕便文書追劇機神價（含鋰電池須手提登機）。",
+          "tags": [
+            "3C硬體",
+            "筆電"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "XREAL AR 智慧眼鏡黑五全線直降（至 11/30）",
+          "price": "One $399（省 $100）／One Pro $499（省 $100）／1S $379（省 $70）／Aura $1,099（省 $180）",
+          "store": "XREAL US / Amazon US",
+          "highlight": "體積如一般墨鏡超好請朋友帶回！接手機／筆電／掌機秒變隨身百吋巨幕，含新款 One Pro 與 1S 全線破盤。",
+          "tags": [
+            "3C硬體",
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "8BitDo 八位堂復古手把＆機械鍵盤黑五",
+          "price": "Ultimate 2C ~$19.89–$23.99／SN30 Pro ~$33／Retro 87 機械鍵盤 $79.99–$95.99",
+          "store": "Amazon US / 8BitDo 官網",
+          "highlight": "全線最高省 $60，質感與手感口碑極佳；輕巧好塞行李箱，PC／Switch／手機多平台通吃。",
+          "tags": [
+            "遊戲電玩",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "MUJI 無印良品週間（11/27–12/7）＆ IKEA 年終快閃購（至 11/30）",
+          "price": "MUJI 會員全品項 9 折／IKEA 卡友門市千項指定家飾現貨 9 折",
+          "store": "台灣 MUJI 門市＆官網 / IKEA 實體門市",
+          "highlight": "台灣年末居家採買雙檔期：MUJI 週五開跑（含台灣限定空間芬香油、羽絨服飾）；IKEA 收納／燈具／寢具／鍋具現貨 9 折至月底。",
+          "tags": [
+            "家電居家工具",
+            "服飾鞋包"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "NVIDIA GeForce NOW 雲端遊戲半年方案 7 折（至 11/30）",
+          "price": "Ultimate（RTX 5080 級）半年 $69.99（原價 $99.99）／Performance $34.99（原價 $49.99）",
+          "store": "NVIDIA GeForce NOW 官網",
+          "highlight": "適用新戶與符合資格升級，支援 Steam／Xbox／GOG 遊戲庫，用輕薄筆電或 Mac 也能遠端高畫質暢玩 3A 大作。",
+          "tags": [
+            "數位訂閱",
+            "遊戲電玩"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-1600",
       "date": "11/25",
