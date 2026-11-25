@@ -1,8 +1,62 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 14:31",
-  "updated_at_utc": "2026-11-25T06:31:00Z",
+  "updated_at_taipei": "2026/11/25 15:31",
+  "updated_at_utc": "2026-11-25T07:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-1500",
+      "date": "11/25",
+      "time_taipei": "11/25 15:00",
+      "created_at_utc": "2026-11-25T07:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "人氣歐美美妝三強黑五：Charlotte Tilbury／Tatcha／Summer Fridays",
+          "price": "CT 全站 75 折＋禮盒最高 5 折／Tatcha 碼 CYBER26 75 折＋滿額禮／Summer Fridays 碼 CYBER 8 折",
+          "store": "各品牌美國官網",
+          "highlight": "台灣難買或代購偏貴的三大熱門彩妝保養齊開全站折扣，小瓶輕巧好帶（液體霜狀逾 100ml 請放托運）。",
+          "tags": [
+            "美妝保養"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "選物＆潮流男裝黑五：END. Clothing & Huckberry",
+          "price": "END. 結帳自動 75 折（免碼）／Huckberry 最高 6 折（Flint & Tinder 上蠟外套 $159）",
+          "store": "END. / Huckberry 官網",
+          "highlight": "END. 涵蓋 Salomon、Carhartt WIP、Barbour、Stone Island；Huckberry 硬派工裝夾克罕見 7 折。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "戶外機能服鞋黑五：Fjällräven 小狐狸 & Merrell",
+          "price": "Fjällräven 精選最高 6 折（Keb 褲／Nuuk 外套）／Merrell 防水登山靴砍逾半價（低於 $70）",
+          "store": "各品牌美國官網",
+          "highlight": "北歐戶外神牌小狐狸與美國戶外鞋王齊下殺，服飾好摺疊，登山靴不到台幣 2,300（靴子體積略大）。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "創作者無線麥克風黑五：Rode Wireless 全線 & DJI Mic Mini",
+          "price": "Rode Wireless PRO $260–$280／GO Gen 3 ~$197／Micro $86–$99／DJI Mic Mini ~$79",
+          "store": "Amazon US / B&H",
+          "highlight": "超迷你收音神器全線降價，拍片 Vlog 隨身攜帶零負擔（含鋰電池須手提登機）。",
+          "tags": [
+            "相機攝影",
+            "影音耳機"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-1400",
       "date": "11/25",
