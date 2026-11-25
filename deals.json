@@ -1,8 +1,74 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 13:31",
-  "updated_at_utc": "2026-11-25T05:31:00Z",
+  "updated_at_taipei": "2026/11/25 14:31",
+  "updated_at_utc": "2026-11-25T06:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-1400",
+      "date": "11/25",
+      "time_taipei": "11/25 14:00",
+      "created_at_utc": "2026-11-25T06:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Dyson OnTrac 主動降噪耳罩直接對折",
+          "price": "$249（5 折 / 狂省 $250 / 原價 $499）",
+          "store": "Amazon US / Best Buy",
+          "highlight": "50 小時續航＋可換式鋁合金外蓋耳罩，砍半至約台幣 8,100 後 CP 值大反轉（含鋰電池建議手提登機）。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Sony ULT 重低音防水喇叭雙殺：Field 1 & Field 3",
+          "price": "ULT Field 1 $68（49 折 / 原價 $139.99）／ULT Field 3 $128（61 折 / 原價 $209.99）",
+          "store": "Amazon US / Best Buy",
+          "highlight": "IP67 防水防塵＋一鍵重低音強化，Field 1 圓筒超輕小不到台幣 2,200 好湊單（含鋰電池建議手提登機）。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "美區鞋履黑五開跑：Cole Haan & Rothy's",
+          "price": "Cole Haan 幾乎全站最高 5 折（至 12/2）／Rothy's 環保可機洗鞋最高 6 折",
+          "store": "Cole Haan US / Rothy's US",
+          "highlight": "台灣百貨高價的 Cole Haan 輕量正裝／休閒鞋美區對折起，Rothy's 平底鞋極輕好壓超省行李空間。",
+          "tags": [
+            "服飾鞋包戶外"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Woot 11/25 感恩節前夕限定閃購（全區 $10 以下）",
+          "price": "全區 $10 以下小物快閃＋碼 WOOTMOUSE 搶電競周邊（另有折疊滾輪箱 $12）",
+          "store": "Woot（Prime 免運）",
+          "highlight": "Woot 今日限定 24 小時銅板閃購與 Dice Game 抽折價券，很適合用超輕小物湊單帶回。",
+          "tags": [
+            "精選綜合",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Fanatical 黑五正檔 PC 遊戲 & Xbox 客製手把免費刻字",
+          "price": "《Resident Evil Requiem》6 折 ~$35.99（PS5 實體更降至 ~$30）／《對馬戰鬼》45 折／《四海兄弟 三部曲》16 折",
+          "store": "Fanatical / Xbox Design Lab",
+          "highlight": "另推 Capcom Steam Deck 認證自選包；Xbox Design Lab 客製手把同步 85 折＋免費刻字（持續盯預計今晚歐洲白天突襲開跑的 GOG 黑五）。",
+          "tags": [
+            "遊戲",
+            "數位訂閱"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-1300",
       "date": "11/25",
