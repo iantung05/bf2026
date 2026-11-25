@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 22:31",
-  "updated_at_utc": "2026-11-25T14:31:30Z",
+  "updated_at_taipei": "2026/11/25 23:31",
+  "updated_at_utc": "2026-11-25T15:31:30Z",
   "digests": [
+    {
+      "id": "2026-11-25-2300",
+      "date": "11/25",
+      "time_taipei": "11/25 23:00",
+      "created_at_utc": "2026-11-25T15:31:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Backbone 手機手把＆GameSir 霍爾手把黑五史低",
+          "price": "Backbone One $59.99–$79.99（最高 6 折）／Pro $119.99 起；GameSir Pocket Taco 史低 $25.99／Nova Lite $18.39 起",
+          "store": "Amazon US / 品牌官網",
+          "highlight": "手遊／串流掌機神配件！Backbone 全線最高 6 折、GameSir 直立迷你手把創史低，體積超輕巧好帶回。",
+          "tags": [
+            "遊戲電玩",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Edifier 漫步者耳機＆桌機喇叭黑五（至 11/30）",
+          "price": "W820NB Plus Gen 2 $59.99（67 折）／G1000 II 桌機喇叭 $49.99（63 折）／M90 書架喇叭 $249.99（68 折）",
+          "store": "Amazon US / Edifier US",
+          "highlight": "高 CP 值桌機影音全線下殺，耳機與小喇叭方便帶回（M90 書架喇叭體積較大；耳機含鋰電池建議手提登機）。",
+          "tags": [
+            "影音耳機",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "Digital",
+          "title": "GOG 黑五特賣今日（11/25）無預警正式開跑！",
+          "price": "逾 8,000 款無 DRM PC 遊戲最高 0.5 折（95% off）",
+          "store": "GOG.com",
+          "highlight": "終於開跑！《Fallout 4 GOTY》25 折、《Skyrim 週年紀念版》＆《DOOM Eternal》33 折、《S.T.A.L.K.E.R. 2》7 折，全館免 DRM 可離線安裝。",
+          "tags": [
+            "遊戲電玩",
+            "數位訂閱"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "音樂製作軟體三強黑五：NI／Arturia／Ableton",
+          "price": "NI Komplete 26 5 折（$274.50 起）／Arturia V Collection 11 Pro $349.99（5 折）／Ableton Live 12 8 折（$79 起）",
+          "store": "各品牌官網",
+          "highlight": "編曲／錄音玩家年度補庫存首選！Kontakt 8 $149.50、Pigments 7 $99.99，Ableton Live 12 全版本再享日後免費升 Live 13。",
+          "tags": [
+            "數位訂閱",
+            "軟體工具"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-2200",
       "date": "11/25",
