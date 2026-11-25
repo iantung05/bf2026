@@ -25,18 +25,6 @@
         {
           "num": 2,
           "market": "US",
-          "title": "Woot 清倉閃購：SteelSeries Arctis Nova 7 無線耳機",
-          "price": "$64.99（1 代清倉破盤，Prime 免運）",
-          "store": "Woot",
-          "highlight": "支援藍牙＋2.4GHz 雙模多平台無線耳機殺到不到台幣 2,100，Woot 庫存隨時售完（含鋰電池建議手提登機）。",
-          "tags": [
-            "影音耳機",
-            "遊戲"
-          ]
-        },
-        {
-          "num": 3,
-          "market": "US",
           "title": "WiiM 串流音響黑五補遺：WiiM Amp & WiiM Pro",
           "price": "WiiM Amp 串流擴大機 $263.20（8 折 / 原價 $329）／WiiM Pro 串流盒 $135–$139",
           "store": "Amazon US（至 11/30）",
@@ -46,7 +34,7 @@
           ]
         },
         {
-          "num": 4,
+          "num": 3,
           "market": "TW",
           "title": "台灣電商 11/25 今日倒數＆加碼：PChome／Yahoo／momo",
           "price": "PChome 最後一天（指定居家 $1,411-211）／Yahoo OPENPOINT 5 倍（11/24–27）／momo 精品錶 82 折＋筆電滿 3 萬 3%",
