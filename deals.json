@@ -1,8 +1,64 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 20:31",
-  "updated_at_utc": "2026-11-25T12:31:30Z",
+  "updated_at_taipei": "2026/11/25 21:31",
+  "updated_at_utc": "2026-11-25T13:31:30Z",
   "digests": [
+    {
+      "id": "2026-11-25-2100",
+      "date": "11/25",
+      "time_taipei": "11/25 21:00",
+      "created_at_utc": "2026-11-25T13:31:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Shokz OpenDots 2 旗艦耳夾式開放耳機史低",
+          "price": "$140–$143（約 71 折 / 原價 $199）",
+          "store": "Amazon US / Shokz 官網",
+          "highlight": "Shokz 人氣耳夾式開放耳機創史低！不壓耳道可聽環境音，體積迷你超好帶回（含鋰電池建議手提登機）。",
+          "tags": [
+            "影音耳機",
+            "運動戶外"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Baggu 75 折＆COS 8 折＆Brooks Brothers 7 折",
+          "price": "Baggu 碼 EARLY25 全站 75 折／COS 碼 BF20 8 折／Brooks Brothers 幾近全站 7 折",
+          "store": "各品牌美國官網",
+          "highlight": "歐美質感系包服同步下殺！Baggu 尼龍半月包可折疊不佔行李空間，COS 羊絨外套與 Brooks Brothers 襯衫價差大。",
+          "tags": [
+            "服飾鞋包"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "LEGO 11/25 熱門盒組最高 6 折（Target 近 200 款同步）",
+          "price": "《回到未來》時光車 $22.39／星戰 Grogu $69.99（7 折）／史瑞克 $103.95／3-in-1 紅狐 $34.99（7 折）",
+          "store": "Amazon US / Walmart / Target",
+          "highlight": "Target 近 200 款樂高最高 6 折（Circle Card 再 95 折），另推 $9.89 植物系列小雛菊，小盒組很適合當伴手禮帶回。",
+          "tags": [
+            "玩具桌遊",
+            "生活選物"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Arlo 智慧監控黑五破盤（室內雲台 4 折）",
+          "price": "Essential 室內雲台攝影機 $19.99（4 折 / 原價 $49.99）／Pro 6 代戶外機 $99.99（8 折）",
+          "store": "Arlo US 官網 / Amazon US",
+          "highlight": "不到台幣 650 入手大牌旋轉室內攝影機，另有線投光燈款 $84.99（含電池戶外機請留意航空隨身規範）。",
+          "tags": [
+            "智慧家庭",
+            "3C硬體"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-2000",
       "date": "11/25",
