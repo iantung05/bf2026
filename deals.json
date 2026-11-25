@@ -1,8 +1,64 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 06:31",
-  "updated_at_utc": "2026-11-25T22:31:30Z",
+  "updated_at_taipei": "2026/11/26 07:31",
+  "updated_at_utc": "2026-11-25T23:31:30Z",
   "digests": [
+    {
+      "id": "2026-11-26-0700",
+      "date": "11/26",
+      "time_taipei": "11/26 07:00",
+      "created_at_utc": "2026-11-25T23:31:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Sony ULT Wear 無線降噪重低音耳罩 6 折史低",
+          "price": "$148（6 折 / 省 $100 / 原價 $248）",
+          "store": "Amazon US / Best Buy",
+          "highlight": "Sony 主打重低音＋強降噪的人氣耳罩（XM 系列高 CP 平替），Amazon 放購物車見特價（含鋰電池建議手提登機）。",
+          "tags": [
+            "影音耳機",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Anker Prime 27,650mAh（250W）筆電行動電源史低",
+          "price": "$119.99（67 折 / 省 $60 / 原價 $179.99）",
+          "store": "Amazon US",
+          "highlight": "三孔總輸出 250W 可充 MacBook Pro！容量 99.54Wh 剛好壓在航空 100Wh 上限內（行動電源嚴禁托運，務必隨身手提登機）。",
+          "tags": [
+            "3C硬體",
+            "旅遊機票"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Mack Weldon 美國男裝機能內著最高 7 折",
+          "price": "精選最高 7 折（銀離子抗菌內褲／AIRKNITx／ACE 棉褲）",
+          "store": "Mack Weldon US 官網",
+          "highlight": "歐美男生口碑極佳的高質感貼身衣物與居家運動服，超輕不佔行李空間。",
+          "tags": [
+            "服飾鞋包"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "Bitdefender Total Security 資安防毒 22 折（至 12 月中）",
+          "price": "3 裝置首年 $22.21（22 折 / 狂省 $70 / 78% off）",
+          "store": "Bitdefender 官網",
+          "highlight": "國際評測常年榜首的全方位防毒套件（Win／Mac／手機通用），平均每台一年不到台幣 250 元。",
+          "tags": [
+            "數位訂閱",
+            "軟體工具"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-0600",
       "date": "11/26",
