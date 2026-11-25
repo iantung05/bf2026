@@ -1,8 +1,64 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 08:31",
-  "updated_at_utc": "2026-11-25T00:31:00Z",
+  "updated_at_taipei": "2026/11/25 09:31",
+  "updated_at_utc": "2026-11-25T01:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-0900",
+      "date": "11/25",
+      "time_taipei": "11/25 09:00",
+      "created_at_utc": "2026-11-25T01:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Razer & HyperX 電競周邊對折破盤",
+          "price": "Razer Basilisk V3 Pro 無線滑鼠 $79.99（5 折 / 原價 $159.99）／HyperX Cloud Alpha Wireless $108.99（54 折 / 原價 $199.99）",
+          "store": "Best Buy / Amazon US",
+          "highlight": "雷蛇旗艦無線鼠與 300 小時神續航電競耳罩雙雙對折，另有 Basilisk V3 有線版與 BlackShark V2 X 各 $32.99（無線款含鋰電池建議手提登機）。",
+          "tags": [
+            "3C硬體",
+            "遊戲"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Woot 清倉閃購：SteelSeries Arctis Nova 7 無線耳機",
+          "price": "$64.99（1 代清倉破盤，Prime 免運）",
+          "store": "Woot",
+          "highlight": "支援藍牙＋2.4GHz 雙模多平台無線耳機殺到不到台幣 2,100，Woot 庫存隨時售完（含鋰電池建議手提登機）。",
+          "tags": [
+            "影音耳機",
+            "遊戲"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "WiiM 串流音響黑五補遺：WiiM Amp & WiiM Pro",
+          "price": "WiiM Amp 串流擴大機 $263.20（8 折 / 原價 $329）／WiiM Pro 串流盒 $135–$139",
+          "store": "Amazon US（至 11/30）",
+          "highlight": "內建擴大機可直推書架喇叭的 WiiM Amp 與入門 WiiM Pro 同步 8 折，機身巴掌大超好帶回。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "台灣電商 11/25 今日倒數＆加碼：PChome／Yahoo／momo",
+          "price": "PChome 最後一天（指定居家 $1,411-211）／Yahoo OPENPOINT 5 倍（11/24–27）／momo 精品錶 82 折＋筆電滿 3 萬 3%",
+          "store": "PChome 24h / Yahoo 購物中心 / momo",
+          "highlight": "PChome 黑五狂省節今晚 23:59 截止（星展分期最高 9,500 P 幣）；Yahoo 搭永豐刷卡金最高再送 $3,000；愛買年終慶今日同步開跑。",
+          "tags": [
+            "精選綜合",
+            "3C硬體"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-0800",
       "date": "11/25",
