@@ -1,8 +1,50 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 09:31",
-  "updated_at_utc": "2026-11-25T01:31:00Z",
+  "updated_at_taipei": "2026/11/25 10:31",
+  "updated_at_utc": "2026-11-25T02:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-1000",
+      "date": "11/25",
+      "time_taipei": "11/25 10:00",
+      "created_at_utc": "2026-11-25T02:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "可攜防水藍牙喇叭雙史低：JBL Charge 6 & Bose SoundLink Plus",
+          "price": "JBL Charge 6 $139.95（7 折 / 原價 $199.95）／Bose SoundLink Plus $179（67 折 / 原價 $269）",
+          "store": "Amazon US / Best Buy",
+          "highlight": "兩款最新中尺寸防水喇叭同步創史低，音場紮實又兼顧便攜（含鋰電池建議手提登機）。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "AeroPress 愛樂壓咖啡器全系列 75 折起",
+          "price": "Clear 透明版 $37.46（原價 $49.95）／Go Plus 隨行組 $67.45（原價 $89.95）／Original 低於 $30",
+          "store": "Amazon US",
+          "highlight": "咖啡迷與露營出差族神器全線特價，輕巧耐摔塞行李箱幾乎零負擔。",
+          "tags": [
+            "家電居家工具"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "居家美容黑科技：Braun Silk-expert Pro 5 除毛儀 & CurrentBody",
+          "price": "Braun Pro 5 IPL $279.99（原價 $399.99–$469.99）／CurrentBody 官網 LED 面罩 8 折起",
+          "store": "Amazon US / CurrentBody 官網",
+          "highlight": "百靈旗艦脈衝光除毛儀直砍逾 $120，與台灣代購價差超大、插電式免擔憂鋰電池限制。",
+          "tags": [
+            "美妝保養"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-0900",
       "date": "11/25",
