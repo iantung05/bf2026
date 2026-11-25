@@ -1,8 +1,76 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 07:31",
-  "updated_at_utc": "2026-11-24T23:31:00Z",
+  "updated_at_taipei": "2026/11/25 08:31",
+  "updated_at_utc": "2026-11-25T00:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-0800",
+      "date": "11/25",
+      "time_taipei": "11/25 08:00",
+      "created_at_utc": "2026-11-25T00:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Insta360 輕巧雙機殺進 $300 內：Ace Pro 2 & X4 Air",
+          "price": "Ace Pro 2 $294–$299（8 折＋送配件）／X4 Air 全景相機 $299（原價 $440+）",
+          "store": "Amazon US / B&H / Insta360 官網",
+          "highlight": "夜拍畫質王 Ace Pro 2 與輕量全景 X4 Air 雙雙跌破 $300，口袋尺寸極好帶回（電池須手提登機）。",
+          "tags": [
+            "相機攝影"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Best Buy 百元內超殺 3C：15.6\" 隨身螢幕 & Shokz／JBL 耳機",
+          "price": "Insignia 15.6\" 攜帶螢幕 $54.99（5 折）／Shokz OpenRun Pro $89.99（56 折）／JBL Tune 670NC $49.95（45 折）",
+          "store": "Best Buy",
+          "highlight": "不到台幣 1,800 就能收 15.6 吋輕薄副螢幕，骨傳導與降噪耳罩同步半價級下殺（無線耳機含鋰電池建議手提登機）。",
+          "tags": [
+            "3C硬體",
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Costco US 百元夯品：Aura 雲端相框 & Ring 戶外雙機組",
+          "price": "Aura Parker 數位相框 $99.99（省 $30）／Ring Outdoor Cam Plus 2 入組 $99.99（省 $80）",
+          "store": "Costco US（實體＆線上）",
+          "highlight": "歐美爆紅送長輩神器 Aura 相框（手機遠端推照片免月費）不用百元入手，盒裝輕巧不佔空間。",
+          "tags": [
+            "家電居家工具",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Sony FX3／FX3A 電影機 & PS5 本家實體片 $29.99",
+          "price": "Sony FX3/FX3A $3,898（省 $400，G Master 鏡頭最高折 $200）／PS5《蜘蛛人 2》《Helldivers 2》$29.99",
+          "store": "Amazon US / B&H / Target",
+          "highlight": "創作者神機罕見直降 $400（相機電池須手提登機）；PS5 熱門本家實體片殺到不到台幣 1 千，超輕好帶。",
+          "tags": [
+            "相機攝影",
+            "遊戲"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "丸龜製麵買一送一 & 日亞黑五 11/27 先行特賣攻略",
+          "price": "丸龜 LINE 好友券炸物豆皮烏龍麵（中）買一送一／Amazon JP 報名滿 1 萬日圓最高 11% 點數回饋",
+          "store": "丸龜製麵 LINE / Amazon JP",
+          "highlight": "午餐現省用丸龜買一送一；日亞黑五先行特賣將於明晚台北 11/26 23:00 開跑（ReFa／SK-II／IRIS 家電），記得先按官網點數加碼報名。",
+          "tags": [
+            "精選綜合",
+            "美妝保養"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-0700",
       "date": "11/25",
