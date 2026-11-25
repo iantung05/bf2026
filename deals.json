@@ -1,8 +1,64 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 21:31",
-  "updated_at_utc": "2026-11-25T13:31:30Z",
+  "updated_at_taipei": "2026/11/25 22:31",
+  "updated_at_utc": "2026-11-25T14:31:30Z",
   "digests": [
+    {
+      "id": "2026-11-25-2200",
+      "date": "11/25",
+      "time_taipei": "11/25 22:00",
+      "created_at_utc": "2026-11-25T14:31:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Tile 藍牙防丟器史低＆Chipolo 追蹤卡黑五",
+          "price": "Tile Mate $15／Sticker $15（史低）／Slim 卡片式 $20；Chipolo Loop ~$33（85 折）",
+          "store": "Amazon US / 品牌官網",
+          "highlight": "iOS／Android 跨平台都好用的超薄防丟器，放皮夾、護照套、行李箱超安心，體積超迷你不佔行李額度。",
+          "tags": [
+            "3C硬體",
+            "旅遊機票"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Olaplex 6 折起＆Kérastase 巴黎卡詩 8 折（美髮黑五）",
+          "price": "Olaplex 全站 7 折（No.7 護髮油＆1L 沙龍瓶 $96 享 6 折）；Kérastase 全站 8 折＋滿 $180 送旅行組",
+          "store": "Amazon US / 品牌美國官網",
+          "highlight": "歐美沙龍級護髮常勝軍，美國黑五直降比台灣專櫃划算許多（容量超過 100ml 瓶罐記得放托運行李）。",
+          "tags": [
+            "美妝保養"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Birkenstock 勃肯 65 折起＆Caraway 無毒陶瓷鍋最高 52 折",
+          "price": "Birkenstock 精選最高 65 折（Arizona $76.67 起）；Caraway 單鍋 $106／12 件組 $446（原價 $775+）",
+          "store": "Birkenstock / Caraway US 官網",
+          "highlight": "平常極少打折的勃肯鞋與人氣無毒陶瓷鍋同步破盤（12 件鍋組體積較重，建議單鍋或鞋款優先請朋友帶）。",
+          "tags": [
+            "服飾鞋包",
+            "家電居家工具"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "EA App 黑五 PC 遊戲大促（最高 1 折）",
+          "price": "《Dead Space》$5.99（1 折）／《It Takes Two》$7.99（2 折）／《Split Fiction》$29.99（6 折）／《EA FC 27》$34.99（5 折）",
+          "store": "EA App 官網",
+          "highlight": "口碑爆棚雙人新作《Split Fiction》直接 6 折、《雙人成行》免台幣 260、《Mass Effect 傳奇版》$8.99（15 折）！",
+          "tags": [
+            "遊戲電玩",
+            "數位訂閱"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-2100",
       "date": "11/25",
