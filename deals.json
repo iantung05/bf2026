@@ -1,8 +1,76 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 01:31",
-  "updated_at_utc": "2026-11-25T17:31:30Z",
+  "updated_at_taipei": "2026/11/26 02:31",
+  "updated_at_utc": "2026-11-25T18:31:30Z",
   "digests": [
+    {
+      "id": "2026-11-26-0200",
+      "date": "11/26",
+      "time_taipei": "11/26 02:00",
+      "created_at_utc": "2026-11-25T18:31:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Breville Bambino／Bambino Plus 迷你義式機黑五直降",
+          "price": "Bambino $250／Bambino Plus $399.95（省 $100 / 原價 $499.95）",
+          "store": "Amazon US / 廚房百貨",
+          "highlight": "咖啡圈公認最強入門 3 秒預熱義式機！美規 110V 回台直插免變壓器，體積比 Barista Express 小一圈（體積略大）。",
+          "tags": [
+            "家電居家工具"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "歐美質感服飾＆香氛黑五：AllSaints／Theory／Rag & Bone／Boy Smells",
+          "price": "AllSaints 全站 7 折起／Theory 6–7 折（羊絨最高 5 折）／Rag & Bone 75 折／Boy Smells 碼 BSBF30 7 折",
+          "store": "各品牌美國官網",
+          "highlight": "AllSaints 皮衣與 Theory 羊絨衫美國黑五價跟台灣專櫃價差動輒破萬！Boy Smells 潮流香氛同步 7 折。",
+          "tags": [
+            "服飾鞋包",
+            "美妝保養"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "親子送禮神物：Toniebox 2 故事機＆Magna-Tiles 磁力片",
+          "price": "Toniebox 2 $99–$100（67 折）／Lite $60／人偶最高 48 折；Magna-Tiles 經典 100 片 7 折",
+          "store": "Amazon US / Tonies 官網",
+          "highlight": "歐美爸媽狂推的無螢幕故事音箱與磁力片界天花板，台灣代購常貴又缺貨，請朋友帶回送禮超體面。",
+          "tags": [
+            "玩具桌遊",
+            "生活選物"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "NBA League Pass Premium 全季黑五 47 折（至 12/1）",
+          "price": "$74.99 / 全季（47 折 / 狂省 $85 / 原價 $159.99）",
+          "store": "NBA 官網 / Amazon Prime Video Channels",
+          "highlight": "美區無廣告全賽季方案下殺超過半價，籃球迷追完整季最划算時機（跨區觀看請留意區域轉播規範）。",
+          "tags": [
+            "數位訂閱",
+            "影音串流"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Malwarebytes 資安防毒 5 折＆Rosetta Stone 語言黑五",
+          "price": "Malwarebytes 全方案 5 折（$22.49/年起）；Rosetta Stone 年繳 $159／特惠終身約 $149",
+          "store": "各品牌官網",
+          "highlight": "老牌清爽防毒軟體年度半價，幫長輩電腦裝防釣魚超實用；Rosetta Stone 多國語言學習同步特惠。",
+          "tags": [
+            "數位訂閱",
+            "軟體工具"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-0100",
       "date": "11/26",
