@@ -1,8 +1,67 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/25 15:31",
-  "updated_at_utc": "2026-11-25T07:31:00Z",
+  "updated_at_taipei": "2026/11/25 16:31",
+  "updated_at_utc": "2026-11-25T08:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-25-1600",
+      "date": "11/25",
+      "time_taipei": "11/25 16:00",
+      "created_at_utc": "2026-11-25T08:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Apple AirPods Max 2（H2 晶片新世代）史低破盤",
+          "price": "$419（76 折 / 狂省 $130 / 原價 $549）",
+          "store": "Amazon US",
+          "highlight": "搭載 H2 晶片、適應性音訊與 USB-C 的新款 AirPods Max 2 直接殺到約台幣 1.36 萬（含鋰電池建議手提登機）。",
+          "tags": [
+            "影音耳機",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Target Circle 360 11/25 搶先波段剛開跑（同步 Sephora 換檔）",
+          "price": "Target 會員 24 小時搶先波段（Apple／Dyson／Switch 2／LEGO 寶可夢最高 5 折）",
+          "store": "Target US / Sephora US",
+          "highlight": "台北 16:00 剛同步啟動：Target 付費會員提前開搶週末門神品；Sephora 今日 7 折（Lancôme／Viktor&Rolf／Living Proof）同步上線。",
+          "tags": [
+            "精選綜合",
+            "美妝保養"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "TW",
+          "title": "台灣好市多 Day 4（11/26）16:00 官方預告：3C／家電／珠寶",
+          "price": "1 克拉鑽石耳環省 NT$14,000／ACER 14\" AI 筆電省 $7,200／三星 55\" Neo QLED 省 $6,000／SHARP 除濕機省 $3,900",
+          "store": "台灣好市多（11/26 07:30 黑鑽／08:30 一般會員）",
+          "highlight": "剛曝光！另有美膳雅全自動義式咖啡機省 $2,800、LE CREUSET 24cm 鑄鐵圓鍋省 $1,200、RASTAR 1:8 紅牛積木省 $800。",
+          "tags": [
+            "好市多",
+            "3C硬體",
+            "家電居家工具"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "台灣好市多 Day 4（11/26）囤貨民生＆線上同步加碼",
+          "price": "安視優歐舒適日拋 90 片買 4 盒省 NT$1,600／紅牛乳清 2.27kg 省 $400／紅龍雞塊 3kg 省 $100（限 11/26–27）",
+          "store": "台灣好市多實體＆線上",
+          "highlight": "另有雅頓白茶香氛組省 $500、蘇菲安心褲省 $170；線上同步推湯悅溫泉會館四人房平日住宿券省 $3,500、大成雞肉 5kg 省 $270（至 11/29）。",
+          "tags": [
+            "好市多",
+            "美妝保養",
+            "旅遊機票"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-25-1500",
       "date": "11/25",
