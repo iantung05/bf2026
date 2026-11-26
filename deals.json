@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 21:31",
-  "updated_at_utc": "2026-11-26T13:31:27Z",
+  "updated_at_taipei": "2026/11/26 22:31",
+  "updated_at_utc": "2026-11-26T14:31:42Z",
   "digests": [
+    {
+      "id": "2026-11-26-2200",
+      "date": "11/26",
+      "time_taipei": "11/26 22:00",
+      "created_at_utc": "2026-11-26T14:31:42Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "隨身影音＆照明黑五：UE BOOM 4 $99.99／EarFun Air Pro 4 $53 起／BenQ ScreenBar",
+          "price": "Ultimate Ears BOOM 4 $99.99（67 折 / 省 $50）；EarFun Air Pro 4／4 Plus $53–$71；BenQ ScreenBar Halo 85–9 折",
+          "store": "Amazon US / BenQ 官網",
+          "highlight": "防水喇叭 BOOM 4 破百美元、高 CP 無損降噪耳機 EarFun Air Pro 4 不到台幣 $2,000（喇叭＆耳機含鋰電池須手提登機）。",
+          "tags": [
+            "影音耳機",
+            "桌面照明"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "敏弱肌藥妝囤貨黑五：CeraVe／理膚寶水／First Aid Beauty／Glow Recipe",
+          "price": "CeraVe Amazon 最高 6 折；La Roche-Posay 理膚寶水 Amazon 最高 62 折（B5 修復霜／防曬）；First Aid Beauty 全站 7 折（碼 CYBER）；Glow Recipe 75 折",
+          "store": "Amazon US / Ulta / Cult Beauty",
+          "highlight": "敏弱肌愛用 B5 與適樂膚美國價差本來就大、疊黑五 6 折更甜（>100ml 清潔乳／乳液須放托運行李）。",
+          "tags": [
+            "美妝保養",
+            "藥妝囤貨"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "清潔＆廚電跳水：Tineco 添可洗地機最高 57 折＆Cuisinart 美膳雅 48 折起",
+          "price": "Tineco S7 Stretch Ultra $339（57 折 / 原價 $599）、S9 Artist Steam $659、Pure One Station 5 $249；Cuisinart 5.5qt 攪拌機 $182、TOA-55 氣炸烤箱 $109.95、Mini-Prep $29.29",
+          "store": "Amazon US（至 11/30）",
+          "highlight": "美規 110V 台灣直插可用，但洗地機／攪拌機／烤箱體積較大且重，較適合人在美國自用或單帶輕巧的 Mini-Prep 切碎機。",
+          "tags": [
+            "生活家電",
+            "廚房用品"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "美式經典服飾黑五：Calvin Klein 最高 4 折＆Tommy Hilfiger／Dickies",
+          "price": "Calvin Klein 最高 5 折＋額外再 8 折；Tommy Hilfiger 最高 6 折；Dickies 正價最高 7 折",
+          "store": "各品牌美國官網",
+          "highlight": "CK 內著／丹寧折上折美國價差極大，衣物輕軟塞行李零負擔，很適合湊免運請朋友順手帶回。",
+          "tags": [
+            "服飾鞋包"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Hostinger 主機最低 15 折（$1.99/月起）＆ Artlist AI 方案 6 折",
+          "price": "Hostinger 48 個月方案 Premium $1.99/月（$95.52 含免費網域＋SSL，至 12/14）；Artlist AI Starter 年繳 6 折 $11.99/月（首月雙倍 AI 點數）",
+          "store": "Hostinger / Artlist 官網",
+          "highlight": "架站與創作者 AI 影音神價！⏰ **倒數 30 分鐘開搶**：**23:00 日亞黑五先行特賣（Kindle Colorsoft ¥27,980／Anker 47 折起）**、**00:00 台灣好市多線上滿 $8,800 現折 $880＋MUJI 9 折**！",
+          "tags": [
+            "開發者主機",
+            "創作者工具",
+            "最後倒數"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-2100",
       "date": "11/26",
