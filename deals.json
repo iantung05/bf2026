@@ -1,8 +1,79 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 12:33",
-  "updated_at_utc": "2026-11-26T04:33:00Z",
+  "updated_at_taipei": "2026/11/26 13:31",
+  "updated_at_utc": "2026-11-26T05:31:41Z",
   "digests": [
+    {
+      "id": "2026-11-26-1300",
+      "date": "11/26",
+      "time_taipei": "11/26 13:00",
+      "created_at_utc": "2026-11-26T05:31:41Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Samsung Galaxy S26 FE 128GB 解鎖空機（Best Buy 感恩節 24H 閃購）",
+          "price": "$499.99（71 折 / 省 $200 / 原價 $699.99）",
+          "store": "Best Buy US",
+          "highlight": "美國感恩節午夜場剛開跑！Best Buy 實體今日公休但線上／App 24H 閃購下殺解鎖版 S26 FE（含鋰電池須手提登機；美版無台灣保固，建議確認 5G 頻段）。",
+          "tags": [
+            "3C 手機",
+            "感恩節閃購"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Energizer 10,000mAh 超薄金屬 20W 磁吸行動電源（QM10081PQ）",
+          "price": "$15.99（46 折 / 省 $19 / 原價 $34.99）",
+          "store": "Best Buy US",
+          "highlight": "Slickdeals 首頁高人氣撿漏小物！約 NT$500 入手 MagSafe 金屬磁吸行充（另帶線＋Apple Watch 充版本 $29.99）；⚠️ 行動電源嚴禁托運，務必隨身手提登機。",
+          "tags": [
+            "3C 配件",
+            "Slickdeals 首頁"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "美式百貨感恩節午夜場：Kohl's ＆ Macy's（至 11/28）",
+          "price": "Kohl's 滿 $50 送 $15 Kohl's Cash＋疊 8 折券；Macy's MK 羊毛喀什米爾大衣 ~$169.99（29 折）、實驗室鑽石手鍊 $199（2 折）、香水禮盒 $20–$25",
+          "store": "Kohl's / Macy's 官網",
+          "highlight": "Kohl's 感恩節午夜剛開賣（疊 8 折＋回饋 30% 購物金，LEGO／玩具最高 5 折）；Macy's 冬衣 3–6 折、毛衣 $19.99 起、Clinique／CK 禮盒超好送禮（>100ml 液體放托運）。",
+          "tags": [
+            "服飾鞋包",
+            "美妝香氛",
+            "百貨黑五"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "台灣機票黑五兩大焦點：捷星今 15:59 最後截止＆阿提哈德 8 折起",
+          "price": "捷星成田→桃園單程未稅 ¥9,296 起（今 15:59 止）；阿提哈德台北飛中東／歐／非 8 折起（至 11/29）",
+          "store": "捷星航空 / 阿提哈德航空官網",
+          "highlight": "捷星黑五「96」特賣剩不到 2.5 小時收攤（適用 2027/1 月中）；阿提哈德經阿布達比轉機飛歐／中東經濟＆商務艙直降 78–82 折。",
+          "tags": [
+            "機票旅遊",
+            "最後倒數"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "Coupang 酷澎「黑五美妝保養狂換祭」（至 11/30）",
+          "price": "INNISFREE／rom&nd 韓系美妝滿額贈＋黑五直降（火箭速配）",
+          "store": "Coupang 酷澎台灣",
+          "highlight": "韓系彩妝與日常湯底／生活用品同步促銷免湊海外運費。⏰ 同步提醒：Google AI Pro（5TB 年繳 5 折 NT$3,250）舊會員早鳥今日 11/26 截止（明輪新用戶；ChatGPT／Claude／Notion／Dropbox／iCloud 皆無官方黑五折扣）。",
+          "tags": [
+            "美妝保養",
+            "台灣電商",
+            "AI 訂閱"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-1200",
       "date": "11/26",
