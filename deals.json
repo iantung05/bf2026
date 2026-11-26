@@ -1,8 +1,78 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 14:31",
-  "updated_at_utc": "2026-11-26T06:31:46Z",
+  "updated_at_taipei": "2026/11/26 15:30",
+  "updated_at_utc": "2026-11-26T07:30:36Z",
   "digests": [
+    {
+      "id": "2026-11-26-1500",
+      "date": "11/26",
+      "time_taipei": "11/26 15:00",
+      "created_at_utc": "2026-11-26T07:30:36Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Kanto ORA4 主動式桌面監聽喇叭 53 折史低（Amazon Prime 專屬）",
+          "price": "$239.99（53 折 / 原價 $449.99，非 Prime 色 $299.99）；旗艦 Kanto REN $549.99（原價 $799.99）",
+          "store": "Amazon US / 授權通路",
+          "highlight": "TechRadar 力推超狂音響跳水！Cream／Moon 色 Prime 現省 $210，支援 USB-C／藍牙／RCA（無鋰電池但體積略重；旗艦 REN 同樣省 $250）。",
+          "tags": [
+            "影音喇叭",
+            "Amazon Prime"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "網球／單車／登山黑五：Wilson 球拍 5 折＆MAAP／Black Diamond／Gregory",
+          "price": "Wilson RF 01 Pro $164–$199（5 折）、Pro Staff $149、Ultra/Clash $159（部分通路碼 BF20 再 8 折）；MAAP 5 折＋額外 9 折；Black Diamond 4 折起／Gregory 75 折",
+          "store": "Wilson / Tennis Warehouse / MAAP / Black Diamond / Gregory",
+          "highlight": "費德勒 RF 01 Pro 對折超有感，MAAP 頂級車衣輕薄好帶回，Black Diamond 頭燈／攀岩裝備最高 4 折（球拍較長須放託運或確認行李箱尺寸）。",
+          "tags": [
+            "戶外運動",
+            "單車網球"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "咖啡磨豆機黑五：Baratza Encore ESP ＆ Timemore 泰摩手搖磨豆機",
+          "price": "Baratza Encore $119.95／Encore ESP $159.95（8 折）；Timemore Chestnut C3S 手搖 ~$63–$68（7–8 折）",
+          "store": "Amazon US / 咖啡專賣通路",
+          "highlight": "咖啡圈入門到進階兩大口碑神機同步特價！Timemore 手搖款小巧無電池最方便帶回；Encore ESP 為美規 110V 台灣直插可用（體積略大）。",
+          "tags": [
+            "咖啡廚具",
+            "生活家電"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Creality 3D 列印機官網直降 ＆ Bulova／G-Shock 腕錶黑五",
+          "price": "Creality Ender-3 V3 SE $169、K2 $349–$399、K2 Pro $549（省 $300）、K2 Plus Combo $1,044–$1,099；Bulova 錶 5–8 折（$190 起）／G-Shock Mudmaster $357",
+          "store": "Creality 官網 / Amazon US",
+          "highlight": "多色高速 3D 列印機 K2 系列直省 $200–$450（體積大且重較適合美國自用）；想輕鬆帶回台灣可挑 Bulova 機械錶或 G-Shock！",
+          "tags": [
+            "3C 硬體",
+            "精品腕錶"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "酷航台灣出發全航線黑五促銷（明 11/27 止）＆ 德誼數位點數翻倍",
+          "price": "酷航單程含稅 NT$2,599 起（11/24–27 開票，適用冬春季）；德誼 11/24–30 買指定 Apple 新機好德點翻倍＋台新分期購物金",
+          "store": "酷航官網 / 德誼數位門市",
+          "highlight": "酷航明天（11/27）就收單！⏰ 緊急提醒：**半小時後 15:59 捷星航空黑五截止、16:00 台灣好市多 Day 5（11/27 黑五正日）官方預告公布**，下小時立刻搶先整理！",
+          "tags": [
+            "機票旅遊",
+            "3C 蘋果",
+            "最後倒數"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-1400",
       "date": "11/26",
