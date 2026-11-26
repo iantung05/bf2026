@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 02:30",
-  "updated_at_utc": "2026-11-26T18:30:23Z",
+  "updated_at_taipei": "2026/11/27 03:30",
+  "updated_at_utc": "2026-11-26T19:30:30Z",
   "digests": [
+    {
+      "id": "2026-11-27-0300",
+      "date": "11/27",
+      "time_taipei": "11/27 03:00",
+      "created_at_utc": "2026-11-26T19:30:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "AI 錄音卡＆剪輯神器黑五：Plaud Note Pro ＆ TourBox Elite",
+          "price": "Plaud Note Pro $149（官網碼 ZDNETBF2／CNETBF2 降至 ~$146–$147，初代 $126.99）；TourBox Elite $201（75 折 / 省 $67 / Elite Plus $252.45）",
+          "store": "Amazon US / Plaud / TourBox 官網",
+          "highlight": "超紅信用卡薄度 AI 會議錄音摘要神器（貼手機背面零體積，含小鋰電池須手提登機）；TourBox 修圖剪輯旋鈕神手同步現省 $67。",
+          "tags": [
+            "AI 硬體",
+            "3C 創作"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "英系耳機＆桌機 DAC 黑五：Cambridge Audio Melomania ＆ Topping",
+          "price": "Cambridge Audio Melomania M100／A100 $99–$119（原價 $149–$169，P100 耳罩 ~$239）；Topping 官網全線 85 折起（E50 II DAC $169.65）",
+          "store": "Amazon US / Topping 官網",
+          "highlight": "英倫調音高續航真無線耳機殺破百元（含鋰電池建議手提登機）；Topping 桌機解碼器體積小無電池超好帶回。",
+          "tags": [
+            "影音耳機",
+            "發燒音響"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "設計水壺＆咖啡廚電黑五：LARQ／Aarke／Keurig／Cosori",
+          "price": "LARQ 官網滿 $200 享 7 折；Aarke 最高 75 折（金杯手沖機省 $80 至 $320）；Keurig K-Express 史低破 $60（55 折）；Cosori 6qt 氣炸鍋 ~$89",
+          "store": "Amazon US / LARQ / Aarke 官網",
+          "highlight": "LARQ UV 自清潔水壺輕巧無負擔（瓶蓋含電池建議手提）；Keurig／Cosori／Aarke 皆美規 110V 但體積略大較適合美國自用（氣泡水機勿帶 CO2 鋼瓶上機）。",
+          "tags": [
+            "生活家電",
+            "質感設計"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "居家服＆越野跑鞋黑五：Victoria's Secret／Spanx／Pendleton／Mizuno／Altra",
+          "price": "Victoria's Secret 全站 6 折（緞面睡衣 $39.99 半價 / 內褲 7 件 $35）；Spanx 2–5 折；Pendleton 最高 7 折；Mizuno 最高 5 折＆Altra 越野跑鞋 8 折起",
+          "store": "各品牌美國官網",
+          "highlight": "睡衣內著與零足跟差越野神鞋 Altra Lone Peak 美國價差極大，衣物輕軟塞行李零壓力！",
+          "tags": [
+            "服飾鞋包",
+            "運動跑鞋"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "登山地圖 AllTrails+ ＆ Keeper 密碼管理 黑五官方半價",
+          "price": "AllTrails+ 碼 ESCAPE26 享 5 折 $17.99/年（原價 $35.99，務必於網頁版結帳）；Keeper 密碼管理 5 折（個人 ~$2.15/月、5 人家庭 ~$4.60/月）；Komoot Premium 5 折起",
+          "store": "AllTrails / Keeper / Komoot 官網",
+          "highlight": "爬山健行必備離線地圖 AllTrails+ 年度 5 折神價！⏰ 今早提醒：**07:00–09:00 Zara US 黑五 6 折、10:00 Sephora 主檔 5 折起、10:30 台灣 STUDIO A 認證蘋果 3.1 折起發號碼牌**！",
+          "tags": [
+            "戶外旅遊",
+            "資安訂閱"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-0200",
       "date": "11/27",
