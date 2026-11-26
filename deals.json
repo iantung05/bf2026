@@ -1,8 +1,78 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 03:30",
-  "updated_at_utc": "2026-11-26T19:30:30Z",
+  "updated_at_taipei": "2026/11/27 04:30",
+  "updated_at_utc": "2026-11-26T20:30:28Z",
   "digests": [
+    {
+      "id": "2026-11-27-0400",
+      "date": "11/27",
+      "time_taipei": "11/27 04:00",
+      "created_at_utc": "2026-11-26T20:30:28Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Viltrox 自動對焦鏡頭全線 8 折＆Eve Matter 智慧居家 7 折",
+          "price": "Viltrox 全線 8 折（AF 35mm F1.4 Pro $663.20，滿額送贈品，至 11/30）；Eve Energy Matter 插座 $30（2 入 $59）／門窗感應 $30／移動感應 $38",
+          "store": "Amazon US / B&H Photo",
+          "highlight": "副廠高 CP 鏡頭罕見全線 8 折（精密玻璃建議手提）；支援 Apple HomeKit／Matter 的 Eve 感應器與美規 110V 插座超小巧台灣直插！",
+          "tags": [
+            "3C 攝影",
+            "智慧居家"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "母嬰神物美國黑五價差王：Owlet／Nanit Pro／Ergobaby",
+          "price": "Owlet Dream Sock $199.99（省 $100，Dream Duo $269.99＋送 $40 包巾）；Nanit Pro 監視器 $202.99（7 折）；Ergobaby 透氣背巾 ~$175（75 折 / 清倉 6 折）",
+          "store": "各品牌官網 / Pottery Barn Kids / Albee Baby",
+          "highlight": "新手爸媽圈美國代購價差最大的三樣神器齊降！背巾與血氧腳環輕巧好塞行李（感測器含小電池建議手提登機）。",
+          "tags": [
+            "母嬰育兒",
+            "智慧居家"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "專櫃彩妝＆醫美黑五：MAC／Bobbi Brown 7 折＆SkinCeuticals 8 折",
+          "price": "MAC 免碼全站 7 折；Bobbi Brown 自動 7–75 折＋滿額贈正裝；SkinCeuticals 杜克精選組合 8 折；Dr. Dennis Gross 75–8 折",
+          "store": "各品牌美國官網",
+          "highlight": "難得折扣的杜克頂級醫美與專櫃人氣橘子霜／子彈唇膏同步開降，彩妝小巧好帶（>100ml 瓶裝乳霜放托運）。",
+          "tags": [
+            "美妝保養",
+            "專櫃醫美"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "小狐狸＆冬季針織黑五：Maison Kitsuné／Aerie／Hollister／Uniqlo US",
+          "price": "Maison Kitsuné 小狐狸 6–7 折（$200–$360）；American Eagle／Aerie 全站 5–6 折；Hollister 全站 7 折；Uniqlo US 純喀什米爾毛衣 $69.90–$79.90",
+          "store": "各品牌美國官網 / SSENSE / Revolve",
+          "highlight": "巴黎人氣小狐狸毛衣與美版純羊絨衫同步直降，衣物輕軟塞行李箱幾乎零負擔。",
+          "tags": [
+            "服飾鞋包",
+            "冬季針織"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "終身買斷雲端＆語言學習黑五：Internxt 1 折起／Pimsleur／Memrise／Headway",
+          "price": "Internxt 終身雲端 1–13 折（1TB $130／2TB $230／StackSocial 10TB $249.97，至 12/3）；Pimsleur 終身碼 CYBERAA $299（38 折）；Memrise 終身 $99（3 折）；Headway 終身 ~$39.97–$48",
+          "store": "各服務官網 / StackSocial",
+          "highlight": "免月費一次買斷大集合！Pimsleur 口說課程與 Memrise 終身直殺 3–38 折，Internxt 端對端加密雲端年度最低點！",
+          "tags": [
+            "終身買斷",
+            "雲端儲存",
+            "語言學習"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-0300",
       "date": "11/27",
