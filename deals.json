@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 01:30",
-  "updated_at_utc": "2026-11-26T17:30:30Z",
+  "updated_at_taipei": "2026/11/27 02:30",
+  "updated_at_utc": "2026-11-26T18:30:23Z",
   "digests": [
+    {
+      "id": "2026-11-27-0200",
+      "date": "11/27",
+      "time_taipei": "11/27 02:00",
+      "created_at_utc": "2026-11-26T18:30:23Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "電競手把＆賽車方向盤黑五史低：Turtle Beach 44 折＆SCUF 7 折",
+          "price": "Turtle Beach VelocityOne Race KD3 史低 $199.99（44 折 / 省 $250）、Stealth Pro II 無線耳機 $248（省 $100）；SCUF Valor Pro Wireless 手把 $129.99–$139.99（7 折）",
+          "store": "Amazon US / SCUF 官網",
+          "highlight": "賽車模擬組砍逾半價（體積較重較適合美國自用）；SCUF 競技手把與 Stealth Pro II 耳機輕巧好帶（含鋰電池須手提登機）。",
+          "tags": [
+            "電競周邊",
+            "遊戲配件"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Manta Sleep 100% 遮光眼罩＆ghd／T3 沙龍造型家電黑五",
+          "price": "Manta Sleep Classic ~$28（Amazon）／藍牙眼罩 $135（官網多件 7–8 折）；ghd 吹風機／離子夾最高 7 折；T3 造型器 75–8 折",
+          "store": "Amazon US / 各品牌官網 / Sephora",
+          "highlight": "長途紅眼班機神隊友 Manta Sleep 完全不壓眼球、超輕零體積（藍牙款含電池須手提登機；ghd／T3 美規 110V 台灣直插可用）。",
+          "tags": [
+            "旅行助眠",
+            "美髮家電"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Ecovacs 科沃斯掃拖機器人黑五砍 $300–$400（至 11/30）",
+          "price": "Deebot T90 Pro Omni $499（62 折 / 省 $300.99）、X12S OmniCyclone $899（省 $400）、GOAT O1000 割草機史低 $949",
+          "store": "Amazon US / Ecovacs 官網",
+          "highlight": "科沃斯年度最深 6 折價（全線含 WINBOT 擦窗機同步最高 6 折；掃拖機體積大且含電池較適合美國自用）。",
+          "tags": [
+            "智慧家電"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Solo Stove 無煙火爐＆Litter-Robot 貓砂盆＆TOTO Washlet 黑五",
+          "price": "Solo Stove Bonfire $314.99、Pi Prime 披薩爐 $349.99、Mesa XL 桌上爐 $81.99；Litter-Robot 4／5 套組省 $150；TOTO Washlet S7A $1,404（7 折）／K300 省 $125–$145",
+          "store": "Amazon US / Whisker / Home Depot / Lowe's",
+          "highlight": "露營與高階居家逸品同步大降！Mesa XL 桌上迷你無煙爐小巧好帶（Bonfire／貓砂盆／免治馬桶座體積較大適合美國自用）。",
+          "tags": [
+            "戶外露營",
+            "寵物居家",
+            "衛浴家電"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Steam 黑五（02:00 剛啟動）實況＆十週年 Steam 大獎提名開跑",
+          "price": "11/26–30 採「發行商個別特賣」（無官方全站大促，含 Shueisha Games 等史低）；下波官方全站特賣為 12/17–1/4 冬季特賣",
+          "store": "Steam Store",
+          "highlight": "因 Valve 將秋促移至 10 月，本週末建議直接刷個人「願望清單」或比價 GOG／GMG／Fanatical 序號，並順手投票 Steam 大獎拿十週年徽章！",
+          "tags": [
+            "Steam",
+            "遊戲特賣"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-0100",
       "date": "11/27",
