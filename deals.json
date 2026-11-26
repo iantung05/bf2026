@@ -1,8 +1,80 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 23:31",
-  "updated_at_utc": "2026-11-26T15:31:08Z",
+  "updated_at_taipei": "2026/11/27 00:30",
+  "updated_at_utc": "2026-11-26T16:30:48Z",
   "digests": [
+    {
+      "id": "2026-11-27-0000",
+      "date": "11/27",
+      "time_taipei": "11/27 00:00",
+      "created_at_utc": "2026-11-26T16:30:48Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "TW",
+          "title": "🔥 11/27 黑五正日 00:00 剛開跑！台灣五大限定同步生效",
+          "price": "好市多線上單日「滿 NT$8,800 現折 $880」（可疊黑五價）；Google AI Pro／Plus 新用戶優惠解禁；Agoda 黑五閃購 8 折起（11/27–30）；MUJI 9 折；全家康康五＆7-11 買 2 送 2＆先喝道買 1 送 1 全開跑",
+          "store": "台灣好市多線上 / Google One / Agoda / MUJI / 超商",
+          "highlight": "黑五正日午夜起跑！好市多線上折 $880 僅限 11/27 今天一日；Google AI 新用戶方案剛解禁；另提醒今早 10:30 STUDIO A 認證蘋果 3.1 折起發號碼牌！",
+          "tags": [
+            "黑五正日",
+            "剛開搶",
+            "台灣精選"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Hi-Fi 音響＆攝影黑五：KEF Q1 Meta 57 折＆Fujifilm X-T5 省 $200",
+          "price": "KEF Q1 Meta 書架喇叭 $399（57 折 / 省 $300 / 原價 $699，全線最高 75 折）；Fujifilm X-T5 機身／變焦鏡組現省 $200",
+          "store": "Amazon US / B&H Photo / KEF 授權店",
+          "highlight": "發燒書架喇叭 Q1 Meta 直砍 $300（體積略重）；富士復古旗艦 X-T5 罕見直降 $200（含鋰電池建議手提登機；X100VI／Ricoh GR III 缺貨無直接打折）。",
+          "tags": [
+            "影音喇叭",
+            "3C 攝影"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Zara 美國 App／官網感恩節黑五最高 6 折（台灣 ZARA 無黑五）",
+          "price": "Zara US 精選大衣／針織／鞋包最高 6 折（台北 11/27 07:00–09:00 App 搶先開賣）",
+          "store": "Zara US App / 官網",
+          "highlight": "台灣 ZARA 要等到 12 月中才打折，美站感恩節晚間直接先殺 6 折，熱門尺碼易秒殺，建議先加購物車等開賣！",
+          "tags": [
+            "服飾鞋包",
+            "美網限定"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "Indie App Sales 2026（11/27–30 剛開跑！）Mac／iOS 獨立神軟折扣碼",
+          "price": "BoltAI 3 買斷碼 BFCM2026 6 折；Darkroom+ 首年 5 折 $19.99；Nitro Photo 買斷 5 折；DevUtils 5 折；SQLPro 碼 BFHALFOFF 5 折；Compresto 碼 BFCM26 6 折；MuteDeck 終身 65 折",
+          "store": "indieappsales.com",
+          "highlight": "Mac／iOS 獨立開發者年度最大聯合特賣今日正式登場！官網直購買斷或首年對折比 App Store 內購更划算。",
+          "tags": [
+            "Mac 軟體",
+            "開發工具",
+            "剛開搶"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "SEGA ＆ Atlus 黑五神價（Steam／PS／eShop 同步，至 11/30）",
+          "price": "《人中之龍 8》$13.99（2 折！）、《戰錘 3》$8.99（15 折！）、《女神異聞錄 3 Reload》$20.99（35 折 / Switch $29.99）、《P5R》3 折、《索尼克未知邊境》$9.99、《雙點博物館》$20.09",
+          "store": "Steam / PS Store / Nintendo eShop",
+          "highlight": "JRPG 與策略大作史低大跳水！《人中之龍 8》兩折只要台幣四百多。⏰ **1.5 小時後（02:00 台北）Steam 黑五特賣＆大獎提名** 正式登場！",
+          "tags": [
+            "遊戲特賣",
+            "Steam",
+            "Switch"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-2300",
       "date": "11/26",
