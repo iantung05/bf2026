@@ -1,8 +1,76 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 08:31",
-  "updated_at_utc": "2026-11-26T00:31:30Z",
+  "updated_at_taipei": "2026/11/26 09:31",
+  "updated_at_utc": "2026-11-26T01:31:30Z",
   "digests": [
+    {
+      "id": "2026-11-26-0900",
+      "date": "11/26",
+      "time_taipei": "11/26 09:00",
+      "created_at_utc": "2026-11-26T01:31:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Sonos 隨身防水喇叭直降：Move 2＆Roam 2",
+          "price": "Move 2 $399（8 折 / 省 $100）／Roam 2 $139（78 折 / 省 $40）",
+          "store": "Amazon US / Best Buy",
+          "highlight": "Wi-Fi＋藍牙雙模可攜式喇叭同步破盤！Roam 2 僅水壺大小超好帶（Move 2 略重，皆含鋰電池須手提登機）。",
+          "tags": [
+            "影音耳機",
+            "智慧家庭"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Samsung 平板新波段：Tab S10 FE 64 折＆Tab S12+ 送 $200 禮卡",
+          "price": "Tab S10 FE $349.99（64 折 / 省 $200）／Tab A11+ $279；Tab S12+ 贈 $200 禮品卡",
+          "store": "Amazon US",
+          "highlight": "S10 FE 約台幣 1.13 萬還附 S Pen，最新 S12+ 搭 Prime 送 $200 禮卡超補（含鋰電池須手提登機）。",
+          "tags": [
+            "3C硬體",
+            "平板"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "SanDisk Extreme 隨身 SSD＆超迷你 USB-C 碟 65 折起",
+          "price": "Extreme 1TB SSD ~$198.55（66 折）／Extreme Fit USB-C 256GB $49.99・1TB $203.99（65 折）",
+          "store": "Amazon US",
+          "highlight": "記憶體漲價潮下少見的 65 折大降！超迷你 USB-C 隨身碟插筆電幾乎不凸出，零體積好帶回。",
+          "tags": [
+            "3C硬體",
+            "儲存裝置"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "平價鞋王＆瑜珈神器：Skechers／Reebok／Manduka",
+          "price": "Skechers 最高 31 折（碼 BF2026 再 85 折）／Reebok 最高 3 折（碼 SAVE15）／Manduka 最高 6 折",
+          "store": "各品牌美國官網",
+          "highlight": "久走神鞋 Skechers 與 Reebok 經典鞋拆盒帶回省超大；瑜珈名墊 Manduka 同步特賣（墊子體積較長）。",
+          "tags": [
+            "服飾鞋包",
+            "運動戶外"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "台灣速食感恩新一波：麥當勞 APP 5 天券＆漢堡王 5 大點心買一送一",
+          "price": "麥當勞金選美式／飲料買一送一、買套餐送薯餅/小薯；漢堡王雞塊・小薯・洋蔥圈買一送一、雙堡 $129",
+          "store": "台灣麥當勞 APP（至 11/29）/ 漢堡王",
+          "highlight": "麥當勞 APP 11/25–29 接力釋出新一波買一送一券；漢堡王年終狂歡券一路用到明年 1/1。",
+          "tags": [
+            "美食飲品"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-0800",
       "date": "11/26",
