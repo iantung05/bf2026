@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 15:30",
-  "updated_at_utc": "2026-11-26T07:30:36Z",
+  "updated_at_taipei": "2026/11/26 16:30",
+  "updated_at_utc": "2026-11-26T08:30:39Z",
   "digests": [
+    {
+      "id": "2026-11-26-1600",
+      "date": "11/26",
+      "time_taipei": "11/26 16:00",
+      "created_at_utc": "2026-11-26T08:30:39Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "TW",
+          "title": "台灣好市多黑五 Day 5（11/27 黑五正日）16:00 官方預告：3C／家電／精品",
+          "price": "18K 鑽鍊省 $17,000、MSI 17.3\" 電競筆電省 $13,900、BOSE 劇院組省 $9,000、TCL 75\" MiniLED 省 $8,000、ASUS 16\" 筆電省 $6,000、LG 65\" QNED 省 $5,800、石頭掃拖機省 $3,500、LG 360 清淨機省 $3,400、EUFY E20／JBL PartyBox 各省 $2,000、追覓 H14 Pro 省 $1,800",
+          "store": "台灣好市多實體賣場（11/27 7:30 黑鑽／8:30 一般）",
+          "highlight": "剛出爐的 11/27 黑五正日完整大件清單！明（11/27 00:00）好市多線上同步開跑「單筆滿 $8,800 現折 $880」（可疊黑五價），不想排隊今晚午夜先搶線上。",
+          "tags": [
+            "好市多黑五",
+            "3C 家電"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "TW",
+          "title": "台灣好市多黑五 Day 5（11/27）日用／生鮮／鞋款清單",
+          "price": "New Balance 996 復古鞋省 $500、橘子工坊洗衣膠囊省 $180、哈根達斯雪酥 10 入省 $170、KUNDAL 擴香省 $150、灣仔碼頭脆皮煎餃 4 包省 $110、記憶棉頸枕省 $80、台灣雞里肌每公斤省 $50（限 11/27 單日）",
+          "store": "台灣好市多實體賣場",
+          "highlight": "明早進場必拿日常補貨與 NB 996 經典鞋，每卡每項限購 1 件；生鮮雞里肌只特價 11/27 一天（椪柑省 $30 至 11/29）。",
+          "tags": [
+            "好市多黑五",
+            "生活食品"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "高爾夫球具三大廠黑五破盤：Callaway／TaylorMade／Titleist",
+          "price": "Callaway ELYTE 木桿 ~$300–$349（原價 $600+）／Quantum 省 $200／官方認證二手最高 4 折；TaylorMade Qi35 ~$450＆球盒買 2 送 1；Titleist GT2 ~$450（省 $200）",
+          "store": "PGA TOUR Superstore / Callaway Pre-Owned / 美國高爾夫通路",
+          "highlight": "難得降價的高爾夫大廠同步跳水，Titleist GT2 直省 $200、TaylorMade 球盒 3-for-2（整支球桿超長須特殊託運，改買高球／球頭／配件最輕便）。",
+          "tags": [
+            "戶外運動",
+            "高爾夫"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Maison Margiela REPLICA 香氛＆德訓鞋＋Urban Outfitters 全站 6 折起",
+          "price": "Maison Margiela REPLICA 美網香氛 75 折、德訓鞋／Tabi 靴於 SSENSE／Cettire 6–8 折；Urban Outfitters 結帳最高 6 折（特價區低至 2 折）",
+          "store": "Maison Margiela US / SSENSE / Urban Outfitters",
+          "highlight": "人氣 Jazz Club 香水（>100ml 放托運）與德訓鞋同步降價；避雷：Diptyque 官網不打折（僅滿額贈包）、Warby Parker 無黑五降價。⏰ Sephora 11/26 單日 7 折（fresh／Skinfix／Sunday Riley）剛於 16:00 同步開賣！",
+          "tags": [
+            "美妝香氛",
+            "服飾鞋包"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-1500",
       "date": "11/26",
