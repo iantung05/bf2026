@@ -1,8 +1,79 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 00:30",
-  "updated_at_utc": "2026-11-26T16:30:48Z",
+  "updated_at_taipei": "2026/11/27 01:30",
+  "updated_at_utc": "2026-11-26T17:30:30Z",
   "digests": [
+    {
+      "id": "2026-11-27-0100",
+      "date": "11/27",
+      "time_taipei": "11/27 01:00",
+      "created_at_utc": "2026-11-26T17:30:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "發燒耳機＆客製鍵盤黑五：Drop HD 6XX／PC38X／Epomaker／Glorious",
+          "price": "Drop HD 6XX ~$199.95／PC38X ~$119–$129；Epomaker 全站 85 折（HE60 磁軸 $45.99 起）；Glorious GMMK 3／Boardsmith 75 折（至 11/30）",
+          "store": "Drop / Epomaker / Glorious 官網",
+          "highlight": "發燒友經典 HD 6XX 有線免電池最安心、Epomaker 磁軸鍵盤不到台幣 $1,600（無線鍵鼠含電池建議手提登機）。",
+          "tags": [
+            "影音耳機",
+            "機械鍵盤"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "歐系頂級戶外＆潮流襪黑五：Mammut 長毛象 7 折／Rab 6 折／Stance 6 折",
+          "price": "Mammut 會員滿 $250 8 折／$350 75 折／$500+ 享 7 折；Rab 羽絨／防水外套通路最高 6 折；Stance 潮流襪最高 6 折（新戶 8 折歡迎碼）",
+          "store": "Mammut / Stance 官網 / REI / Backcountry",
+          "highlight": "瑞士頂級長毛象滿額直接給 7 折超有誠意、衣物輕軟好塞行李；Stance 襪組超輕巧最百搭。",
+          "tags": [
+            "戶外服飾",
+            "冬季外套"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "英美精品香氛沐浴黑五：Molton Brown／MALIN+GOETZ／Penhaligon's",
+          "price": "Molton Brown 全站 75 折（滿 $100 碼 EDP 再送 $30 香水，至 12/1）；MALIN+GOETZ 全站 8 折、滿 $125 享 75 折；Penhaligon's 碼 BLACKFRIDAY 滿 £140 送 3 支 10ml 香水組",
+          "store": "各品牌官方網站",
+          "highlight": "皇室御用沐浴與紐約極簡香氛官方直降（⚠️ 超過 100ml 液體瓶裝務必放托運行李並做好防漏）。",
+          "tags": [
+            "美妝香氛",
+            "精品禮品"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "NAS 儲存＆PC 硬體黑五：QNAP TR-004 69 折＆ASUSTOR／Fractal／Twinkly",
+          "price": "QNAP TR-004 4-Bay USB-C DAS $184.99（69 折 / 原價 $269.99）；ASUSTOR NAS 8 折起；Fractal Epoch RGB 機殼 $97.49；Twinkly Flex RGB 燈管 $69",
+          "store": "Newegg / Amazon US / B&H",
+          "highlight": "影音剪輯與 NAS 擴充愛用 4-Bay 外接盒直省 $85（外接盒與機殼體積略大，Twinkly 智慧燈飾輕巧好帶）。",
+          "tags": [
+            "PC 硬體",
+            "NAS 儲存",
+            "智慧照明"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Steam 黑五（02:00 即將開跑！）前哨神作史低價",
+          "price": "《柏德之門 3》$41.99（7 折）；《文明帝國 VII》$49.99（5 折）；《碧血狂殺 2》$14.99（25 折 / PS 終極版 $19.99 享 2 折）",
+          "store": "Steam / PlayStation Store",
+          "highlight": "年度神作同步跳水！⏰ **30 分鐘後（11/27 02:00 台北）Steam 黑五全站發行商特賣＆十週年大獎提名正式開跑**，下小時搶先掃描！",
+          "tags": [
+            "遊戲特賣",
+            "Steam",
+            "最後倒數"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-0000",
       "date": "11/27",
