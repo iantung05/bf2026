@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 04:30",
-  "updated_at_utc": "2026-11-26T20:30:28Z",
+  "updated_at_taipei": "2026/11/27 05:30",
+  "updated_at_utc": "2026-11-26T21:30:21Z",
   "digests": [
+    {
+      "id": "2026-11-27-0500",
+      "date": "11/27",
+      "time_taipei": "11/27 05:00",
+      "created_at_utc": "2026-11-26T21:30:21Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "輕奢針織＆雨天機能鞋包黑五：Vince／Kizik／Hunter／Rains",
+          "price": "Vince 碼 BFCM 全站 75 折＋喀什米爾毛衣 7 折；Kizik 免彎腰秒穿鞋最高 6 折；Hunter 雨靴 75 折；Rains 丹麥防水衣包（SSENSE／Backcountry）6–7 折",
+          "store": "Vince / Kizik / Hunter 官網 / SSENSE / Backcountry",
+          "highlight": "台灣冬季多雨超實穿的 Rains 防水外套與 Kizik 免手穿脫神鞋（長輩／孕婦最愛）同步大降，衣物輕巧好帶！",
+          "tags": [
+            "服飾鞋包",
+            "防水機能"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "舒肥棒＆超輕量登山睡墊黑五：Anova／NEMO／Sea to Summit",
+          "price": "Anova Precision Cooker 舒肥機 Amazon 5–7 折（Nano ~$80–$99）；REI.com NEMO Tensor 睡墊最高 6 折、Sea to Summit 75 折",
+          "store": "Amazon US / REI.com",
+          "highlight": "Anova 舒肥棒小巧且美規 110V 台灣直插可用；REI 門市黑五公休但線上照賣，超輕量露營睡墊收納起來像水壺一樣好塞行李！",
+          "tags": [
+            "廚房家電",
+            "戶外露營"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "TW",
+          "title": "台灣好市多 11/27 線上最高折價曝光：SOLE 智能橢圓機省 $21,000（＋早鳥倒數）",
+          "price": "SOLE 智能橢圓機線上直省 NT$21,000（可疊今日單日限定「滿 $8,800 現折 $880」！）",
+          "store": "台灣好市多線上＆實體賣場",
+          "highlight": "11/27 黑五正日最高單品折扣曝光！⏰ **2 小時後（07:30 黑鑽／08:30 一般）** 實體 Day 5 開搶（MSI 17.3\" 筆電省 $13,900／BOSE 劇院省 $9,000／NB 996 省 $500）。",
+          "tags": [
+            "好市多黑五",
+            "居家健身"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "攝影師降噪修圖神軟 DxO 全線免碼最高 5 折（至 11/29）",
+          "price": "PhotoLab 10 ELITE $199.99（省 $50）／PureRAW 6 $99.99（省 $40）／Nik Collection 9 $149.99（省 $30）／FilmPack 8 ELITE $74.99（5 折！）",
+          "store": "DxO 官網",
+          "highlight": "相機玩家公認地表最強 RAW 降噪與鏡頭校正買斷軟體，一年僅此一次免訂閱官降！",
+          "tags": [
+            "攝影軟體",
+            "終身買斷"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Mac 觸控板神器 BetterTouchTool 終身 6 折 ＆ Scrivener 8 折",
+          "price": "BetterTouchTool 終身版 $15（6 折 / 原價 $25，2 年版 $10.50，至 11/30）；Scrivener 長文寫作神器碼 NOVEMBER26 享 8 折（至 12/7）",
+          "store": "folivora.ai / Literature & Latte 官網",
+          "highlight": "Mac 進階玩家必裝自訂手勢／快捷鍵神軟，史低 $15（約 NT$480）一次買斷用一輩子！",
+          "tags": [
+            "Mac 軟體",
+            "終身買斷"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-0400",
       "date": "11/27",
