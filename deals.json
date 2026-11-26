@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 13:31",
-  "updated_at_utc": "2026-11-26T05:31:41Z",
+  "updated_at_taipei": "2026/11/26 14:31",
+  "updated_at_utc": "2026-11-26T06:31:46Z",
   "digests": [
+    {
+      "id": "2026-11-26-1400",
+      "date": "11/26",
+      "time_taipei": "11/26 14:00",
+      "created_at_utc": "2026-11-26T06:31:46Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "GL.iNet 旅遊／VPN 路由器黑五官降 8–85 折",
+          "price": "Slate AX $101.99（85 折）／Slate Plus $59.49／Flint 2 $144.49／Brume 3 VPN 閘道器 $103.99（8 折）",
+          "store": "Amazon US / GL.iNet 官網",
+          "highlight": "工程師與出國族神機（內建 WireGuard/OpenVPN），Slate Plus／Slate AX 巴掌大小、無鋰電池超好請朋友帶回！",
+          "tags": [
+            "3C 網通",
+            "旅行好物"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "FiiO 飛傲官方黑五 58 款發燒音訊全線特惠（11/23–12/6）",
+          "price": "KA13/15/17 小尾巴、BTR13/17/Retro Nano 藍牙耳擴、FT1/FT1 Pro 木殼耳罩、DM13 隨身 CD 機同步降價",
+          "store": "Amazon US FiiO 官方旗艦店",
+          "highlight": "Head-Fi 玩家熱推高 CP 音訊大廠年度最大檔期，小尾巴與入耳式耳機極輕巧（內建鋰電池的藍牙耳擴／CD 機建議手提登機）。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Suunto 戶外運動錶黑五最高 54 折（同場 Blundstone 85 折）",
+          "price": "Race 2 $399（省 $100）／Race S $249（省 $100）／Suunto Run $149（6 折 / 原價 $249）；Blundstone 澳洲靴 85 折",
+          "store": "Suunto 官網 / Amazon US / Blundstone 官網",
+          "highlight": "越野跑與鐵人玩家名錶下殺（手錶含鋰電池須手提登機）；同場 REI 明日門市依例公休但線上續賣，Helinox Chair Zero 露營椅約 75 折省 $40。",
+          "tags": [
+            "3C 穿戴",
+            "戶外運動",
+            "服飾鞋包"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "台灣超商黑五週末大戰（11/27 明開跑）：全家「康康五」＆ 7-11「超值五六日」",
+          "price": "全家 11/27–12/1 雪碧／辛拉麵炒麵／甜筒／雪糕買 1 送 1、特濃咖啡第 2 杯 $10（11/28 特大咖啡 $39）；7-11 11/27–29 御料小館冷凍＆奶青買 2 送 2（單包 ~$23 起）",
+          "store": "全家便利商店 / 7-ELEVEN 門市",
+          "highlight": "明天黑五正式開搶！全家康康五連跑 5 天＋霜淇淋 2 支 $55（每日 17:00–20:59 單支 $29）；7-11 冷凍宵夜直接對折囤貨最划算。",
+          "tags": [
+            "超商優惠",
+            "美食飲品"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Namecheap 2026 黑五域名＆主機下殺（至 12/4）＆ Square Enix 數位黑五",
+          "price": "Namecheap 網域最高 1 折起（up to 99% off）、主機最高 2 折、SSL 最高 29 折；Square Enix《FF7 Rebirth》《歧路旅人》跨平台特惠",
+          "store": "Namecheap 官網 / Steam / PS / eShop",
+          "highlight": "開發者／架站年度買網域與移轉黃金檔期（至美東 12/4 23:59）；Square Enix 主機版特賣至 11/30、Steam 版至 12/2。",
+          "tags": [
+            "開發者工具",
+            "遊戲特賣"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-1300",
       "date": "11/26",
