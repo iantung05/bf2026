@@ -1,8 +1,78 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 19:30",
-  "updated_at_utc": "2026-11-26T11:30:45Z",
+  "updated_at_taipei": "2026/11/26 20:30",
+  "updated_at_utc": "2026-11-26T12:30:59Z",
   "digests": [
+    {
+      "id": "2026-11-26-2000",
+      "date": "11/26",
+      "time_taipei": "11/26 20:00",
+      "created_at_utc": "2026-11-26T12:30:59Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Wacom 繪圖板／繪圖螢幕全線黑五直降（至 11/30）",
+          "price": "Intuos M 藍牙 $99.95（省 $30）／Intuos Pro M $299.95（省 $80）／Wacom One 14 $224.95（省 $75）／Movink 13 OLED $499.95（省 $100）／Cintiq Pro 17 $1,999.95（省 $500）",
+          "store": "Amazon US / Wacom 官網",
+          "highlight": "創作者與設計師年度最低點！Intuos／Movink 13 超薄輕巧（藍牙版含電池建議手提登機），同場 XP-Pen／Huion 同步 7–75 折（Deco 01 V3 ~$45）。",
+          "tags": [
+            "3C 創作",
+            "繪圖板"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Baseus 倍思 Amazon US 黑五神碼：100W 筆電行充＆快充頭最高 4 折",
+          "price": "Blade 20,000mAh 100W 超薄行充碼 Z6J1ANOV 折後 $39.49（4 折 / 原價 $99.99）；All-in-One 10,000mAh（含線＋Apple Watch 充）碼 5VN2NHYX 史低 $29；100W 3 孔 GaN $31.32",
+          "store": "Amazon US",
+          "highlight": "IGN 與 9to5Toys 狂推超值快充！Blade 20,000mAh（74Wh 符合航空規定）僅 $39.49；⚠️ 行動電源嚴禁托運，務必隨身手提登機。",
+          "tags": [
+            "3C 配件",
+            "行動電源"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "美式冬季鞋靴＆飾品黑五：Eddie Bauer／Sorel／Danner／L.L.Bean／Kendra Scott",
+          "price": "Eddie Bauer 全站 4–5 折；Sorel 雪靴最高 5 折（清倉 4 折）；Danner 登山靴最高 5 折；L.L.Bean 碼 GIFT15 85 折；Kendra Scott 全站 7 折（至 11/30）",
+          "store": "各品牌美國官網 / Nordstrom",
+          "highlight": "冬季出國賞雪必備 Sorel 防水雪靴＆Eddie Bauer 羽絨外套直接半價，Kendra Scott 經典項鍊輕巧無體積最適合帶回送禮。",
+          "tags": [
+            "服飾鞋包",
+            "冬季戶外"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "台灣串流年繳特惠：MyVideo ＆ KKBOX 無損音質（＋今晚 23:00 日亞倒數）",
+          "price": "MyVideo 豪華月租 365 天年卡序號 NT$888（月均 ~$74）；KKBOX 全用戶無損音質 3 人家庭年繳 $2,290／6 人 $2,590（學生 $960/360 天）",
+          "store": "momo / myfone / KKBOX 官網",
+          "highlight": "追劇與無損聽歌年繳省一半！⏰ **今晚 2.5 小時後重頭戲**：**23:00 Amazon JP 日亞黑五先行特賣開搶（滿 ¥10,000 最高 11% 回饋）**→ **00:00 台灣好市多線上滿 $8,800 現折 $880＋MUJI 9 折**！",
+          "tags": [
+            "串流影音",
+            "檔期倒數"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Flighty Pro 飛航神器「買 12 送 3 個月」＆ 航空／學習黑五",
+          "price": "Flighty Pro 個人年費自動送 3 個月（付 12 享 15 個月）；Skillshare 年繳 8 折＋免費 1 個月；卡達航空最高 75 折／漢莎航空碼 BF26 折 €40",
+          "store": "Flighty App / Skillshare / 各航空官網",
+          "highlight": "Apple 設計獎飛航追蹤神器 Flighty 罕見黑五加碼送 3 個月（限非現有 Pro 訂戶）；同場 NYT Store 實體周邊碼 BF2026 75 折至 11/29。",
+          "tags": [
+            "旅行工具",
+            "機票旅遊",
+            "線上學習"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-1900",
       "date": "11/26",
