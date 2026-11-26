@@ -1,8 +1,76 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 11:31",
-  "updated_at_utc": "2026-11-26T03:31:30Z",
+  "updated_at_taipei": "2026/11/26 12:33",
+  "updated_at_utc": "2026-11-26T04:33:00Z",
   "digests": [
+    {
+      "id": "2026-11-26-1200",
+      "date": "11/26",
+      "time_taipei": "11/26 12:00",
+      "created_at_utc": "2026-11-26T04:33:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "ProGrade Digital 專業記憶卡＆讀卡機黑五 65–9 折",
+          "price": "CFexpress 4.0 Type B Gold 1TB $489.99（7 折 / 原價 $699.99）",
+          "store": "Amazon US / ProGrade 官網",
+          "highlight": "全線約 40 款專業記憶卡（含 Iridium 系列）與讀卡機直降 10%–35%，1TB 高速卡省 $210；超輕巧零體積，攝影玩家必收。",
+          "tags": [
+            "3C 攝影",
+            "儲存裝置"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Canon RF 大光圈變焦鏡黑五直降",
+          "price": "RF 24-70mm f/2.8L $2,399（省 $200）／RF 28-70mm f/2.8 IS STM $1,049（省 $200）",
+          "store": "B&H Photo / Amazon US",
+          "highlight": "Canon 兩顆主力 f/2.8 標準變焦同步特價，B&H 退貨延長至明年 1 月；同場 Sigma 18-50mm f/2.8 與 Amaran 補光燈（7–85 折）同步開跑（精密玻璃建議手提登機）。",
+          "tags": [
+            "3C 攝影"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "男仕理容＆美容儀黑五：Philips Norelco／Manscaped／Ulike",
+          "price": "Norelco i9000/Prestige ~$129–$159、OneBlade 360 $49.96、21 合 1 $39.99；Manscaped 全站 75 折（Beard Hedger $69.99）；Ulike IPL 最高 45 折",
+          "store": "Amazon US / 各品牌官網",
+          "highlight": "Manscaped 官網 75 折＋會員點數雙倍至 11/30（Ultra Gen 6 套組 $134.99）；Ulike 除毛儀官方與 Amazon 同步 45 折起（含鋰電池機身建議手提登機，刀片配件放托運）。",
+          "tags": [
+            "美妝理容",
+            "個人家電"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Withings 智慧指針錶＆旗艦體脂計黑五特惠",
+          "price": "ScanWatch 2 ~$299（81 折）／ScanWatch Nova 省 $100（83 折）／Body Scan 體脂計省 $130",
+          "store": "Amazon US / Withings 官網",
+          "highlight": "難得折扣的法系指針外型健康手錶（心電圖＋血氧），Body Scan 旗艦體脂計官網直降 $130（手錶含鋰電池須手提登機；體脂計為玻璃且體積略大）。",
+          "tags": [
+            "3C 穿戴",
+            "健康居家"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "CHARLES & KEITH（小 CK）台灣黑五今日（11/26–12/3）正式開跑",
+          "price": "精選包款／鞋款／皮夾最低 5 折起",
+          "store": "CHARLES & KEITH 台灣官網＆專櫃",
+          "highlight": "少數在台明確公告黑五 5 折起的配件品牌（台灣 ZARA／H&M／GU 多不跟進全館黑五，大折扣落 12 月中）。另提醒：今 13:00 美國感恩節午夜場、16:00 好市多 Day 5 預告、23:00 日亞黑五先行特賣開搶！",
+          "tags": [
+            "服飾鞋包",
+            "檔期快報"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-1100",
       "date": "11/26",
