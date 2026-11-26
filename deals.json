@@ -1,8 +1,63 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 07:31",
-  "updated_at_utc": "2026-11-25T23:31:30Z",
+  "updated_at_taipei": "2026/11/26 08:31",
+  "updated_at_utc": "2026-11-26T00:31:30Z",
   "digests": [
+    {
+      "id": "2026-11-26-0800",
+      "date": "11/26",
+      "time_taipei": "11/26 08:00",
+      "created_at_utc": "2026-11-26T00:31:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "旗艦運動＆全景相機首降：Insta360 X5＆DJI Osmo Action 6",
+          "price": "Insta360 X5 $439.99（8 折 / 省 $110）／DJI Action 6 美國首降折 $70（約 $404 起）／DJI Mini 3 $303 起",
+          "store": "Amazon US / Insta360 官網 / Best Buy",
+          "highlight": "兩款最新旅遊錄影神機同步大降，掌心大小不佔行李（電池務必隨身手提登機；Mini 3 暢飛組 $589）。",
+          "tags": [
+            "相機攝影",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Clarks 史上最大黑五全線 5 折起（沙漠靴／袋鼠鞋）",
+          "price": "全線最高 5 折（免碼，含經典 Wallabee 袋鼠鞋與沙漠靴）",
+          "store": "Clarks US 官網",
+          "highlight": "台灣專櫃動輒 $6,000–$8,000 的經典潮流鞋款，美國黑五直殺半價起，拆盒請朋友帶回現省一半。",
+          "tags": [
+            "服飾鞋包"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "羊絨＆質感男裝黑五：Naadam／Quince／Rhone／Faherty",
+          "price": "Naadam 最高 6 折／Quince 罕見 App 最高 7 折／Rhone 全站 75 折／Faherty 最高 3 折",
+          "store": "各品牌美國官網 / App",
+          "highlight": "平常幾乎不打折的 CP 值羊絨名牌 Quince 祭出 App 快閃，Naadam 羊絨衫與 Rhone 機能男裝同步年度低價。",
+          "tags": [
+            "服飾鞋包"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "美系戶外機能黑五：Marmot 7 折＆Outdoor Research 75 折",
+          "price": "Marmot 幾近全站 7 折（過季最高 5 折）／Outdoor Research 全站 75 折",
+          "store": "各品牌美國官網",
+          "highlight": "羽絨衣、Gore-Tex 防水外套與雪地登山手套年度最深折扣，冬季出國賞雪滑雪必看。",
+          "tags": [
+            "運動戶外",
+            "服飾鞋包"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-0700",
       "date": "11/26",
