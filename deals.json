@@ -1,8 +1,78 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 05:30",
-  "updated_at_utc": "2026-11-26T21:30:21Z",
+  "updated_at_taipei": "2026/11/27 06:30",
+  "updated_at_utc": "2026-11-26T22:30:27Z",
   "digests": [
+    {
+      "id": "2026-11-27-0600",
+      "date": "11/27",
+      "time_taipei": "11/27 06:00",
+      "created_at_utc": "2026-11-26T22:30:27Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "PC 電競掌機黑五全線直降：ROG Ally／Legion Go S／MSI Claw 8 AI+",
+          "price": "ROG Ally Z1E $585–$630（拆封 ~$380）／Ally X $809；Legion Go $630／Go S SteamOS $749（省 $240）；MSI Claw 8 AI+ $1,000–$1,099（省 $200–$300）",
+          "store": "Best Buy / Amazon US",
+          "highlight": "Windows／SteamOS 掌機三巨頭年度最大下殺，體積小巧好塞隨身包（含大容量鋰電池須隨身手提登機）。",
+          "tags": [
+            "電競掌機",
+            "PC 硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Ninja Luxe Café 3 合 1 義式咖啡機省 $100–$160（＆ Gozney 披薩爐）",
+          "price": "Ninja Luxe Café Premier (ES601) $499.99（省 $100 / 原價 $599.99）／Mini Plus ~$339.99（省 $160）；Gozney Arc XL 省 $150",
+          "store": "Amazon US / 戶外通路",
+          "highlight": "爆紅自動研磨＋奶泡義式機大降百美元（美規 110V 台灣直插可用，但機身體積與重量較大較適合美國自用）。",
+          "tags": [
+            "咖啡家電",
+            "廚房用品"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "文具鋼筆＆數位鋼琴黑五：Lamy／Moleskine／Korg／Yamaha／Roland",
+          "price": "Lamy Safari ~$27–$30（Goldspot／Pen Boutique 5–8 折）、Moleskine／Leuchtturm1917 7–85 折；Korg Grandstage X $1,499（省 $500）、Yamaha P-225B $649、Roland FP-10 $419",
+          "store": "Amazon US / Goldspot / Sweetwater / Guitar Center",
+          "highlight": "鋼筆與筆記本零重量免電池超好帶回（同場 Melissa & Doug 益智玩具 6–7 折；88 鍵電鋼琴體積大適合美國自購）。",
+          "tags": [
+            "文具鋼筆",
+            "樂器鍵盤"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "工程師刷題＆系統設計神課黑五最高 3 折：DesignGurus／Educative／LeetCode",
+          "price": "DesignGurus（Grokking System Design）全站課程＆終身包免碼 3 折；Educative 年繳 4–45 折；LeetCode 年費 ~$129–$139（原價 $159）",
+          "store": "DesignGurus / Educative / LeetCode 官網",
+          "highlight": "科技業面試與系統設計必買教材全年最深折扣，免折扣碼直接結帳！",
+          "tags": [
+            "工程師學習",
+            "數位訂閱"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "CuriosityStream 紀錄片終身版（＋今早 07:00–10:30 黑五搶購提醒）",
+          "price": "CuriosityStream 標準終身會員（StackSocial 碼 GET25／DEAL20）~$74.98–$119.99（官網年繳 7–75 折）",
+          "store": "StackSocial / CuriosityStream 官網",
+          "highlight": "紀錄片迷一次買斷看到飽！⏰ **接下來 4 小時重點**：**07:00–09:00 Zara US 6 折**、**07:30 台灣好市多 Day 5 黑鑽入場**、**10:00 Sephora 主檔 5 折起**、**10:30 STUDIO A 發號碼牌**！",
+          "tags": [
+            "終身買斷",
+            "串流影音",
+            "檔期提醒"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-0500",
       "date": "11/27",
