@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 22:31",
-  "updated_at_utc": "2026-11-26T14:31:42Z",
+  "updated_at_taipei": "2026/11/26 23:31",
+  "updated_at_utc": "2026-11-26T15:31:08Z",
   "digests": [
+    {
+      "id": "2026-11-26-2300",
+      "date": "11/26",
+      "time_taipei": "11/26 23:00",
+      "created_at_utc": "2026-11-26T15:31:08Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "TW",
+          "title": "🔥 Amazon JP 日亞黑五先行特賣（23:00 剛開搶！）最新半價爆款",
+          "price": "最新款 Fire TV Stick 4K 首次半價 ¥5,980（約 NT$1,250）；MYTREX 按摩槍／美顏器最高 6 折；Echo Studio 今年最低價；Areti 純陶瓷離子夾最安値級",
+          "store": "Amazon JP（11/26 23:00–11/29 22:59 台北）",
+          "highlight": "剛準點開跑！先行與正式檔同價但熱門款易搶空，結帳前記得按「ポイントアップ」報名（滿 ¥10,000 最高 11% 回饋）。⏰ **倒數 30 分鐘**：00:00 台灣好市多線上「滿 $8,800 現折 $880」＋MUJI 9 折開搶！",
+          "tags": [
+            "日亞黑五",
+            "剛開搶",
+            "3C 家電"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "OM System 無反相機＆PRO 鏡頭黑五直降最高省 $400",
+          "price": "OM-1 Mark II $1,999.99（省 $400）／復古 OM-3 $1,699.99（省 $300）／OM-5 Mark II $1,049.99 起／M.Zuiko 8-25mm f/4 PRO $899.99（省 $400）",
+          "store": "B&H Photo / Amazon US",
+          "highlight": "輕量防水 M4/3 系統神價，復古顏值旗艦 OM-3 罕見直降 $300（相機機身含鋰電池建議手提登機）。",
+          "tags": [
+            "3C 攝影"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "GoPro MISSION 1 PRO 電影級旗艦運動相機首降 $100",
+          "price": "$599（86 折 / 省 $100 / 原價 $699，Grip 套組 $679.99）",
+          "store": "Amazon US / GoPro 官網",
+          "highlight": "GoPro 2026 新旗艦首度迎來百美元黑五折扣，體積迷你超好帶（含鋰電池須手提登機）。",
+          "tags": [
+            "3C 攝影",
+            "運動相機"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "頂級太陽眼鏡＆寢具黑五：Maui Jim／Persol／Buffy／Casper",
+          "price": "Maui Jim 破例 7 折；Persol 碼 POMEMBERS26 8 折（Macy's 最高 5 折）；Buffy 雲朵被全站 75 折（$111.75 起）；Casper 枕頭 2 入 8 折（~$120）",
+          "store": "各品牌官網 / Macy's / Nordstrom",
+          "highlight": "偏光鏡天花板 Maui Jim 罕見給到 7 折、Persol 手工折疊鏡輕巧零重量超好帶回（寢具體積略大建議壓縮或美國自用）。",
+          "tags": [
+            "精品配件",
+            "居家寢具"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Itch.io 獨立遊戲＆開發素材包黑五最高 12 折起",
+          "price": "獨立遊戲、桌遊模組與遊戲開發 UI／美術素材包最高 12–3 折（70%–88% off）",
+          "store": "Itch.io",
+          "highlight": "遊戲開發者與獨立遊戲迷年度掃貨檔期！⏰ 另提醒：**2.5 小時後（11/27 02:00 台北）Steam 黑五特賣＆Steam 大獎提名** 正式登場！",
+          "tags": [
+            "獨立遊戲",
+            "開發素材"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-2200",
       "date": "11/26",
