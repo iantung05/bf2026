@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 18:31",
-  "updated_at_utc": "2026-11-26T10:31:03Z",
+  "updated_at_taipei": "2026/11/26 19:30",
+  "updated_at_utc": "2026-11-26T11:30:45Z",
   "digests": [
+    {
+      "id": "2026-11-26-1900",
+      "date": "11/26",
+      "time_taipei": "11/26 19:00",
+      "created_at_utc": "2026-11-26T11:30:45Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Meze Audio 發燒耳機官降 75 折（＆ Ekster 智慧皮夾最高 4 折）",
+          "price": "Meze 105 AER $299（省 $100）／105 SILVA $375（省 $124），至 12/1；Ekster 卡片彈出錢包／組合最高 4 折",
+          "store": "Meze Audio / Ekster 官網 / Amazon US",
+          "highlight": "發燒名廠罕見官方直降（有線耳罩無鋰電池免受航空限制，同場高階 B-stock 75–8 折）；Ekster 智慧皮夾輕巧超適合送禮。",
+          "tags": [
+            "影音耳機",
+            "EDC 配件"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "跑鞋＆戶外鞋黑五：Saucony 全站 75 折（Endorphin Speed 5 破盤）＆ KEEN／Teva",
+          "price": "Saucony 碼 CHEER 幾乎全站 75 折（Endorphin Speed 5 通路下探 $86–$109 / 原價 $175）；KEEN 5–8 折；Teva 涼鞋／靴款最高 5 折",
+          "store": "Saucony / KEEN / Teva 官網 / Amazon US",
+          "highlight": "跑圈神鞋 Endorphin Speed 5 下殺近半價超有感；KEEN／Teva 戶外機能鞋同步下殺，請美國朋友去鞋盒帶回最省空間。",
+          "tags": [
+            "運動跑鞋",
+            "戶外服飾"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "健身＆美妝護髮黑五：Moroccanoil／Liquid I.V.／Supergoop!／ON 乳清",
+          "price": "Moroccanoil 官網免碼全站 7 折（至 12/2）；Liquid I.V. 碼 EARLY2026 7 折（Amazon 16 入 $19.59）；Supergoop! 全站 8 折；ON 乳清碼 ONBFCM 8 折免運",
+          "store": "各品牌官網 / Amazon US",
+          "highlight": "Liquid I.V. 電解質粉包與 Supergoop! 防曬輕巧好塞行李（摩洛哥優油玻璃瓶＆>100ml 液體放托運）；ON 乳清 Amazon 部分口味最高 64 折。",
+          "tags": [
+            "健身營養",
+            "美妝護髮"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "跨境輕奢＆美妝選品黑五：Shopbop／Cult Beauty／Selfridges",
+          "price": "Shopbop 碼 HOLIDAY 指定款 75 折（至 12/1 17:00，Prime 免運）；Cult Beauty 最高 7 折（至 12/1）；Selfridges 設計師／美妝最高 8 折",
+          "store": "Shopbop / Cult Beauty / Selfridges 官網",
+          "highlight": "設計師包鞋與歐美小眾美妝一次掃貨，皆可直寄台灣或寄美國朋友地址省國際運費與關稅。",
+          "tags": [
+            "精品時尚",
+            "美妝保養"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "Myprotein 台灣黑五全站 5 折起（滿 $2,500 免運＋關稅補貼）＆ ShopBack 加碼",
+          "price": "Myprotein 碼 TW50／TW56 全站 5 折起（Impact 乳清英式奶茶／黑糖珍奶等組合最高 45 折，滿 NT$2,500 免運＋課稅補貼上限 $1,200 購物金）",
+          "store": "Myprotein 台灣官網 / ShopBack",
+          "highlight": "健身族囤乳清與蛋白零食直接寄台灣最省事，結帳前先經 ShopBack 導購再賺黑五現金回饋！⏰ **倒數 3.5 小時：今晚 23:00 日亞黑五先行特賣開搶！**",
+          "tags": [
+            "健身營養",
+            "現金回饋"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-1800",
       "date": "11/26",
