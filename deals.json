@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 06:30",
-  "updated_at_utc": "2026-11-26T22:30:27Z",
+  "updated_at_taipei": "2026/11/27 07:30",
+  "updated_at_utc": "2026-11-26T23:30:27Z",
   "digests": [
+    {
+      "id": "2026-11-27-0700",
+      "date": "11/27",
+      "time_taipei": "11/27 07:00",
+      "created_at_utc": "2026-11-26T23:30:27Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Garmin fēnix 8 旗艦戶外錶直降 $250 史低（＆ COROS 買錶贈心率帶 75 折）",
+          "price": "fēnix 8 Sapphire／Solar Sapphire（43/47mm）$749.99（75 折 / 省 $250 / 原價 $999.99，Pro 版 $849.99 起）",
+          "store": "Amazon US / REI.com / COROS 官網",
+          "highlight": "DC Rainmaker 認證旗艦神錶大降 $250，比台灣定價省超大、體積迷你（含鋰電池須手提登機）；COROS 官網加購心率帶 75 折至 11/30。",
+          "tags": [
+            "3C 穿戴",
+            "戶外運動"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Sonos 旗艦聲霸史低：Arc Ultra $849 ＆ Beam Gen 2 $339 起（＆ JBL Flip 7）",
+          "price": "Sonos Arc Ultra $849（77 折 / 省 $250 / 原價 $1,099）；Beam Gen 2 $339–$369；Woot JBL Flip 7 $84.95（57 折）",
+          "store": "Amazon US / Best Buy / Sonos / Woot",
+          "highlight": "Dolby Atmos 旗艦聲霸 Arc Ultra 創歷史新低（Arc Ultra 較長適合美國自用，Beam Gen 2 較短巧；JBL Flip 7 含鋰電池須手提登機）。",
+          "tags": [
+            "家庭劇院",
+            "影音喇叭"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "創作者 AI 裝備破盤：Insta360 Link 2 Pro／Flow 2 Pro／HyperX QuadCast 2",
+          "price": "Insta360 Link 2 Pro $199.99（Link 2 $149.99 / 2C $99.99）；Flow 2 Pro 穩定器史低 $114.99–$126.98；QuadCast 2 $105–$110",
+          "store": "Amazon US / B&H Photo",
+          "highlight": "遠距開會、直播與拍片三大口碑神機齊降！體積全部巴掌大超好請朋友帶回（Flow 2 Pro 含鋰電池須手提登機）。",
+          "tags": [
+            "3C 創作",
+            "直播配件"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "頂級攝影包＆美國人氣伴手禮：Shimoda 65 折／GORUCK／藍瓶咖啡／Harney／Godiva",
+          "price": "Shimoda 碼 BLACKFRIDAY 最高 65 折；GORUCK 滿 $200 送 Basic Rucker 14L；Blue Bottle 全站 85 折（訂戶碼 HOLIDAY2026 8 折）；Harney & Sons 碼 HOLIDAY 8 折；Godiva 最高 6 折",
+          "store": "各品牌美國官網",
+          "highlight": "攝影玩家最愛 Shimoda 罕見 65 折；藍瓶咖啡豆／聯名 Fellow 杯、Harney 茶罐與 Godiva 禮盒超適合順手帶回台灣送禮！",
+          "tags": [
+            "攝影包袋",
+            "咖啡伴手禮"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "⏰ 黑五正日今早開搶總提醒（好市多 Day 5 剛於 07:30 開門！）",
+          "price": "台灣好市多 Day 5 共 26 款（07:30 黑鑽／08:30 一般入場，線上滿 $8,800 現折 $880 僅限今日）；Zara US 6 折已開跑；10:00 Sephora 主檔 5 折起；10:30 STUDIO A 發號碼牌",
+          "store": "台灣好市多 / STUDIO A / Zara US / Sephora US",
+          "highlight": "11/27 黑五正日最精華上午場！好市多每卡每項限購 1 件；下午 16:00 我會繼續準時追 Day 6（11/28）官方預告！",
+          "tags": [
+            "好市多黑五",
+            "今日攻略"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-0600",
       "date": "11/27",
