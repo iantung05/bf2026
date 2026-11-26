@@ -1,8 +1,76 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 17:31",
-  "updated_at_utc": "2026-11-26T09:31:22Z",
+  "updated_at_taipei": "2026/11/26 18:31",
+  "updated_at_utc": "2026-11-26T10:31:03Z",
   "digests": [
+    {
+      "id": "2026-11-26-1800",
+      "date": "11/26",
+      "time_taipei": "11/26 18:00",
+      "created_at_utc": "2026-11-26T10:31:03Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "VIOFO A229 Pro 4K+2K 雙鏡頭行車記錄器 61 折（＆ Reolink 門鈴 6 折）",
+          "price": "A229 Pro 2CH $219.99（61 折 / 省 $140 / 原價 $359.99）／A229 Plus $159.99；Reolink 2K 有線門鈴 $90（6 折）",
+          "store": "Amazon US（至 11/30）",
+          "highlight": "Reddit r/Dashcam 公認高畫質神機（Sony STARVIS 2＋超級電容無鋰電池，體積小無航空電池限制超好帶回！）。",
+          "tags": [
+            "3C 車用",
+            "智慧居家"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Positive Grid Spark 智慧吉他音箱 67–7 折（＆ UAD 外掛 $1 神碼）",
+          "price": "Spark GO $99（67 折）／NEO $174／MINI $188／Spark 2 $244（7 折）；Universal Audio 碼 BFPICK1 任選 1 款經典外掛只要 $1（11/26–30）",
+          "store": "Positive Grid / Universal Audio 官網",
+          "highlight": "吉他玩家最愛 AI 練習音箱，Spark GO 巴掌大輕鬆塞隨身包（含鋰電池須手提登機）；編曲人必搶 UAD $1 限時神碼！",
+          "tags": [
+            "樂器音樂",
+            "數位外掛"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "復古掌機黑五下殺：Retroid Pocket ＆ Anbernic",
+          "price": "Retroid Pocket Duo Lite 碼 BFSAVE$50 折後 $99（原價 $149）／Pocket 5 ~$167.95；Anbernic RG-40XXH 碼 RCBF7 ~$60.95／RG-28XX $34.50",
+          "store": "Retroid / Anbernic 官網 / AliExpress",
+          "highlight": "懷舊掌機圈熱議年度好價，巴掌大小隨身懷舊（含鋰電池須手提登機，官網亦可直寄台灣免託朋友帶）。",
+          "tags": [
+            "遊戲掌機"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "Newegg 2TB SSD 抗漲特惠 ＆ Chewy 寵物黑五 5 折起",
+          "price": "MSI Spatium M470 Pro 2TB SSD $269.99（省 $50）／ASUS TUF A2 1TB 外接 SSD $159.99；Chewy 寵物玩具／床／零食最高 5 折＋滿 $49 禮卡",
+          "store": "Newegg / Chewy",
+          "highlight": "記憶體與 SSD 漲價潮下少見 $269.99 2TB M.2（比口香糖還小零體積）；毛孩爸媽可趁 Chewy 帶些美國限定寵物玩具／用品。",
+          "tags": [
+            "儲存裝置",
+            "寵物用品"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "先喝道明（11/27 黑五單日）「莓 DAY」冬季新品買一送一",
+          "price": "「草莓雪優」「草莓雪乳」M 杯同品項買一送一（每人限購 3 組 / 共 6 杯）",
+          "store": "先喝道全台門市＆你訂線上自取",
+          "highlight": "明日黑五單日限定手搖買一送一（外送平台不適用，建議先用「你訂」點餐免排隊）。⏰ 今晚倒數：**23:00 日亞黑五先行特賣**＆**明 00:00 台灣好市多線上滿 $8,800 折 $880**！",
+          "tags": [
+            "美食飲品",
+            "買一送一"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-1700",
       "date": "11/26",
