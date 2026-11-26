@@ -1,8 +1,76 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 10:31",
-  "updated_at_utc": "2026-11-26T02:31:30Z",
+  "updated_at_taipei": "2026/11/26 11:31",
+  "updated_at_utc": "2026-11-26T03:31:30Z",
   "digests": [
+    {
+      "id": "2026-11-26-1100",
+      "date": "11/26",
+      "time_taipei": "11/26 11:00",
+      "created_at_utc": "2026-11-26T03:31:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "發燒有線耳機三強破盤：HiFiMAN Edition XS／IE 200／M50x",
+          "price": "Edition XS $167–$170／Sennheiser IE 200 $107.95（67 折）／ATH-M50x $139",
+          "store": "Amazon US",
+          "highlight": "發燒圈高 CP 經典同步特價！Edition XS 平板振膜五千多台幣、IE 200 輕巧零電池免受航空限制。",
+          "tags": [
+            "影音耳機"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "BOBOVR S3 Pro 帶電散熱頭戴（Quest 3 神配件）",
+          "price": "$69.25（約 78 折 / 省 $20）",
+          "store": "Amazon US",
+          "highlight": "Meta Quest 3 必改減壓頭戴（內建吹風散熱＋熱插拔電池），M3 Pro+ 與 B100 電池組同步特惠（電池須手提登機）。",
+          "tags": [
+            "遊戲電玩",
+            "3C硬體"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "歐美精品女鞋黑五：Stuart Weitzman 6 折起＆Sam Edelman 再 65 折",
+          "price": "Stuart Weitzman 最高 6 折；Sam Edelman 特價區碼 CYBER35 折上再 65 折（至 11/29）",
+          "store": "品牌美國官網",
+          "highlight": "經典過膝靴與顯瘦樂福鞋美國價差超大（註：Thursday Boot 官方確定不參與黑五折扣）。",
+          "tags": [
+            "服飾鞋包"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "歐美奢華有機寢具：Parachute／Boll & Branch／Cozy Earth",
+          "price": "Parachute 8 折（清倉最高 3 折）／Boll & Branch 碼 CYBER25 75 折／Cozy Earth 最高 7 折",
+          "store": "各品牌美國官網",
+          "highlight": "歐普拉最愛清單常客，竹纖維睡衣、亞麻枕套與床包年度最低（整組床包略重，單買枕套／睡衣超好帶）。",
+          "tags": [
+            "家電居家工具",
+            "生活選物"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "台灣好市多 Day 4（11/26）現場實際折後價全曝光！",
+          "price": "ACER 14\" AI 筆電 $28,799／三星 55\" Neo QLED $19,999／SHARP 除濕機 $10,499／LC 24cm 鍋 $4,499",
+          "store": "台灣好市多實體賣場",
+          "highlight": "早鳥實價出爐！另有紅牛乳清 $1,599、紅牛積木 $1,999、舒特膚 $799、3M 地墊 $999、森歐黎漾 $429（Day 5 清單今 16:00 公布）。",
+          "tags": [
+            "好市多",
+            "3C硬體",
+            "家電居家工具"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-1000",
       "date": "11/26",
