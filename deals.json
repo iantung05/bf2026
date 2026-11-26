@@ -1,8 +1,76 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/26 16:30",
-  "updated_at_utc": "2026-11-26T08:30:39Z",
+  "updated_at_taipei": "2026/11/26 17:31",
+  "updated_at_utc": "2026-11-26T09:31:22Z",
   "digests": [
+    {
+      "id": "2026-11-26-1700",
+      "date": "11/26",
+      "time_taipei": "11/26 17:00",
+      "created_at_utc": "2026-11-26T09:31:22Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "專櫃保養黑五官網折扣：Shiseido／Biossance／Caudalie／L'Occitane",
+          "price": "Shiseido 免碼全站 75 折（明星款 65 折）；Biossance 免碼全站 7 折（加大組 35 折）；Caudalie 免碼 75 折；L'Occitane 歐舒丹碼 FRIDAY 正價 8 折",
+          "store": "各品牌美國官網",
+          "highlight": "抗老與潔淨保養大廠同步開打，美國定價＋官降超划算（>100ml 瓶裝精華／乳霜須放托運行李；排除特定節日禮盒）。",
+          "tags": [
+            "美妝保養"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "頂級人體工學椅＆電競椅黑五：Herman Miller／Steelcase／Secretlab",
+          "price": "Herman Miller 全站 75 折（Embody ~$1,676，至 12/7）；Steelcase 7–75 折（海外站碼 BF2026）；Secretlab TITAN Evo 省 $140／MAGNUS Pro 桌省 $149＋滿額再折 $40–$180（至 11/28）",
+          "store": "Herman Miller / Steelcase / Secretlab 官網",
+          "highlight": "一年一次神椅官方大促！（⚠️ 體積過大不便空運，適合人在美國的朋友自購，或同步檢視台灣／香港官方站黑五）。",
+          "tags": [
+            "居家辦公",
+            "電競周邊"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Smeg 復古電熱水壺＆Squishmallows 絨毛玩偶黑五",
+          "price": "Smeg 電熱水壺 $189.95（82 折 / 原價 $229.95，Williams Sonoma）；Squishmallows 玩偶／倒數月曆最高 4 折",
+          "store": "Williams Sonoma / Amazon US / Target / Walmart",
+          "highlight": "顏值擔當 Smeg 電熱水壺為美規 110V 台灣直插可用（體積略大）；Squishmallows 超輕軟、壓縮塞行李箱送禮零負擔。",
+          "tags": [
+            "質感家電",
+            "玩具禮品"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "Craft Docs「永久續訂 6 折」＆ 生產力／學習 App 黑五",
+          "price": "Craft Plus 碼 BLACKFRIDAY26-A 享 6 折 $4.80/月（原價 $8/月，往後每年續訂鎖定 6 折！）；Blinkist 5–6 折；Busuu 5 折；Dashlane 5–7 折",
+          "store": "各服務官網網頁版",
+          "highlight": "Craft Docs 少見「永久鎖定續訂 6 折」，務必在網頁版結帳才能套碼（避雷：TickTick 無公開黑五碼，僅學生 75 折）。",
+          "tags": [
+            "生產力軟體",
+            "數位訂閱"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "日系遊戲大廠黑五：Arc System Works 15 折禮包＆萬代南夢宮",
+          "price": "Arc System Works Steam 黑五包 15 折 $19.50（含《聖騎士之戰 -STRIVE-》《蒼翼默示錄》，PS/eShop 同步最低 1 折至 11/30）；萬代南夢宮 Steam 黑五（《七龍珠 電光炸裂！ZERO》等至 12/8）",
+          "store": "Steam / PS Store / Nintendo eShop",
+          "highlight": "格鬥與日系動作大作超低價補齊庫存！⏰ 今晚提醒：**23:00 Amazon JP 日亞黑五先行特賣（最高 11% 點數回饋）**＆**明 00:00 好市多線上滿 $8,800 折 $880** 接力開搶！",
+          "tags": [
+            "遊戲特賣",
+            "Steam"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-26-1600",
       "date": "11/26",
