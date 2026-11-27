@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 07:30",
-  "updated_at_utc": "2026-11-26T23:30:27Z",
+  "updated_at_taipei": "2026/11/27 08:30",
+  "updated_at_utc": "2026-11-27T00:30:39Z",
   "digests": [
+    {
+      "id": "2026-11-27-0800",
+      "date": "11/27",
+      "time_taipei": "11/27 08:00",
+      "created_at_utc": "2026-11-27T00:30:39Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 Beats Studio Pro 降噪耳罩首次破百美元史低！Walmart $99（33 折！）",
+          "price": "$99.00（33 折 / 省 $200 / 原價 $299，Walmart 黑白雙色；Amazon 獨家淺藍等色 $139.95）",
+          "store": "Walmart US / Amazon US",
+          "highlight": "IGN＆PCMag 認證超狂神價！支援 Apple Find My 與 USB-C 無損音訊，台幣三千出頭入手旗艦頭戴降噪（含鋰電池須手提登機）。",
+          "tags": [
+            "影音耳機",
+            "史低爆款"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Anker Nebula Capsule 3 可樂罐迷你投影機史低 $359（＆ Soundcore Boom 2）",
+          "price": "Nebula Capsule 3 (Google TV) $359（68 折 / 省 $170）／雷射版 $559.99；Soundcore Boom 2 防水重低音喇叭 $84.99（65 折）",
+          "store": "Amazon US",
+          "highlight": "露營與租屋族神器，汽水罐大小超好請朋友帶回（投影機與喇叭均內建鋰電池，務必隨身手提登機）。",
+          "tags": [
+            "3C 投影",
+            "影音喇叭"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Fitbit Charge 6 智慧健康手環 $122 起",
+          "price": "$122–$129.99（76 折 / 省 $30–$37 / 原價 $159.95）",
+          "store": "Amazon US",
+          "highlight": "輕巧無負擔的日常運動心率／心電圖手環，支援 Google 錢包與 Google 地圖導航（含小鋰電池建議手提登機）。",
+          "tags": [
+            "3C 穿戴",
+            "健康運動"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "英倫輕奢珠寶＆精品服飾黑五：Missoma／Monica Vinader／Hugo Boss／Reiss",
+          "price": "Missoma 全站最高 6 折（至 12/2）；Monica Vinader 每日閃購最高 5 折；Hugo Boss 最高 6–7 折（至 11/30）；Reiss Outlet 4–5 折",
+          "store": "各品牌官方網站",
+          "highlight": "凱特王妃愛牌輕奢飾品 Missoma／Monica Vinader 幾乎零重量超適合帶回送禮！",
+          "tags": [
+            "輕奢飾品",
+            "服飾鞋包"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "HBO Max 美區黑五首年半價 $5.49/月（＋今早 10:00／10:30 開搶倒數）",
+          "price": "HBO Max（含廣告版）首年 12 個月 $5.49/月（5 折 / 原價 $10.99/月）",
+          "store": "HBO Max US",
+          "highlight": "美區追劇族年度半價（需美區帳號／VPN）。⏰ **接下來 2 小時重點**：**10:00 Sephora US 黑五主檔 5 折起**、**10:30 STUDIO A 認證蘋果 3.1 折發號碼牌**；好市多 Day 5 哈根達斯雪酥 10 入現場價 **NT$629**（原價 $799）！",
+          "tags": [
+            "串流影音",
+            "今日提醒"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-0700",
       "date": "11/27",
