@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 06:30",
-  "updated_at_utc": "2026-11-27T22:30:38Z",
+  "updated_at_taipei": "2026/11/28 07:30",
+  "updated_at_utc": "2026-11-27T23:30:20Z",
   "digests": [
+    {
+      "id": "2026-11-28-0700",
+      "date": "11/28",
+      "time_taipei": "11/28 07:00",
+      "created_at_utc": "2026-11-27T23:30:20Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "發燒耳機 Campfire Audio 狂省 $700＋客製鍵盤大促",
+          "price": "Campfire Audio Astrolith $1,499（省 $700 / 原價 $2,199，加送升級線）、Andromeda Emerald Sea $999（原價 $1,399）、Grand Luna $899（含 USB-C 小尾巴）、官翻 5–9 折（至 11/30）；Linsoul 最高折 $120（至 11/29）；KBDfans 最高 3 折（Tofu 8 折，至 12/5）；CannonKeys 年度最大促（套組 $20 起，至 11/30）",
+          "store": "Campfire Audio / Linsoul / KBDfans / CannonKeys",
+          "highlight": "美國手工旗艦耳機破盤價＋客製鍵盤兩大名店同步出清！入耳耳機體積極小極好帶回（全鋁客製鍵盤略重）。",
+          "tags": [
+            "發燒耳機",
+            "客製鍵盤"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "強光手電筒／攀岩頭燈＆露營神毯／不鏽鋼水壺黑五",
+          "price": "Nitecore 美國官網最高 7 折（至 11/28）；Acebeam 最高 6 折（X75 探照神燈 ~$293 / 原價 $419，至 12/1）；Petzl 頭燈（Actik Core／NAO RL）＆攀岩裝備 4–8 折；Klean Kanteen 全站 75 折＋每日特選低至 3 折（至 11/30）；Rumpl 羽絨戶外毯全站 75 折（$75 / 原價 $100）",
+          "store": "Nitecore / Acebeam / REI / Backcountry / Klean Kanteen / Rumpl",
+          "highlight": "露營＆EDC 玩家口袋名單一次補齊，全部體積小巧好塞行李（手電筒＆充電頭燈含鋰電池須手提登機）。",
+          "tags": [
+            "戶外露營",
+            "強光手電筒"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "英倫質感男裝／精品小白鞋／涼感寢具＋德國 SEBO 吸塵器",
+          "price": "Sunspel 7 折；Proper Cloth 訂製襯衫最高 6 折；Spier & Mackay 8–85 折；Common Projects Achilles Low 6–75 折＆Axel Arigato／Autry 6 折起；Ettitude 竹纖維寢具全站 7 折、Sijo 滿額自動折 $25–$125；德國 SEBO 吸塵器罕見 85 折（Airbelt K3 $806 / 原價 $949，至 12/6）；Winix C909 清淨機 $159.99（Costco US）",
+          "store": "Sunspel / Proper Cloth / Shopbop / Revolve / Ettitude / SEBO / Costco US",
+          "highlight": "007 愛牌 Sunspel 與常勝小白鞋 Common Projects 輕鬆帶回；Reddit 口碑封神的 SEBO 吸塵器一年難得 85 折（吸塵器與清淨機體積較大／僅適合美國自用）。",
+          "tags": [
+            "質感男裝",
+            "神級家電"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "🔥 工程師面試＆系統設計必搶！NeetCode 終身 35 折＋ByteByteGo 7 折",
+          "price": "NeetCode Pro 終身 $207.90（35 折 / 原價 $599）、年繳 $95.20（原價 $199，至 12/1）；ByteByteGo 系統設計全站碼 BF2026 7 折（至 12/1）；Libro.fm 數百本獨立書店有聲書 $5–$10 以下（至 11/30）",
+          "store": "NeetCode / ByteByteGo / Libro.fm",
+          "highlight": "刷題＆System Design 兩大神站同時開殺，NeetCode 終身版狂砍近 $400，零運費立刻開學。",
+          "tags": [
+            "面試刷題",
+            "系統設計"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-0600",
       "date": "11/28",
