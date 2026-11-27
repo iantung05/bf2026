@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 12:31",
-  "updated_at_utc": "2026-11-27T04:30:34Z",
+  "updated_at_taipei": "2026/11/27 13:31",
+  "updated_at_utc": "2026-11-27T05:31:18Z",
   "digests": [
+    {
+      "id": "2026-11-27-1300",
+      "date": "11/27",
+      "time_taipei": "11/27 13:00",
+      "created_at_utc": "2026-11-27T05:31:18Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 【美東黑五午夜直擊】Apple 美國官網 13:00 正式開跑！（最高送 $300 禮卡＋首納第三方配件）",
+          "price": "MBP 16\" 送 $300／14\" 送 $250／MBA M5 送 $200／iPad Pro M5 送 $125／iPhone Air＆Watch Ultra 4 送 $100／首度納入 Anker・Belkin・Pencil Pro 送 $25（11/27–30）",
+          "store": "Apple 美國官網（台灣官網確認無活動）",
+          "highlight": "官網適合買客製規格（CTO）或刻字；若要現金直降，Amazon（AirTag 2 剛跟進史低 $18）／Best Buy 更划算（3C 含鋰電池須手提登機）。",
+          "tags": [
+            "美東午夜開搶",
+            "Apple"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "🔥 LEGO 樂高黑五 13:00 開搶！史上最大 Ideas《哥吉拉 21375》首發＋百款 7 折＋滿額贈回歸",
+          "price": "21375 哥吉拉 $449.99 首發送限定標誌＆腳印 (40888)；UCS 千年鷹等逾百款 7–8 折＋100 點換 500 點；冬季雪花球 ($170)＆復古點唱機 ($250) 雙滿額贈限時回歸",
+          "store": "LEGO.com（台灣 LCS 同步首發哥吉拉）",
+          "highlight": "樂高迷年度最狂主場正式解鎖（雙滿額贈僅 11/27–29 送完為止）！大盒組外盒體積超大，建議拆盒或收中小型組湊滿額贈。",
+          "tags": [
+            "美東午夜開搶",
+            "LEGO"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "攝影包 38 折＆美製發燒耳擴：PolarPro $150／Schiit 官網清倉／K&F 濾鏡",
+          "price": "PolarPro Corsa 28L 攝影後背包 $150（38 折 / 省 $250 / 原價 $400）、LiteLeaks 鏡頭 $70；Schiit Magni $79 / Bifrost 2/64 $499；K&F 碼 KFDEAL20 享 8 折（Amazon 最高 5 折）",
+          "store": "PolarPro / Schiit Audio / Amazon US",
+          "highlight": "PolarPro 頂級 28L 攝影包狂砍 $250 破盤神價（可直接裝裝備背回台！），美製發燒經典 Schiit 一年一度清倉也極稀有。",
+          "tags": [
+            "攝影配件",
+            "發燒音響"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "工程師＆剪輯創作者大促：Pluralsight 4 折／Descript 65 折／QuillBot 5 折／edX",
+          "price": "Pluralsight 個人年費最高 4 折；Descript AI 剪輯年費最高 65 折（免碼加贈點數）；QuillBot 年費 5–6 折（碼 QBBFCM45）；edX 證照課碼 CYBERMONTH2026 享 8–85 折",
+          "store": "Pluralsight / Descript / QuillBot / edX",
+          "highlight": "技術進修、Podcast／影片 AI 剪輯與英文論文潤稿一次收齊，免運即刻線上升級！",
+          "tags": [
+            "線上課程",
+            "AI 工具"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Mac 防火牆神軟 Little Snitch 7 折（＋LanguageTool 8 折／今日兩大預告）",
+          "price": "Little Snitch 買斷＆升級免碼 7 折；LanguageTool 英文文法年費 8 折（避雷：Runway／Todoist／F1 TV 無公開黑五碼）",
+          "store": "Objective Development / LanguageTool",
+          "highlight": "Mac 資安控必裝流量監控軟體難得 7 折！⏰ **今日必盯**：**16:00 台灣好市多週六 Day 6 預告**；**19:00 美東實體門市開門（Best Buy $60 買 $100 禮卡）**。",
+          "tags": [
+            "Mac 軟體",
+            "時程提醒"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-1200",
       "date": "11/27",
