@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 16:31",
-  "updated_at_utc": "2026-11-27T08:30:23Z",
+  "updated_at_taipei": "2026/11/27 17:31",
+  "updated_at_utc": "2026-11-27T09:31:17Z",
   "digests": [
+    {
+      "id": "2026-11-27-1700",
+      "date": "11/27",
+      "time_taipei": "11/27 17:00",
+      "created_at_utc": "2026-11-27T09:31:17Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 隨身巨幕 AR 眼鏡史低大戰：VITURE Luma Pro $339／RayNeo GT $249／Rokid $179 起",
+          "price": "VITURE Luma $299／Luma Pro $339（68 折 / 省 $160 / 原價 $499）／Pro 2＋Switch 2 底座組 $375；RayNeo GT $249／GT Max $335；Rokid Max 2 $179 起",
+          "store": "Amazon US / VITURE / RayNeo / Rokid",
+          "highlight": "搭機追劇＆接 Switch 2 的隨身大螢幕！墨鏡尺寸極致輕巧好帶（無電池眼鏡托運皆可，AI 款與行動底座含鋰電池須手提登機）。",
+          "tags": [
+            "AR 眼鏡",
+            "史低特價"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "毛孩＆育兒高價差清單：Furbo 寵物相機 $69 起／Ruffwear 7 折／UPPAbaby 8 折／Lovevery",
+          "price": "Furbo Mini 360° $69（63 折）／Furbo 360° $85 起；PETKIT 飲水機 $200；Ruffwear 全線免碼 7 折；UPPAbaby Greyson 8 折（Minu V3 $399.99）；Lovevery 最高 75 折＋$50 金",
+          "store": "Amazon US / 各品牌官網",
+          "highlight": "美國毛孩科技＆育兒神物價差超大！Furbo 與 Ruffwear 輕巧好帶（推車體積較大，Minu V3 可折疊登機）。",
+          "tags": [
+            "毛孩用品",
+            "母嬰育兒"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "專櫃美妝＆爆紅韓系保養：Armani Beauty 7 折／YSL 75 折／Dr. Jart+ 7 折／Olive Young 疊碼",
+          "price": "Armani Beauty 碼 CYBER 全站 7 折（明星款 6 折、滿 $200 送 10 件禮）；YSL 會員 75 折；Dr. Jart+ 7 折＋滿額禮；Beauty of Joseon 4 折起；Anua 22 折起（Olive Young 碼 26BF30）",
+          "store": "各品牌美國官網 / Olive Young US",
+          "highlight": "專櫃神級粉底香水與北美最紅韓系保養同步下殺再送豪華滿額禮（>100ml 液體放托運）。",
+          "tags": [
+            "專櫃美妝",
+            "韓系保養"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "🔥 好市多 17:00 App 完整加碼（Day 6 美食鍋具）＋明日 11/28 全家特大杯咖啡 $39！",
+          "price": "好市多 11/28：波爾多紅酒省 $1,140／法國特福 3 件鍋省 $880／雙人牌竹砧板省 $250／GODIVA 冰淇淋省 $150／羊毛衣省 $160／聖沛黎洛省 $100；全家 11/28 單日特大杯美式／拿鐵／金桔檸 $39",
+          "store": "全台好市多 / 全家便利商店",
+          "highlight": "17:00 App 完整清單剛補出超多實惠日常＆美食，明天採買完順手帶一杯 $39 全家特大杯拿鐵（原價 $70）！",
+          "tags": [
+            "好市多",
+            "超商咖啡"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "語言終身＆影劇架站大促：Cambly 5 折（今最後！）／Bunpro 8 折／Drops 5 折／AMC+・Wix",
+          "price": "Cambly 英文家教年費 5 折（今日 11/27 截止！）；Bunpro 日文文法終身 $120（8 折，至 12/2）；Drops 單字終身網頁版 5 折；AMC+ 無廣告年費 $39.99 起；Wix 架站最高 5 折",
+          "store": "Cambly / Bunpro / Drops / AMC+ / Wix",
+          "highlight": "線上學英日文年度最深折扣，Cambly 5 折只到今天！（⏰ **1.5 小時後 19:00 美東黑五門市開門，Best Buy $60 買 $100 禮卡開搶！**）。",
+          "tags": [
+            "語言學習",
+            "影劇架站"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-1600",
       "date": "11/27",
