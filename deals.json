@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 13:31",
-  "updated_at_utc": "2026-11-27T05:31:18Z",
+  "updated_at_taipei": "2026/11/27 14:31",
+  "updated_at_utc": "2026-11-27T06:31:17Z",
   "digests": [
+    {
+      "id": "2026-11-27-1400",
+      "date": "11/27",
+      "time_taipei": "11/27 14:00",
+      "created_at_utc": "2026-11-27T06:31:17Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 折疊機＆SSD＋智慧門鎖：Motorola Razr 省 $200／WD_BLACK 2TB 半價／Schlage UWB",
+          "price": "Motorola Razr Ultra $1,299.99（省 $200，標準版 $699.99）；WD_BLACK SN850P 2TB PS5 SSD $299.99（5 折，Best Buy）；Crucial P510 PCIe 5.0 $179；Schlage UWB 門鎖 $287.91；Wyze 太陽能 2K 相機 $64.98",
+          "store": "Amazon US / Best Buy / Newegg / Wyze",
+          "highlight": "SSD 與折疊機體積極輕零負擔，2026 記憶體漲價潮下 PS5 專用 2TB 對折超香（手機＆含鋰電池相機須手提登機；門鎖可托運）。",
+          "tags": [
+            "3C 硬體",
+            "智慧居家"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "頂級登山露營＆EDC 折刀：Mountain Hardwear 45 折起／MSR・Therm-a-Rest 75 折／Kershaw",
+          "price": "Mountain Hardwear GORE-TEX 外套 $292.50（45 折 / 原價 $650）／Ghost Whisperer 羽絨衣 $197.99 起；MSR・Therm-a-Rest・Jetboil 精選 75 折；Snow Peak 85 折；Kershaw Bel Air (MagnaCut 鋼) $104–$122.99",
+          "store": "Backcountry / REI / Amazon US / Blade HQ",
+          "highlight": "美國高階戶外羽絨＆頂級鋼 EDC 折刀價差極甜（⚠️ 折刀務必放托運行李；露營瓦斯罐嚴禁上機）。",
+          "tags": [
+            "戶外露營",
+            "EDC 折刀"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "英國皇室包＆紐約文青珠寶：DeMellier 8 折／Catbird 75–8 折／Paul Smith 5 折＋85 折",
+          "price": "DeMellier 碼 DMEARLY20 全站 8 折；Catbird 免碼全站 8 折、滿 $500 享 75 折（年度唯一）；Paul Smith 精選 5–7 折（碼 BF15 折上 85 折）；A.P.C. 秋冬最高 6 折",
+          "store": "各品牌美國官網",
+          "highlight": "質感輕奢包款與紐約 14K 金極細飾品輕巧無重量，台灣少見或價差超大，超適合請朋友順手帶回！",
+          "tags": [
+            "輕奢包款",
+            "珠寶服飾"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "✈️ 華航美加回台黑五 US$808 起＆土航買分加贈 150%（＋康是美網購滿千折百）",
+          "price": "中華航空美加飛亞洲來回 US$808 起（澳洲出發 85 折，訂至 12/1）；土耳其航空哩程買分最高加贈 150%；康是美網購黑五滿千折百",
+          "store": "中華航空 / 土耳其航空 / 康是美網購",
+          "highlight": "剛好適合近期美台往返或美國朋友回台查票！康是美網購滿千折百也適合補貨醫美與保健品。",
+          "tags": [
+            "機票促銷",
+            "台灣電商"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "終身雲端＆工程師除錯神軟：Koofr 1TB 終身 $129.99／Proxyman 7 折／Brain.fm 5 折",
+          "price": "Koofr 1TB 終身 $129.99–$159.99（StackCommerce 碼 KOOFR，官網年費碼 BF2026 45 折）；Icedrive 1TB 終身 $299；Proxyman 碼 BF2026 買斷 7 折（$62.30）；Brain.fm 年費 5 折",
+          "store": "StackCommerce / Koofr / Proxyman / Brain.fm",
+          "highlight": "Filen 2026 永久停售終身方案後，Koofr 成最後高 CP 終身雲端首選！（避雷：日文 WaniKani 12 月中才 67 折；⏰ **1.5 小時後 16:00 台灣好市多 Day 6 預告**）。",
+          "tags": [
+            "終身買斷",
+            "開發工具"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-1300",
       "date": "11/27",
