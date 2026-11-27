@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 17:31",
-  "updated_at_utc": "2026-11-27T09:31:17Z",
+  "updated_at_taipei": "2026/11/27 18:31",
+  "updated_at_utc": "2026-11-27T10:30:36Z",
   "digests": [
+    {
+      "id": "2026-11-27-1800",
+      "date": "11/27",
+      "time_taipei": "11/27 18:00",
+      "created_at_utc": "2026-11-27T10:30:36Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 模擬賽車直驅方向盤大戰：Fanatec 省 $300／MOZA $259 起／Simagic・Thrustmaster",
+          "price": "Fanatec F1 (18 Nm) $919.99（省 $300）／CSL DD 8 Nm 套組 $429.99；MOZA R3 套組 $259／R5 Pro $369／R9 V3 基座 $269；Simagic GT NEO 方向盤 $209；Thrustmaster T598 $399.99",
+          "store": "Fanatec / MOZA / Simagic / Thrustmaster",
+          "highlight": "賽車模擬玩家一年一度終極大促！方向盤盤體好帶回，全套直驅基座與踏板體積重量較大請斟酌托運配額。",
+          "tags": [
+            "模擬賽車",
+            "電競硬體"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "高 CP 桌上解碼＆TB4 底座：SMSL 7 折起／Hidizs S8 Pro $40.99／Plugable $159.96",
+          "price": "SMSL 30 款 7–8 折（A50 Pro $81.59／M300SE $113.47／PL100PRO CD 機 $114.23）；Hidizs S8 Pro 小尾巴 $40.99（省 $58）；Plugable TB4 底座 $159.96（省 $40，至 11/30）",
+          "store": "Amazon US / SMSL / Hidizs / Plugable",
+          "highlight": "升級書桌音質與 Mac/筆電一線擴充的超高 CP 夯品，全部輕巧好塞行李！",
+          "tags": [
+            "發燒音響",
+            "擴充底座"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "專櫃保養＆網紅保健公仔：Fresh 5 折起／Ole Henriksen 7 折／Ritual 6 折／Funko 3 折起",
+          "price": "Fresh 明星款最高 5 折（全站 7 折）；Ole Henriksen 全站 7 折＋滿 $85 贈禮；Ritual 維他命首訂 6 折；Ghost 運動營養 7 折；Funko 公仔最高 3 折（至 11/29）",
+          "store": "各品牌美國官網 / iHerb / Funko",
+          "highlight": "Fresh 保養品台灣專櫃價差超大，Ritual 膠囊與 Funko 限定公仔也超適合請朋友帶回（>100ml 液體放托運）。",
+          "tags": [
+            "美妝保健",
+            "潮流公仔"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "✈️ 國泰＆英航黑五機票＋國泰購物 4 折起＆雙倍亞洲萬里通",
+          "price": "國泰航空美加／日／澳外站機票 85 折起＆加贈最高 3,000 里數（國泰購物 4 折起＋雙倍里數）；英國航空歐美機票＆2027 假期最高折 £300（訂至 12/1）",
+          "store": "國泰航空 / 英國航空官網",
+          "highlight": "集 Asia Miles 與規劃明年長程歐美線的絕佳時機！",
+          "tags": [
+            "機票促銷",
+            "哩程回饋"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "創作者架站＆Mac 剪貼簿神軟：Shopify $1/月／Kit 4 折／Paste App 5 折",
+          "price": "Shopify 前 3 個月各 $1；Kit (原 ConvertKit) 電子報前 3 月 4–5 折（至 12/1）；beehiiv 碼 BFCM26 享 8 折；Paste App 碼 BLACKFRIDAY2026 首年 $14.99（5 折）／PastePal 碼 INDIEGOODIESBF26 享 5 折",
+          "store": "Shopify / Kit / beehiiv / Paste App",
+          "highlight": "副業開店與 Mac 效率工具年度神價！⏰ **倒數 30 分鐘：19:00 台北＝美東實體門市開門（Best Buy $60 買 $100 禮卡／Target 抽最高 $1,000 禮卡）**！",
+          "tags": [
+            "創作者工具",
+            "Mac 軟體"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-1700",
       "date": "11/27",
