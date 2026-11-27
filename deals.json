@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 09:30",
-  "updated_at_utc": "2026-11-27T01:30:12Z",
+  "updated_at_taipei": "2026/11/27 10:30",
+  "updated_at_utc": "2026-11-27T02:30:18Z",
   "digests": [
+    {
+      "id": "2026-11-27-1000",
+      "date": "11/27",
+      "time_taipei": "11/27 10:00",
+      "created_at_utc": "2026-11-27T02:30:18Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 Sephora US 黑五主檔 5 折起剛剛 10:00 開搶！（＆ 11/27 單日 7 折）",
+          "price": "精選節日禮盒＆人氣單品最高 5 折；11/27 單日 7 折品牌：Fenty Beauty／Paula's Choice／Farmacy",
+          "store": "Sephora US App / 官網",
+          "highlight": "30 分鐘前準點解鎖！禮盒與明星保養彩妝輕巧好帶（>100ml 液體放托運），熱門禮盒容易秒殺。",
+          "tags": [
+            "美妝保養",
+            "剛開搶"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "都會服飾＆保溫杯黑五：Club Monaco 6 折／Boden 6 折／Simple Modern",
+          "price": "Club Monaco 免碼全站最高 6 折；英倫 Boden 碼 CY4X 精選 6 折（含 Mini Boden 童裝）；Simple Modern 保溫杯 65–85 折",
+          "store": "Club Monaco / Boden / Simple Modern 官網",
+          "highlight": "極簡質感商務服與高顏值童裝美國價差大、衣物輕軟好塞行李！",
+          "tags": [
+            "服飾鞋包",
+            "生活日用"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "Peloton 運動服飾全站 5 折 ＆ 健身器材最高省 $1,300",
+          "price": "Peloton Apparel 全站免碼 5 折；Cross-Training Bike $1,295（省 $400）／Bike+ $1,795（省 $900）／Tread 套組最高省 $1,300",
+          "store": "Peloton 官網 / Amazon US",
+          "highlight": "Peloton 機能運動服口碑超好、直接半價輕鬆帶回！（飛輪與跑步機體積超大僅適合美國自用）。",
+          "tags": [
+            "運動服飾",
+            "健身器材"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "🔥 AI 語音＆音樂雙強黑五：ElevenLabs 45 折＆Suno 7 折",
+          "price": "ElevenLabs 年繳最高 45 折（Creator 首年 $99 / Pro $445.50 / Starter 首月 $1，至 12/1）；Suno AI 作曲年繳 7 折（Pro $5.60/月起，至 11/30）",
+          "store": "ElevenLabs / Suno 官網",
+          "highlight": "2026 最火兩大 AI 音訊服務罕見官方大促，影音配音與玩音樂必收！（避雷：DeepL 無額外黑五折扣）。",
+          "tags": [
+            "AI 訂閱",
+            "創作者工具"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Xbox Game Pass Ultimate 折扣卡（＋10:30 STUDIO A／13:00 美國黑五午夜倒數）",
+          "price": "Game Pass Ultimate 1 個月 $17.99（省 $5，StackSocial；Amazon 3 個月卡同步促銷）；Xbox Design Lab 客製手把 85 折",
+          "store": "StackSocial / Amazon US / Xbox",
+          "highlight": "⏰ **即時提醒**：**10:30 台灣 STUDIO A 認證蘋果 3.1 折正發號碼牌（11:00 開賣）**；**2.5 小時後（13:00 台北）美東黑五午夜（Apple 送禮卡＋LEGO 黑五滿額贈）開跑**！",
+          "tags": [
+            "遊戲訂閱",
+            "檔期倒數"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-0900",
       "date": "11/27",
