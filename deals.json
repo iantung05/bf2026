@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 14:31",
-  "updated_at_utc": "2026-11-27T06:31:17Z",
+  "updated_at_taipei": "2026/11/27 15:31",
+  "updated_at_utc": "2026-11-27T07:30:36Z",
   "digests": [
+    {
+      "id": "2026-11-27-1500",
+      "date": "11/27",
+      "time_taipei": "11/27 15:00",
+      "created_at_utc": "2026-11-27T07:30:36Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 磁軸電競鍵盤＆Hi-Fi 隨身機：DrunkDeer $79.99 起／Akko 8 折／HiBy R8 II 省 $225",
+          "price": "DrunkDeer A75 Pro $79.99（67 折）／A75 Ultra HE $129（省 $50）；Akko 全站碼 BF20 8 折（特款 5 折）；MelGeek MADE $138–$171；HiBy R8 II 播放器 $1,274（原價 $1,499）",
+          "store": "DrunkDeer / Akko / MelGeek / MusicTeck",
+          "highlight": "FPS 玩家必搶的 Rapid Trigger 磁軸鍵盤百元內入手！鍵盤與播放器皆輕巧好帶（無線款與播放器含鋰電池須手提登機）。",
+          "tags": [
+            "磁軸鍵盤",
+            "發燒音響"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "單車神裝＆露營清倉：Hammerhead 車錶 $425／ASSOS 5 折／Castelli 6 折／Big Agnes 4 折起",
+          "price": "Hammerhead Karoo 3 車錶 $425（省 $49）；ASSOS 頂級車衣褲最高 5 折；Castelli Alpha 150 外套 $252（6 折 / 原價 $420）；Big Agnes 露營清倉 4 折起；Kasa 智慧燈泡 2 入 $13.99",
+          "store": "各品牌官網 / Backcountry / Amazon US",
+          "highlight": "瑞士頂級車褲 ASSOS 與車錶 Karoo 3 台灣貴很多、美國帶回價差超大！（車衣輕軟好塞；車錶含鋰電池須手提登機）。",
+          "tags": [
+            "公路車",
+            "戶外露營"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "保健美妝＆卡牌桌遊：Seed 益生菌 $35＋雙禮／Murad・雅頓 7 折／魔法風雲會 6 折起",
+          "price": "Seed DS-01 碼 BLACKFRIDAY30 首月 $35（7 折＋送玻璃旅行瓶＆盒）；Murad 碼 CYBER2026 7 折；雅頓 PREVAGE 2.0 $130.90（7 折）；MTG 補充盒 $124.99–$147.95（6–71 折）；Ravensburger D&D 桌遊 $17.99",
+          "store": "Seed / Murad / Amazon US",
+          "highlight": "話題網紅益生菌、抗老精華與 MTG 漫威／星際爭霸戰補充盒皆為輕鬆帶回高 CP 夯品（>100ml 液體放托運）。",
+          "tags": [
+            "美妝保健",
+            "卡牌桌遊"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "台灣居家＆包飾黑五：宜得利 9 折／ROBINMAY 滿折／VACANZA 5 折起（＋16:00 好市多預告倒數）",
+          "price": "宜得利年末感謝祭 400 熱銷品 9 折＋買大型家具免費搬舊（至 12/28）；ROBINMAY 滿 $3,000 折 $200／滿 $5,000 折 $400（至 12/1）；VACANZA 飾品 momo 5 折起",
+          "store": "宜得利 / ROBINMAY / momo",
+          "highlight": "年底換家具與補貨包飾正對時！⏰ **30 分鐘後（16:00）台灣好市多週六 Day 6 官方預告準時公布，下小時第一時間速報**！",
+          "tags": [
+            "居家日用",
+            "台灣包飾"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "開發者 Git 神軟＆瑞士加密雲端：Git Tower 5 折／Tresorit 4 折／BritBox $2.99／LingQ 5 折",
+          "price": "Git Tower Pro 首年 $64.50（5 折）／Basic $48.30（7 折，至 12/6）；Tresorit 加密雲端個人年費最高 4 折（至 12/6）；BritBox 英劇串流 $2.99/月×2；LingQ 年費 5 折",
+          "store": "Git Tower / Tresorit / BritBox / LingQ",
+          "highlight": "Mac/Win 公認最好用 Git 介面與瑞士隱私雲端年度最深折扣，免碼直接線上開通！",
+          "tags": [
+            "開發工具",
+            "雲端串流"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-1400",
       "date": "11/27",
