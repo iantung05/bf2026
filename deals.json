@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 23:32",
-  "updated_at_utc": "2026-11-27T15:31:12Z",
+  "updated_at_taipei": "2026/11/28 00:31",
+  "updated_at_utc": "2026-11-27T16:31:00Z",
   "digests": [
+    {
+      "id": "2026-11-28-0000",
+      "date": "11/28",
+      "time_taipei": "11/28 00:00",
+      "created_at_utc": "2026-11-27T16:31:00Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 鈕扣無線領夾麥＆智慧家電：Hollyland Lark M2S 8 折（A2 $27）／Sensibo 45 折／Simplehuman 7 折",
+          "price": "Hollyland Lark M2／M2S／MAX 2 全面 8 折（M2S 套組約 $103、A2 閃購 $27，至 11/30）；Sensibo 智慧冷氣控制器最高 45 折；Simplehuman 官網 7 折",
+          "store": "Amazon US / Hollyland / Sensibo / Simplehuman",
+          "highlight": "拍片神物超迷你領夾麥 Lark M2S 與冷氣智慧控制器都極輕好帶（無線麥含鋰電須手提；Simplehuman 垃圾桶體積較大）。",
+          "tags": [
+            "收音配件",
+            "智慧居家"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "🔥 貴婦保養＆瑜伽墊愛馬仕：肌膚之鑰 75 折＋豪禮／AB 藍霜 75 折／K18 8 折／Liforme 6 折起",
+          "price": "Clé de Peau 肌膚之鑰碼 BFCM26 最高 75 折＋豪禮；Augustinus Bader 藍霜 75 折（Macy's/Sephora）；Elemis 6–7 折；K18 美官網碼 BF20 享 8 折；Gisou 75 折；Liforme 瑜伽墊 6 折起",
+          "store": "各品牌美國官網 / Macy's / Sephora",
+          "highlight": "台灣專櫃貴到嚇人的 AB 藍霜與肌膚之鑰直殺 75 折！保養品與 K18 護髮小瓶超好帶（>100ml 液體放托運；瑜伽墊略長）。",
+          "tags": [
+            "頂級保養",
+            "瑜伽裝備"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "🎬 影迷年度聖杯！Barnes & Noble《標準收藏 Criterion》實體 4K／藍光全線 5 折（至 12/6）",
+          "price": "4K UHD $24.99（原價 $49.99）／藍光 $19.99（原價 $39.99）／魏斯安德森 4K 套裝 $249.99（省 $250）／柏格曼套裝 $149.99（滿 $60 免運）",
+          "store": "Barnes & Noble 官網＆門市",
+          "highlight": "全球影迷一年只等兩次的實體片對折大促！光碟輕薄好帶零關稅（另提醒：美區 **Target 11/28 週六將釋出寶可夢 TCG 特別波段**）。",
+          "tags": [
+            "4K 藍光",
+            "影迷收藏"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "居家健身＆美式烤爐（美國在地神價）：Bowflex 啞鈴 $328.99／REP 9 折／Traeger・Weber 省 $150",
+          "price": "Bowflex SelectTech 552 可調啞鈴對 $328.99（省 $150）；Rogue Echo Bike V3 $895；REP Fitness 碼 REP10 全站 9 折；Traeger Woodridge Pro $999（省 $150）／Weber Searwood $899",
+          "store": "Amazon US / Lowe's / 各品牌官網",
+          "highlight": "美區黑五高討論度居家重訓與後院烤肉神價（⚠️ 重量體積超大，僅適合美國在地朋友自用）。",
+          "tags": [
+            "居家健身",
+            "美國自用"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "TW",
+          "title": "⏰ 11/28（六）台灣午夜已解鎖！全家 $39 特大杯咖啡＆好市多 Day 6 明早開搶",
+          "price": "全家 11/28 單日快閃：特大杯美式／拿鐵／金桔揪喝檸一律 $39；好市多 Day 6（今早 07:30 黑鑽／08:30 一般）ASUS RX 9060 XT 省 $13,400、LG 除濕機省 $3,400",
+          "store": "全台全家便利商店 / 好市多",
+          "highlight": "🎉 同步慶祝我們的黑五雷達突破 **600 則去重折扣里程碑**！週末早晨出門採買記得順手抓一杯 $39 特大杯拿鐵！",
+          "tags": [
+            "週六開跑",
+            "600 則里程碑"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-2300",
       "date": "11/27",
