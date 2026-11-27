@@ -1,8 +1,66 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 08:30",
-  "updated_at_utc": "2026-11-27T00:30:39Z",
+  "updated_at_taipei": "2026/11/27 09:30",
+  "updated_at_utc": "2026-11-27T01:30:12Z",
   "digests": [
+    {
+      "id": "2026-11-27-0900",
+      "date": "11/27",
+      "time_taipei": "11/27 09:00",
+      "created_at_utc": "2026-11-27T01:30:12Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "Samsung Galaxy Ring 免月費智慧戒指直降 $75",
+          "price": "$324.99–$364.98（81 折 / 省 $75 / 原價 $399.99）",
+          "store": "Amazon US",
+          "highlight": "對標 Oura Ring 但**完全免月費**！體積極致輕巧幾乎零重量（含微小鋰電池須手提登機，下單前記得確認戒圍）。",
+          "tags": [
+            "3C 穿戴",
+            "健康科技"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Logitech MX Anywhere 3S 商務滑鼠 $66 起（＆ Yoto 兒童故事機 72 折）",
+          "price": "MX Anywhere 3S $66–$72（75–8 折 / 原價 $90）；Yoto Player／Mini Amazon 最高 72 折（~$60–$67 起）",
+          "store": "Amazon US",
+          "highlight": "外出族最愛可在玻璃桌滑動的靜音神鼠！與歐美家長大推無螢幕 Yoto 有聲機皆超輕巧（含電池建議手提登機）。",
+          "tags": [
+            "3C 辦公",
+            "親子育兒"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "歐美頂級彩妝黑五神碼：Benefit 7 折／IT Cosmetics 5 折／Pat McGrath／Hourglass",
+          "price": "Benefit 碼 SUPERSALE 7 折（至 11/28）；IT Cosmetics 免碼最高 5 折；Pat McGrath 6–7 折（滿 $75 送正裝睫毛膏）；Hourglass 碼 BF20 8 折",
+          "store": "各品牌美國官網",
+          "highlight": "眼影盤、眉筆、CC 霜小巧好帶（>100ml 液體放托運）。⏰ **半小時後（10:00 台北）Sephora US 黑五主檔 5 折起準點開搶**！",
+          "tags": [
+            "美妝保養",
+            "限時折扣碼"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "CyberGhost VPN 史低 $1.59/月 ＆ The Athletic／Webflow 黑五",
+          "price": "CyberGhost 28 個月 $44.52（$1.59/月，45 天退費保證）；The Athletic 體育新聞 $1.99/月；Webflow 年繳買 9 送 3（75 折起）",
+          "store": "CyberGhost / The Athletic / Webflow 官網",
+          "highlight": "今年黑五最省大廠 VPN（月均約 NT$50）與深度體育專欄神價！⏰ **1 小時後（10:30 台北）台灣 STUDIO A 認證蘋果 3.1 折發號碼牌**！",
+          "tags": [
+            "VPN 資安",
+            "數位訂閱",
+            "體育媒體"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-0800",
       "date": "11/27",
