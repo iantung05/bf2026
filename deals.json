@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 18:31",
-  "updated_at_utc": "2026-11-27T10:30:36Z",
+  "updated_at_taipei": "2026/11/27 19:31",
+  "updated_at_utc": "2026-11-27T11:30:45Z",
   "digests": [
+    {
+      "id": "2026-11-27-1900",
+      "date": "11/27",
+      "time_taipei": "11/27 19:00",
+      "created_at_utc": "2026-11-27T11:30:45Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 【美東 6AM 門市開門＆Slickdeals 晨間爆款】Sony 耳罩 $28／Blink 2K $16／Yoga 7i 省 $350",
+          "price": "Sony WH-CH520 無線耳罩 $28（4 折 / 原價 $70）；Blink Mini 2K+ 鏡頭 $16（4 折）；Lenovo Yoga 7i 16\" 2K 觸控筆電 $649.99（省 $350）；Wrangler 牛仔褲 $13；Hisense 98\" 4K 電視 $799.99",
+          "store": "Amazon US / Best Buy / Walmart / Target",
+          "highlight": "美東實體店 30 分鐘前開門（Best Buy $60 買 $100 禮卡＆Target 首百名禮卡開搶）！耳機＆鏡頭極輕好帶（耳機／筆電含鋰電須手提；98\" 電視僅適合美國自用）。",
+          "tags": [
+            "美東開門爆款",
+            "3C 筆電"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "日本名廚刀具＆鑄鐵鍋＋創客機：Global 具良治 6 折起／Vermicular 8 折／Snapmaker 省 $300",
+          "price": "Global 7\" 主廚刀 $89.95（6 折 / 4 件組 $239.95 / 6 件組 $299.95）；日本 Vermicular 鑄鐵鍋碼 HOLIDAY20 全站 8 折；Snapmaker U1 四噴頭 3D 機 $699（省 $300）；LaserPecker LP5 省 $1,060",
+          "store": "Crate & Barrel / Cutlery and More / 品牌官網",
+          "highlight": "日本 Global 具良治名刀美國價差超大（⚠️ 刀具嚴禁手提務必放托運行李；鑄鐵鍋與列印機體積重量較大）。",
+          "tags": [
+            "廚房刀具",
+            "創客硬體"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "歐美潮流精品＆機能褲：Acne Studios 5 折起／AMI Paris 6 折／prAna 7 折／KUHL",
+          "price": "Acne Studios 秋冬 5–6 折；AMI Paris 愛心系列最高 6 折；prAna 官網免碼 7 折（REI 最高 5 折）；KUHL 機能褲 6–75 折；American Girl 滿 $250 享 7 折／Build-A-Bear 7 折",
+          "store": "END. / Giglio / 各官網 / REI",
+          "highlight": "瑞典 Acne 針織圍巾、法國 AMI 愛心毛衣與美系戶外長褲皆輕軟好塞行李，價差超有感！",
+          "tags": [
+            "潮流精品",
+            "戶外服飾"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "矽谷網紅綠粉＆法系藥妝：AG1 首訂 75 折＋大禮包／Transparent Labs 75 折／雅漾 65 折",
+          "price": "AG1 綠粉碼 BFCM25 首訂 75 折＋贈搖搖杯・罐・D3+K2（至 11/30）；Transparent Labs 全站 75 折（滿 $149 送後背包＋水壺）；Avène 最高 65 折／Bioderma 75 折",
+          "store": "AG1 / Transparent Labs / Care to Beauty US",
+          "highlight": "極少公開打折的 AG1 直接 75 折再送全套迎新組，袋裝營養粉超好帶回（>100ml 液體放托運）。",
+          "tags": [
+            "保健營養",
+            "藥妝保養"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Mac 選單整理＆架站＋機加酒：Bartender 8 折／WordPress 額外 75 折／JetBlue 省 $800",
+          "price": "Bartender (Mac) 碼 BF2026 享 8 折（至 12/6；避雷：Alfred 無黑五特價）；WordPress.com 新年約額外 75 折＋免費搬家（11/27–12/1）；Freedom 最高 4 折；JetBlue 機加酒碼 BLACKFRIDAY25–800 最高折 $800",
+          "store": "Bartender / WordPress.com / Freedom / JetBlue",
+          "highlight": "Mac 瀏海救星 Bartender 與 WordPress.com 今天（11/27）同步啟動黑五限定價！",
+          "tags": [
+            "Mac 軟體",
+            "架站旅遊"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-1800",
       "date": "11/27",
