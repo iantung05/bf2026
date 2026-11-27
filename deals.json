@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 20:31",
-  "updated_at_utc": "2026-11-27T12:31:09Z",
+  "updated_at_taipei": "2026/11/27 21:31",
+  "updated_at_utc": "2026-11-27T13:30:37Z",
   "digests": [
+    {
+      "id": "2026-11-27-2100",
+      "date": "11/27",
+      "time_taipei": "11/27 21:00",
+      "created_at_utc": "2026-11-27T13:30:37Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 禮品卡＆外送神疊加：DoorDash 買 Best Buy 滿 $100 折 $40／Amazon 送 $15",
+          "price": "DoorDash 訂 Best Buy 碼 BBCYBER40 滿 $100 折 $40（非會員碼 BBCYBER35 折 $35）；Amazon 買 $100 Apple 禮卡送 $15 點數；Newegg Uber／DoorDash $100 禮卡 $90",
+          "store": "DoorDash / Amazon US / Newegg",
+          "highlight": "連平常鐵板價的遊戲片與 3C 配件都能用 DoorDash × Best Buy 直接硬砍 $40，超適合美國朋友直接下單！",
+          "tags": [
+            "疊加神碼",
+            "禮品卡"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "德國真空保鮮＆平價動圈麥：Zwilling Fresh & Save 62 折／FIFINE $44.99／Parachute",
+          "price": "雙人牌 Fresh & Save 玻璃盒 3 件 $39.99（原價 $63.99）／30 入真空袋 $29.99；FIFINE AM8 動圈麥 $44.99／K688 $51.08；Combustion 智慧肉溫計 8 折；Native Union 7 折；Parachute 8 折",
+          "store": "Amazon US / 各品牌官網",
+          "highlight": "真空保鮮袋、實況動圈麥與無線肉溫計皆體積輕巧好帶回，內行人才懂的美國高價差神物！",
+          "tags": [
+            "廚房居家",
+            "收音配件"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "美式男裝襯衫＆親子益智盒：UNTUCKit 65 折／True Classic 5 折／Chaco・KiwiCo・Connetix",
+          "price": "UNTUCKit 全站 65 折；Charles Tyrwhitt 多件最高 6 折；True Classic 套組最高 5 折；Chaco 涼鞋碼 MYHOLIDAY 客製 7 折；KiwiCo 科學盒碼 SPARK 最高 7 折；Connetix 磁力片 7–8 折",
+          "store": "各品牌美國官網",
+          "highlight": "襯衫 T 恤輕軟好塞行李，Connetix 磁力片與 KiwiCo 更是家長最愛的美國高價差童玩！",
+          "tags": [
+            "美式服飾",
+            "親子玩具"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "歐美潔淨彩妝＆小眾香氛：Danessa Myricks 7 折／Kayali 7 折／Saie・Milk 75 折／Supply",
+          "price": "Danessa Myricks 全站 7 折；Kayali 香氛精選 7 折（部分疊 EXTRA10）；Milk 7–75 折；Saie＆Ellis Brooklyn 全站 75 折；Supply 單刃刮鬍刀 $39.95 起",
+          "store": "各品牌美國官網",
+          "highlight": "Sephora 爆紅品牌官網直降更深，體積極小超好帶（>100ml 液體＆刮鬍刀片放托運行李）。",
+          "tags": [
+            "彩妝香氛",
+            "男士修容"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "會員＆旅遊景點黑五：Uber One 年費 4 折＋住宿 15% 回饋／GetYourGuide 5 折／Priceline",
+          "price": "Uber One Member Days 年費 4 折＋訂飯店享 15% Uber 點數回饋；GetYourGuide 全球門票行程免碼最高 5 折；Priceline VIP 飯店閃購最高 25–5 折",
+          "store": "Uber App / GetYourGuide / Priceline",
+          "highlight": "規劃明年出國景點門票、飯店與美國叫車／外送會員趁這波鎖低價最省！",
+          "tags": [
+            "旅遊體驗",
+            "會員優惠"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-2000",
       "date": "11/27",
