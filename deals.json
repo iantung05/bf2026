@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 11:32",
-  "updated_at_utc": "2026-11-27T03:32:08Z",
+  "updated_at_taipei": "2026/11/27 12:31",
+  "updated_at_utc": "2026-11-27T04:30:34Z",
   "digests": [
+    {
+      "id": "2026-11-27-1200",
+      "date": "11/27",
+      "time_taipei": "11/27 12:00",
+      "created_at_utc": "2026-11-27T04:30:34Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 工程師＆電競神物：HHKB 靜電容折 $40／Pulsar 滑鼠 7 折／Nanlite 燈具",
+          "price": "HHKB 經典款全線折 $40（Pro Hybrid $269，至 11/30）；Pulsar 最高 7 折（T1 X2 CrazyLight Mini $83.97 / Feinmann F01 $125.96 / PCMK 3 HE $132.96）；Nanlite 75–8 折（FS-300B $179）",
+          "store": "HHKB 美國官網 / Pulsar / B&H",
+          "highlight": "程式設計師信仰鍵盤 HHKB 與極輕量電競滑鼠 Pulsar 罕見官網下殺，超輕好帶（無線滑鼠含鋰電池須手提登機；燈具體積略大）。",
+          "tags": [
+            "鍵盤滑鼠",
+            "攝影器材"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "歐美潔淨美妝＆紅光儀狂潮：Rare Beauty／MERIT 8 折／Origins 7 折＋15 件豪禮",
+          "price": "Rare Beauty 全站 8 折（每日 7 折）；MERIT 8 折（滿額 75 折）；Origins 7 折（滿 $100 送 15 件禮）；Aveda 75 折；Solawave 紅光儀買一送一（或碼 FORBES30 額外 7 折）；Huda 最高 3 折",
+          "store": "各品牌美國官網",
+          "highlight": "話題度最高的歐美 Clean Beauty 與紅光美容儀全面免碼下殺！（>100ml 液體放托運，紅光美容儀含鋰電池須手提登機）。",
+          "tags": [
+            "美妝保養",
+            "美容儀器"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "終身保固神箱＆質感居家：Briggs & Riley 65 折起／Tommy John 5 折／OXO",
+          "price": "Briggs & Riley 最高 65 折；Tommy John 內著碼 BF50 全站 5 折；ECCO 最高 6 折；OXO 錐刀磨豆機 $82.49（75 折）；Eight Sleep Pod 6 智慧控溫床墊套組省 $700",
+          "store": "各品牌官網 / Amazon US",
+          "highlight": "商務客神箱 Briggs & Riley 罕見 65 折可直接裝戰利品托運回台！Tommy John 半價輕軟好帶（Eight Sleep 體積超大僅適合美國自用）。",
+          "tags": [
+            "行李箱",
+            "居家咖啡"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "✈️ 飯店＆機票黑五神價：ZIPAIR 飛北美 ¥26,560 起／Hilton・Hyatt・Accor 6–75 折",
+          "price": "ZIPAIR 單程未稅 ¥26,560 起（免燃油費，飛夏威夷／洛杉磯／舊金山／溫哥華，至 11/30）；Hilton 亞太 75 折＋送 2,000 點；Hyatt 最高 75 折；Accor 歐洲 7 折再疊 9 折（免費取消）",
+          "store": "ZIPAIR / Hilton / Hyatt / ALL Accor 官網",
+          "highlight": "台灣接成田搭 ZIPAIR 飛北美超省！三大國際飯店集團黑五檔期一路覆蓋跨年到明年春假賞櫻季。",
+          "tags": [
+            "機票促銷",
+            "飯店住宿"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Mac 電池保護神軟 AlDente Pro 7 折（＋⏰ 30 分鐘後美東黑五午夜開炸！）",
+          "price": "AlDente Pro 買斷＆年費首年全面 7 折（免碼，至 12/1）；Zwift 室內訓練台 Wahoo KICKR CORE 2 最高 73 折",
+          "store": "AlDente / Zwift 官網",
+          "highlight": "MacBook 長期插電必裝的電池壽命神軟年度大促！⏰ **倒數 30 分鐘：13:00 台北（美東 11/27 00:00）Apple 送禮卡、LEGO 滿額贈＆黑五正日爆款準時解鎖**！",
+          "tags": [
+            "Mac 軟體",
+            "黑五倒數"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-1100",
       "date": "11/27",
