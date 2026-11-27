@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 01:31",
-  "updated_at_utc": "2026-11-27T17:30:32Z",
+  "updated_at_taipei": "2026/11/28 02:31",
+  "updated_at_utc": "2026-11-27T18:30:33Z",
   "digests": [
+    {
+      "id": "2026-11-28-0200",
+      "date": "11/28",
+      "time_taipei": "11/28 02:00",
+      "created_at_utc": "2026-11-27T18:30:33Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 專業收音＆攝影兔籠：Zoom H6essential 32-bit $289.99／Tilta・Atomos 5 折起／Tenba",
+          "price": "Zoom H6essential $289.99（省 $40）／H6studio $349.99／H1 XLR $124.99（至 12/8）；Tascam DR-40XP $298.94；Tilta＆Atomos 最高 5 折；Tenba・Lowepro 攝影包 65 折起",
+          "store": "B&H Photo / Amazon US / Zoom",
+          "highlight": "拍片不爆音 32-bit 浮點錄音神機與兔籠配件體積小巧超好帶回！",
+          "tags": [
+            "專業收音",
+            "攝影配件"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "🔥 海景房機殼＆Switch 神手把：HYTE Y70 $179.99／Mobapad M6 HD $67.99／Evercade 5 折起",
+          "price": "HYTE Y70 機殼 $179.99（螢幕升級組 $179.99）；Phanteks D30 風扇碼 BFF236 $69.99；Seasonic ATX 3.1 電供 $199 起；Evercade 復古掌機 5 折起；Mobapad M6 HD 手把 $67.99",
+          "store": "Newegg / Amazon US / Best Buy / Mobapad",
+          "highlight": "Switch 玩家封神的 Mobapad 機械按鍵手把與復古卡帶掌機極輕好帶（含鋰電須手提；機殼與電供體積較大適合美國自用）。",
+          "tags": [
+            "PC DIY",
+            "掌機手把"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "法製名鍋＆美國主廚砧板／水壺：Mauviel 5 折起／John Boos 8 折／CamelBak 5 折起",
+          "price": "法國 Mauviel M'COOK 十件組 $940（5 折 / 原價 $1,880）；John Boos 原木砧板全站 8 折；CamelBak 水壺 5–6 折；HydroJug 6–8 折（40oz $36）；Breeo 無煙火爐 $319.20",
+          "store": "各品牌美國官網 / Crate & Barrel",
+          "highlight": "CamelBak 與 HydroJug 輕巧好塞行李，Mauviel 鍋具與主廚砧板價差超大（鍋具／砧板較重放托運；火爐適合美國自用）。",
+          "tags": [
+            "頂級廚具",
+            "戶外水壺"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "矽谷男裝女鞋＆神級童車：Cuts 4 折起／Mizzen+Main 6 折起／Birdies 6 折／woom 童車 7 折",
+          "price": "Cuts Clothing 最高 4 折；Mizzen+Main 免燙襯衫 6–7 折（3 件再省 $50）；Birdies 女鞋 6–7 折免運；Woolrich 5 折起；woom 超輕兒童單車最高 7 折；CrunchLabs 年訂約送 2 盒",
+          "store": "各品牌美國官網",
+          "highlight": "美式高質感機能衣鞋輕軟好帶回，woom 童車更是美國家長年度必搶 7 折神物（單車體積大適合美國自用或托運）。",
+          "tags": [
+            "歐美服飾",
+            "兒童單車"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "✈️ 飯店＆美航哩程黑五：Radisson 65 折＋送 3,000 點／AA 買分 5 折／聯合航空假期折 $300",
+          "price": "Radisson 飯店最高 65 折＋送 3,000 點（訂至 12/2、可住至 2027 年底）；American Airlines 買哩程 5 折＆機票 $150 起；United Vacations 碼 BLKFRI26 折 $300；RemNote 終身折 $40",
+          "store": "Radisson / American Airlines / United / RemNote",
+          "highlight": "Radisson 直接鎖定到 2027 年底的歐亞住宿還贈點！（避雷：筆記軟體 Capacities 確認無黑五特賣）。",
+          "tags": [
+            "飯店機票",
+            "學習軟體"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-0100",
       "date": "11/28",
