@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 03:31",
-  "updated_at_utc": "2026-11-27T19:30:55Z",
+  "updated_at_taipei": "2026/11/28 04:32",
+  "updated_at_utc": "2026-11-27T20:32:19Z",
   "digests": [
+    {
+      "id": "2026-11-28-0400",
+      "date": "11/28",
+      "time_taipei": "11/28 04:00",
+      "created_at_utc": "2026-11-27T20:32:19Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "德國專業監聽喇叭／輕巧空拍機／智慧居家",
+          "price": "ADAM Audio T5V 監聽 $129–$139/顆、D3V 桌上對箱 $239–$289.99（原價 $349）；Potensic Atom 空拍機組 $279（8 折 / 原價 $349）；Lutron Caséta 智慧調光開關組 $91.95（原價 ~$115）；BedJet 3 控溫系統最高 6 折（套組 $397 起）",
+          "store": "Amazon US / Sweetwater / Lutron / BedJet",
+          "highlight": "錄音室等級 ADAM 鋁帶高音監聽＆口碑最穩 Lutron 智慧開關齊降；Potensic 空拍機與調光組輕巧好帶（空拍機含鋰電須手提登機；監聽喇叭與 BedJet 體積較大）。",
+          "tags": [
+            "監聽喇叭",
+            "智慧居家"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "單車神級配件＆狗狗 GPS 項圈大促",
+          "price": "SILCA 鏈條熱蠟組 69 折；Knog 單車燈「Bright Friday」最高 6 折；Lezyne 打氣筒＆車燈官網最高 75 折；Hiplok 防角磨機大鎖約 85 折；Fi Mini 狗狗 GPS 項圈主機 5 折 $99；Wild One 質感牽繩套組最高 6 折",
+          "store": "Mike's Bikes / Competitive Cyclist / Knog / Lezyne / Fi / Wild One",
+          "highlight": "車友圈夢幻品牌 SILCA 熱蠟與防盜神器 Hiplok 罕見破盤，寵物 GPS 項圈對折；全部輕巧好塞行李（含電池車燈＆GPS 須手提登機）。",
+          "tags": [
+            "單車精品",
+            "寵物 GPS"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "加州仙氣女裝＆芬蘭球鞋＋滑步車＆美國名床",
+          "price": "DÔEN「Giving Thanks」最高 35 折；Karhu 芬蘭慢跑鞋（All4running 碼 BF15 85 折）；Strider 客製兒童平衡滑步車 8 折（滿 $100 免運）；美國名床：Purple 最高省 $800、Saatva 滿 $1,000 折 $425（套組省 $525）、Helix 碼 CORE20/LUXE25/ELITE30 最高 7 折",
+          "store": "DÔEN / All4running / Strider / Purple / Saatva / Helix",
+          "highlight": "DÔEN 官網年度大降價＋小眾北歐球鞋 Karhu 極好帶回；三大美國名床下探年度低點（床墊僅適合美國自用）。",
+          "tags": [
+            "質感服飾",
+            "美國名床"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "剪輯＆修圖買斷軟體黑五大促",
+          "price": "Wondershare Filmora 買斷 $49.99（原價 $79.99 / 年費 $32.49，至 12/8）；CyberLink 威力導演 $43 起／相片大師 $54 起（最高 55 折）；ACDSee Photo Studio Ultimate 終身 $69.95（原價 $99.99，至 12/2，疊碼 PETAPIXEL2027 再 8 折）；CorelDRAW 365 天 $161.40（6 折）",
+          "store": "Wondershare / CyberLink / ACDSee / Corel",
+          "highlight": "不想被 Adobe 綁月租的救星！Filmora 與 ACDSee 終身買斷版疊碼超甜，零運費即時啟用。",
+          "tags": [
+            "買斷軟體",
+            "影音修圖"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "個資移除＆新聞閱讀訂閱（＋今早台灣 11/28 週六提醒）",
+          "price": "Optery 個資移除年繳 83 折＋碼 THANKS2026 額外 8 折（Core $3.25/月起）；Feedly Pro+ 首年 $99（69 折 / 原價 $144）",
+          "store": "Optery / Feedly（台灣線下提醒：全家 / 好市多）",
+          "highlight": "美國資料仲介個資清理神工具 Optery 雙重折＋重度資訊控必備 Feedly 罕見年費特價。⏰ 提醒：台灣今早 11/28 全家 $39 特大杯咖啡已開跑、07:30 好市多黑五 Day 6 黑鑽入場！",
+          "tags": [
+            "隱私工具",
+            "台灣今早提醒"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-0300",
       "date": "11/28",
