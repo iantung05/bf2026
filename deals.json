@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 15:31",
-  "updated_at_utc": "2026-11-27T07:30:36Z",
+  "updated_at_taipei": "2026/11/27 16:31",
+  "updated_at_utc": "2026-11-27T08:30:23Z",
   "digests": [
+    {
+      "id": "2026-11-27-1600",
+      "date": "11/27",
+      "time_taipei": "11/27 16:00",
+      "created_at_utc": "2026-11-27T08:30:23Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "輕奢女包＆飾品機械錶：Mansur Gavriel 4 折起／Furla 5 折／Jenny Bird 6 折／Orient 85 折",
+          "price": "Mansur Gavriel 最高 4 折；Furla 最高 5 折；Jenny Bird 飾品最高 6 折；BaubleBar 7 折；Orient 機械錶碼 BF2026 享 85 折（WatchMaxx 碼 WMBF2026 瑞士錶折上折）",
+          "store": "各品牌美國官網 / WatchMaxx",
+          "highlight": "包款、飾品與機械錶都輕巧好帶回，美國節慶折扣比台灣專櫃甜超多！",
+          "tags": [
+            "輕奢包款",
+            "飾品腕錶"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "3D 列印機＆攀岩神鞋：Elegoo 16K 機 $399（省 $250）／Anycubic $179／La Sportiva 75 折",
+          "price": "Elegoo Saturn 4 Ultra 16K 碼 BFDG16K 降至 $399（61 折 / 原價 $649.99）、Centauri Carbon 2 多色 $369；Anycubic Kobra 4 $179；La Sportiva 攀岩鞋 75 折",
+          "store": "Elegoo / Anycubic / REI",
+          "highlight": "創客圈瘋搶的 16K 光固化機狂砍 $250（3D 列印機體積較大適合美國自用；La Sportiva 攀岩鞋輕巧好帶回）。",
+          "tags": [
+            "3D 列印",
+            "戶外攀岩"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "儲能電源破盤（美國在地自用）：Bluetti 48 折省 $400／EcoFlow 省 $1,100／Jackery $499 起",
+          "price": "Bluetti Elite 100 Mini $379.99（48 折 / 省 $400 / 原價 $799，Elite 300 疊碼 BLUETTI5OFF $1,098.99）；EcoFlow Delta 3 Max $854／Titan 5000 省 $1,100；Jackery 1000 v2 $499 起",
+          "store": "Amazon US / Bluetti / EcoFlow / Jackery",
+          "highlight": "美區討論度爆表的露營＆停電備援神價（⚠️ 超大容量鋰電池嚴禁上機，僅適合美國親友在地自用）。",
+          "tags": [
+            "儲能電源",
+            "美國自用"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "🔥 【16:00 準時速報】台灣好市多黑五 Day 6（明日 11/28 週六）官方預告出爐！",
+          "price": "500g 金條省 $30,000／24K 花飛蝶舞項鍊省 $18,100／ASUS R7＋RX 9060 XT 電競主機省 $13,400／TCL 65\" QD-MiniLED 省 $5,800／LG 16L 除濕機省 $3,400／Dyson BP02 省 $1,700／V8 省 $800",
+          "store": "全台好市多實體賣場（11/28–12/6）",
+          "highlight": "明天週六開搶！LG 16L UV 除濕機與 RX 9060 XT 電競主機折幅最猛，每卡限購 1 件（黑鑽明早 7:30／一般 8:30 入場）。",
+          "tags": [
+            "好市多",
+            "Day 6 預告"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "雲端買 1 年送 2 年＆助眠冥想：Sync.com 33 折／Calm 年費 5 折／PopClip 買斷 7 折",
+          "price": "Sync.com 1TB「付 1 年用 3 年」$144（折合 $4/月，免碼至 12/5）；Calm 年費 $34.99（5 折 / 原價 $69.99）；PopClip Mac 選字工具買斷 $20.30（7 折，至 12/1）",
+          "store": "Sync.com / Calm / PopClip",
+          "highlight": "隱私雲端買 1 年送 2 年極罕見！避雷：italki 無全站黑五折扣（⏰ **2.5 小時後 19:00 美東門市開門，Best Buy $60 買 $100 禮卡開搶！**）。",
+          "tags": [
+            "雲端備份",
+            "Mac 軟體"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-1500",
       "date": "11/27",
