@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 04:32",
-  "updated_at_utc": "2026-11-27T20:32:19Z",
+  "updated_at_taipei": "2026/11/28 05:31",
+  "updated_at_utc": "2026-11-27T21:31:02Z",
   "digests": [
+    {
+      "id": "2026-11-28-0500",
+      "date": "11/28",
+      "time_taipei": "11/28 05:00",
+      "created_at_utc": "2026-11-27T21:31:02Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "極簡桌面美學＆罕見折扣美國製金屬筆",
+          "price": "Grovemade 全站幾乎 8 折（至 11/30）；Ugmonk 年度最大檔最高 48 折（Analog 任務卡組＆攤平筆記本）；Tactile Turn 美國製滑栓金屬筆免碼全站 85 折（至 11/30）",
+          "store": "Grovemade / Ugmonk / Tactile Turn",
+          "highlight": "Tactile Turn 一年幾乎只在黑五打折，CNC 鈦／銅金屬筆極輕超好帶回；Ugmonk 任務卡與筆座同樣輕巧（Grovemade 實木螢幕架體積較大）。",
+          "tags": [
+            "桌面美學",
+            "質感文具"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "精品咖啡手搖磨豆機＆手沖器具黑五",
+          "price": "1Zpresso K-Ultra 約 $207（8 折 / 原價 $259）、J-Ultra 約 $159（8 折 / 原價 $199）；Hario 官網全價品 74–8 折（自動折，V60／濾紙／冷萃瓶）；Flair Espresso 手動義式機與配件最高 85 折",
+          "store": "Amazon US / Hario USA / Flair Espresso",
+          "highlight": "咖啡玩家口碑神機 1Zpresso K/J-Ultra 同步 8 折，磨豆機與濾杯體積小巧好塞行李（玻璃下壺放托運請加強防撞）。",
+          "tags": [
+            "精品咖啡",
+            "手搖磨豆"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "絕版機能背包／法式小白鞋／舒壓背輪",
+          "price": "Mystery Ranch「Last Haul」Web Special 絕版／停產包款約 75 折（Sierra／CampSaver 另有出清）；Veja Esplar 小白鞋授權通路約 77–8 折；Chirp Wheel 舒壓背輪全站 75 折／滿 $99 送 XR4 輪（至 11/30，Amazon/Walmart 部分 58–75 折）",
+          "store": "Mystery Ranch / Amazon US / Chirp / Walmart",
+          "highlight": "Mystery Ranch 被 YETI 收購後多款經典包走向絕版，75 折成入手最後良機；Veja 官網依慣例不打折，授權通路 8 折好帶回（Chirp 三入組滾輪體積略佔空間）。",
+          "tags": [
+            "機能包款",
+            "運動舒壓"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "🔥 工程師必搶！JetBrains 全線 6 折＋經典技術書 55 折起",
+          "price": "JetBrains 碼 BF2026 個人年繳 IDE／All Products Pack 升級／2–3 年方案 6 折（至 12/2）；No Starch Press 全站約 58 折（免碼自動折）；Manning 每日精選書 55 折；Pragmatic Bookshelf 電子書約 6 折",
+          "store": "JetBrains / No Starch Press / Manning / PragProg",
+          "highlight": "開發者年度最強省錢檔！IntelliJ／PyCharm／WebStorm 罕見 6 折還能一次鎖 2–3 年價，No Starch 與 Manning 技術電子書免運即買即讀。",
+          "tags": [
+            "開發工具",
+            "技術書"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "夏威夷航空黑五限時 7 折機票（11/28 截止！）",
+          "price": "Hawaiian Airlines／Alaska 碼 BF2026 夏威夷往返北美航線最高 7 折（加州航線天天 7 折，訂票至美國時間 11/28 止）",
+          "store": "Hawaiian Airlines",
+          "highlight": "只賣到 11/28 的限時黑五機票碼！計畫美西轉機或順遊夏威夷可把握最後一天鎖票。",
+          "tags": [
+            "機票 7 折",
+            "限時至 11/28"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-0400",
       "date": "11/28",
