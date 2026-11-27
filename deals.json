@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 05:31",
-  "updated_at_utc": "2026-11-27T21:31:02Z",
+  "updated_at_taipei": "2026/11/28 06:30",
+  "updated_at_utc": "2026-11-27T22:30:38Z",
   "digests": [
+    {
+      "id": "2026-11-28-0600",
+      "date": "11/28",
+      "time_taipei": "11/28 06:00",
+      "created_at_utc": "2026-11-27T22:30:38Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "攝影配件／閃光燈＆霍爾手把黑五大促",
+          "price": "PGYTECH 相機包（OneGo Lite）／CreateMate 讀卡機盒 8 折（iPhone 400mm 套件同步促銷至 11/30）；Godox 閃燈（含 V1Pro）／LED 補光燈全線 8–85 折（至 11/30）；GuliKit 谷粒手把（KK3 Max／ES MAX）Amazon 官方最高 72 折（抗飄移 TMR 搖桿模組 ~$14，至 12/7）",
+          "store": "Amazon US / B&H / Adorama / PGYTECH",
+          "highlight": "攝影人與 Switch／PC 玩家必逛！讀卡機盒、手把與抗飄移搖桿模組都超輕好帶（閃光燈與無線手把含鋰電池須手提登機）。",
+          "tags": [
+            "攝影配件",
+            "遊戲手把"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "波士頓質感跑衣／加拿大神級棉服／都會機能包＆墨鏡",
+          "price": "Tracksmith 跑衣全站 75 折（購物車自動折）；Reigning Champ 厚磅棉服最高 5 折；Black Ember 機能後背包／斜背包精選 6–7 折；Goodr 防滑運動墨鏡 6–75 折（$18 起）",
+          "store": "Tracksmith / Reigning Champ / Black Ember / Goodr",
+          "highlight": "跑圈夢幻品牌 Tracksmith 罕見全站 75 折、加拿大國民神級帽 T Reigning Champ 對折，加上平價神墨鏡 Goodr，全部輕量超好帶回。",
+          "tags": [
+            "跑步精品",
+            "機能潮牌"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "紐約主廚級廚具＆網紅辣油／加州冷壓橄欖油伴手禮",
+          "price": "Misen 5 層不鏽鋼平底鍋約 72 折；Hedley & Bennett 職人矽膠廚具組 75 折；Smithey 鑄鐵鍋免運再送廚房剪刀；Fly By Jing 四川辣油／拌麵禮盒最高 5 折；Brightland 橄欖油全站 75 折（自動折，至 11/30）",
+          "store": "Misen / Hedley & Bennett / Smithey / Fly By Jing / Brightland",
+          "highlight": "紐約料理圈最愛伴手禮！Fly By Jing 辣油對折＋Brightland 顏值天花板橄欖油 75 折（液體／油品與鍋具須放托運行李並防撞；鑄鐵鍋較重）。",
+          "tags": [
+            "職人廚具",
+            "美食伴手禮"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "🔥 創作者神器！Screen Studio 6 折＋Framer 5 折＋Porkbun 網域",
+          "price": "Screen Studio 碼 BLACKFRIDAY26 首年 6 折；Framer Pro 年繳碼 BLACKFRIDAY26 首年 5 折再送 2,000 Agent 額度（至 12/1）；Porkbun 熱門 TLD 網域輪番黑五特價（至 12/4）",
+          "store": "Screen Studio / Framer / Porkbun",
+          "highlight": "產品 Demo 錄影神工具 Screen Studio 罕見 6 折、建站神器 Framer Pro 對折加贈 AI 額度，個人專案買便宜網域趁 Porkbun 這波最省。",
+          "tags": [
+            "創作者工具",
+            "建站網域"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-0500",
       "date": "11/28",
