@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 22:32",
-  "updated_at_utc": "2026-11-27T14:32:38Z",
+  "updated_at_taipei": "2026/11/27 23:32",
+  "updated_at_utc": "2026-11-27T15:31:12Z",
   "digests": [
+    {
+      "id": "2026-11-27-2300",
+      "date": "11/27",
+      "time_taipei": "11/27 23:00",
+      "created_at_utc": "2026-11-27T15:31:12Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 【Newegg／B&H／Micro Center 黑五硬體爆款】i9-14900K 65 折／Sigma 24-70 II 折 $200／RTX 5070 Ti 筆電省 $700",
+          "price": "Intel i9-14900K $389.99（65 折）／i7-14700KF $279.99；B&H Sigma 24-70mm f/2.8 II Art (Sony E) $1,119（省 $200）＆ Samsung M8 螢幕 $399.99；Micro Center MSI Raider 16 OLED RTX 5070 Ti $2,299.99（省 $700）／RTX 5060 Ti 整機 $1,499.99",
+          "store": "Newegg / B&H Photo / Micro Center",
+          "highlight": "CPU、大三元鏡頭與旗艦筆電全部超好帶回！（筆電含鋰電須手提；螢幕與整機桌電僅適合美國自用）。",
+          "tags": [
+            "PC 硬體",
+            "攝影鏡頭"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "🔥 模擬器掌機＆破盤 OLED 螢幕＋劇院：AYN Odin 3 $319／INNOCN 240Hz OLED $279.99／Marantz",
+          "price": "AYN Odin 3 碼 BF$50OFF 降至 $319（Thor $389 / Portal $249）；INNOCN 27\" 240Hz QD-OLED $279.99／40\" $399.99；Marantz CINEMA 擴大機省 $301–$401；SVS 重低音省 $200",
+          "store": "AYN / Amazon US / Marantz / SVS",
+          "highlight": "掌機王者 AYN 與 $279 破盤 240Hz QD-OLED 超香！（掌機含鋰電須手提；螢幕與擴大機重低音體積較大適合美國自用）。",
+          "tags": [
+            "復古掌機",
+            "螢幕劇院"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "網球拍＆高球測距＋工具鉗：HEAD・Babolat 55 折起／Shot Scope $199.99／Gerber $26.99",
+          "price": "HEAD 球拍最高 55 折（Speed $215.20 起）；Babolat Pure Strike 4 享 75 折；Shot Scope PRO ZR $199.99（省 $100）／LM1 碼 BREAKINGEIGHTY $170；Vice 挖起桿 $99；Gerber $26.99（45 折）",
+          "store": "Tennis Warehouse / Shot Scope / Vice / Blade HQ",
+          "highlight": "網球拍與高球裝備美國價差極大（⚠️ 工具鉗＆折刀務必放托運行李；高球測距儀含電池須手提）。",
+          "tags": [
+            "球拍高球",
+            "EDC 工具"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "經典樂福鞋＆美式休閒＋益智玩具：G.H. Bass 7 折／Vineyard Vines 5 折起／Melissa & Doug 7 折",
+          "price": "Vineyard Vines 5–6 折（滿 $200 碼 GIFT200 送禮）；G.H. Bass 樂福鞋免碼 7 折（至 12/1）；Sperry 再 7 折；Outerknown＆BYLT＆Bearaby 均 7 折；Melissa & Doug 碼 BFCM30 全站 7 折",
+          "store": "各品牌美國官網",
+          "highlight": "經典美式皮質樂福鞋與帆船鞋台灣專櫃價差大，好穿搭又輕鬆帶回！",
+          "tags": [
+            "鞋包服飾",
+            "親子玩具"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "授權 Steam 序號＆郵輪飯店：Gamesplanet／GamersGate 1 折起＋挪威郵輪 5 折＆溫德姆 65 折",
+          "price": "Gamesplanet＆GamersGate 最高 1 折起；Norwegian 郵輪 5 折＋Free at Sea；Celebrity 第 2 人 25 折＋折 $1,200；Wyndham 住 4 晚 7 折（會員 65 折）；BJ's 年費 $15",
+          "store": "Gamesplanet / GamersGate / NCL / Celebrity / Wyndham",
+          "highlight": "⏰ **30 分鐘後台灣進入 11/28（六）**：記得明早 **全家單日特大杯咖啡 $39**＆**好市多 Day 6（黑鑽 7:30／一般 8:30）**開搶！",
+          "tags": [
+            "PC 遊戲",
+            "郵輪飯店"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-2200",
       "date": "11/27",
