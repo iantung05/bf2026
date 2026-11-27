@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 21:31",
-  "updated_at_utc": "2026-11-27T13:30:37Z",
+  "updated_at_taipei": "2026/11/27 22:32",
+  "updated_at_utc": "2026-11-27T14:32:38Z",
   "digests": [
+    {
+      "id": "2026-11-27-2200",
+      "date": "11/27",
+      "time_taipei": "11/27 22:00",
+      "created_at_utc": "2026-11-27T14:32:38Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 救車神器＆德國手工具＋神價小物：NOCO Boost $76／Knipex 口袋鉗 $36／YETI $19.20",
+          "price": "NOCO GB40 救車電源 $76（原價 $100）／GB70 $118.99 起／GBX155 史低 $295.96；德國 Knipex Cobra XS $36（KC Tool 雙牌 85 折）；YETI 16oz 瓶 $19.20；Denon 5.2 擴大機 $359",
+          "store": "Amazon US / KC Tool",
+          "highlight": "黑五常勝神物 NOCO 與德製神鉗價差超大！（⚠️ NOCO 含大鋰電須查 Wh 並手提、>160Wh 禁上機；手工具務必放托運；擴大機體積較大）。",
+          "tags": [
+            "車用工具",
+            "精工小物"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "🔥 匹克球拍＆高球科技大戰：CRBN 首降 $162／Selkirk 3 折起／Garmin Approach 省 $200",
+          "price": "CRBN TruFoam 首次特價 $179.99（疊碼 PICKLEHEADS10 約 $162）；Selkirk 最高 3 折（Power Air $100）；JOOLA 精選買一送一；Garmin Approach R10 省 $200；Bushnell 省 $100／Rapsodo 省 $300",
+          "store": "各品牌美國官網 / PGA TOUR Superstore",
+          "highlight": "最火匹克球拍與高爾夫雷射測距／揮桿儀台灣超貴、美國入手直接現省數千，輕巧好帶（含鋰電儀器須手提登機）。",
+          "tags": [
+            "匹克球",
+            "高爾夫科技"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "美式手工靴＆經典皮衣郵差包：Grant Stone 75 折起／Chrome 7 折／Schott 皮衣 85 折",
+          "price": "Grant Stone 滿 $475 享 8 折、滿 $1,000 享 75 折（年度唯一）；Chrome 單車郵差包 7 折；Schott NYC 美製皮衣 85 折；Coop 亞馬遜冠軍可調枕 75 折（全站最高 4 折）",
+          "store": "各品牌美國官網",
+          "highlight": "靴迷與皮衣控整年就等這波！手工靴與郵差包台灣代購貴非常多，直接請美國朋友帶回省超大。",
+          "tags": [
+            "手工靴皮衣",
+            "居家睡眠"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "🚢 明年郵輪＆滑雪渡假神價：皇家加勒比折 $1,000／公主遊輪 5 折＋第 3・4 人免費／Club Med",
+          "price": "Royal Caribbean 最高折 $1,000＋第 3・4 人免費（船上加購 5 折）；Princess Cruises 船票 5 折＋每艙折 $800＋訂金半價（至 12/7）；Club Med 滑雪／海島全包村最高 5 折（住至 2027 年底）",
+          "store": "Royal Caribbean / Princess / Club Med",
+          "highlight": "多人家庭或三五好友同行超划算！提早卡位 2027 寒暑假滑雪與郵輪行程直接現省數萬元。",
+          "tags": [
+            "郵輪旅遊",
+            "全包渡假村"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "✈️ 機場貴賓室＆影音素材：Priority Pass 6 折起（＋Amazon 今免會員跟進 AirPods Pro 3 $149！）",
+          "price": "Priority Pass 首年 Standard 6 折（£41）／Standard Plus 75 折（£171）；Motion Array 邀請年費買 12 送 2 個月",
+          "store": "Priority Pass / Motion Array / Amazon US",
+          "highlight": "常出國沒頂級卡也能趁這波低價收貴賓室會籍！（🔥 即時補貨快訊：**Amazon US 今天也免會員跟進 AirPods Pro 3 史低 $149**，之前沒 Walmart+ 的現在直接搶！）。",
+          "tags": [
+            "旅遊會籍",
+            "補貨快訊"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-2100",
       "date": "11/27",
