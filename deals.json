@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 02:31",
-  "updated_at_utc": "2026-11-27T18:30:33Z",
+  "updated_at_taipei": "2026/11/28 03:31",
+  "updated_at_utc": "2026-11-27T19:30:55Z",
   "digests": [
+    {
+      "id": "2026-11-28-0300",
+      "date": "11/28",
+      "time_taipei": "11/28 03:00",
+      "created_at_utc": "2026-11-27T19:30:55Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 【Woot & Amazon 黑五午後殺紅眼】B&W Pi6 耳機 4 折 $99.99／Apple Watch S12 再探史低 $299",
+          "price": "Bowers & Wilkins Pi6 降噪耳機 $99.99（4 折 / 狂省 $149，Woot）；Apple Watch Series 12 再降 $30 破三百至 $299（原價 $399，Amazon）；Woot 筆電/iPad 碼 BESTOFPC 再 9 折；Roomba Combo i5 $149.99（省 $200）",
+          "store": "Woot! / Amazon US",
+          "highlight": "英國發燒大廠 B&W 真無線破百元＋Apple Watch S12 新低 $299，耳機手錶極輕好帶（含鋰電須手提登機；掃地機體積較大）。",
+          "tags": [
+            "耳機神價",
+            "Apple 再破低"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "🔥 掌上跟拍無人機＆機車手機架王者：HOVERAir $239 起／Quad Lock 全站 7 折／Akai MIDI",
+          "price": "HOVERAir X1 口袋空拍機 $239（8 折）／X1 Pro Max $594（省 $105）／騎行組 $871；Quad Lock 機車・單車手機架免碼 7 折；Akai MPK Mini IV $89；Novation 8 折",
+          "store": "Amazon US / HOVERAir / Quad Lock / zZounds",
+          "highlight": "免遙控器手掌起飛的 HOVERAir 與台灣超貴的 Quad Lock 防震架同步下殺，全數輕巧好塞行李（無人機電池須手提登機）。",
+          "tags": [
+            "空拍機",
+            "機車配件"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "發燒手電筒＆智慧寵物＋升降桌：Wurkkos $15.99 起／PETLIBRO 45 折起／Narwal・FlexiSpot",
+          "price": "Wurkkos HD03 $15.99／HD01 UV $29.99／Sofirn Q8 Plus (16,000流明) $79.44；PETLIBRO 餵食器碼 BF22 $70.19（最高 45 折）；Narwal Flow 2 省 $550；Uplift 碼 BF2026 省 $300／FlexiSpot E7 Pro $399.99",
+          "store": "Amazon US / PETLIBRO / Narwal / FlexiSpot",
+          "highlight": "手電筒玩家激推的高流明 EDC 神燈十幾美元起（鋰電池須手提登機；掃拖機與電動升降桌體積超大僅適合美國自用）。",
+          "tags": [
+            "EDC 手電筒",
+            "智慧居家"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "北歐＆法式潮牌＋加州墨鏡：GANNI 7 折／Zadig & Voltaire 5 折起／RAEN・Sunski",
+          "price": "丹麥 GANNI 碼 GANNIFLASH 精選 7 折（至 12/1）；法式 Zadig & Voltaire 免碼 5–6 折；加州手工醋酸纖維墨鏡 RAEN 5–6 折／Sunski 階梯直降",
+          "store": "各品牌美國官網",
+          "highlight": "時尚圈最紅丹麥 GANNI 與法式輕奢衣包輕軟好帶回，加州質感墨鏡更是送禮自用高 CP 選物！",
+          "tags": [
+            "歐洲輕奢",
+            "質感墨鏡"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "專業修圖＆RSS 閱讀＋個資清理：Capture One 7 折／Inoreader 買 1 年送半年／Incogni 42 折",
+          "price": "Capture One 7 折；ON1 Photo RAW 2027 碼 BLACKFRIDAY27 最高 6 折；Inoreader Pro 付 12 個月用 18 個月；Incogni 個資刪除 42 折（~$81.50）／DeleteMe 碼 PRIVACYDEAL 7–8 折；Simplifi 7 折",
+          "store": "Capture One / ON1 / Inoreader / Incogni / DeleteMe",
+          "highlight": "攝影師修圖、資訊控必收的 Inoreader 買一送半年，以及在美居住超實用的個資移除服務一次到齊！",
+          "tags": [
+            "修圖軟體",
+            "隱私訂閱"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-0200",
       "date": "11/28",
