@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 19:31",
-  "updated_at_utc": "2026-11-27T11:30:45Z",
+  "updated_at_taipei": "2026/11/27 20:31",
+  "updated_at_utc": "2026-11-27T12:31:09Z",
   "digests": [
+    {
+      "id": "2026-11-27-2000",
+      "date": "11/27",
+      "time_taipei": "11/27 20:00",
+      "created_at_utc": "2026-11-27T12:31:09Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 實況麥克風＆掌機迷你 PC 史低：Blue Yeti 對折 $69.99／AYANEO 省 $180／MSI 500Hz OLED",
+          "price": "Logitech Blue Yeti USB 麥克風 $69.99（5 折 / 原價 $139.99）；AYANEO Pocket DS 掌機 $399（省 $180）／i9 迷你 PC $249.50（5 折）；MSI 27\" 500Hz QD-OLED $549.99／32\" 4K OLED $569.99",
+          "store": "Amazon US / AYANEO / B&H",
+          "highlight": "Blue Yeti 與 AYANEO 掌機／迷你主機皆輕巧超好帶回（掌機含鋰電池須手提登機；OLED 螢幕體積較大適合美國自用）。",
+          "tags": [
+            "實況收音",
+            "遊戲掌機"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "🔥 衛星通訊＆親子體感＋神級 EDC：Garmin inReach Mini 2 $249／Nex Playground $209／Henson 刮鬍刀",
+          "price": "Garmin inReach Mini 2 衛星救援機 $249（62 折 / 省 $150 / 原價 $399.99）；Nex Playground 體感主機 $209（省 $90）；Ridge 卡夾 $69 起；Mous 防摔殼 5 折起；Henson 2 年刮鬍刀組 $69.89",
+          "store": "Amazon US / Walmart / Best Buy / Ridge",
+          "highlight": "百岳登山救命神器 inReach Mini 2 狂砍 $150！全系列體積迷你超高 CP（inReach 含鋰電須手提；Henson 刀片組放托運）。",
+          "tags": [
+            "登山通訊",
+            "EDC 好物"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "美系質感男裝＆小眾人氣香氛：Todd Snyder 7 折／Bonobos 6 折起／Ten Thousand 5 折／Phlur",
+          "price": "Todd Snyder 碼 BLACKFRIDAY 享 7 折；Bonobos 6–7 折；Taylor Stitch 8 折（至 11/30）；Ten Thousand 運動服 5 折起；DedCool 香氛 75 折／Phlur 8 折／D.S. & Durga 經銷碼 glow26 8 折",
+          "store": "各品牌美國官網 / Oh Beauty",
+          "highlight": "美式神級剪裁男裝與 TikTok 爆紅小眾香水台灣少見且價差超大，衣物輕巧好塞行李（>100ml 香水放托運）。",
+          "tags": [
+            "質感男裝",
+            "小眾香氛"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "✈️ 訂房黑五疊加＆日亞回饋攻略：Booking 7 折＋Genius 9 折／Trip.com 5 折起／日亞最高 11%",
+          "price": "Booking.com 黑五指定房 7 折起（疊加 Genius 再 9 折）；Trip.com 飯店最高 5–6 折＋App 限量券；Amazon JP 先行（11/27–29）報名 Point-Up 最高 11% 點數回饋",
+          "store": "Booking.com / Trip.com / Amazon JP",
+          "highlight": "Booking 疊加 Genius 會員規劃明年出遊超省；逛日亞別忘先按「エントリー」拿最高 11% 回饋！",
+          "tags": [
+            "旅遊訂房",
+            "日本亞馬遜"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "創作者配樂＆遊戲素材大促：Epidemic Sound 5 折／Splice $120／Unity 閃購 0.5 折起",
+          "price": "Epidemic Sound 年費 5 折；Splice Creator 年費 $120（約 5 折）；Unity Asset Store 百款 5 折（限量閃購低至 0.5 折）；Envato Elements 6–75 折",
+          "store": "Epidemic Sound / Splice / Unity / Envato",
+          "highlight": "剪片、做遊戲、玩音樂年度必囤素材庫！（🎉 正式達成 **連續 120 小時／滿 5 天 24H 黑五快報里程碑**！）。",
+          "tags": [
+            "創作者素材",
+            "120H 里程碑"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-1900",
       "date": "11/27",
