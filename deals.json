@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 00:31",
-  "updated_at_utc": "2026-11-27T16:31:00Z",
+  "updated_at_taipei": "2026/11/28 01:31",
+  "updated_at_utc": "2026-11-27T17:30:32Z",
   "digests": [
+    {
+      "id": "2026-11-28-0100",
+      "date": "11/28",
+      "time_taipei": "11/28 01:00",
+      "created_at_utc": "2026-11-27T17:30:32Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 手機攝影配件＆掌機神器：Moment 5 折起／SANDMARC 年度唯一 8 折／CRKD Nitro Deck $79.99",
+          "price": "Moment 鏡頭・濾鏡・包款最高 5 折；SANDMARC 碼 BF2026 全站 8 折（iPhone 18 Pro 皮殼 $60／鈦錶帶）；ShiftCam 碼 JACK20 享 8 折；CRKD Nitro Deck $79.99；Boundary Supply 7 折",
+          "store": "各品牌美國官網 / Amazon US",
+          "highlight": "SANDMARC 一年僅此一次官方特賣！手機鏡頭、皮革殼與掌機手把座全部輕巧好塞行李。",
+          "tags": [
+            "手機攝影",
+            "掌機配件"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "🔥 法國名鍋＆奧地利頂級酒杯：de Buyer 5 折起／Riedel 7 折／Peugeot 6 折起／Loftie",
+          "price": "法國 de Buyer 碳鋼＆五層不鏽鋼鍋 5–7 折；Riedel 水晶紅酒杯碼 REDUS26 享 7 折（至 12/3）；Peugeot 胡椒磨坊碼 BLACKFRIDAY20 享 8 折（指定 6 折）；Loftie 鬧鐘 8 折",
+          "store": "各品牌美國官網",
+          "highlight": "台灣專櫃賣天價的法國畢耶鍋、百年胡椒磨坊與酒杯勞斯萊斯 Riedel 罕見下殺（鍋具＆易碎酒杯務必妥善防撞放托運）。",
+          "tags": [
+            "法系廚具",
+            "品酒居家"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "小眾美製腕錶＆歐澳手工皮靴：Vaer 75 折／R.M. Williams 65 折起／Solovair 送保養組",
+          "price": "Vaer 美國組裝錶精選最高 75 折；澳洲 R.M. Williams 切爾西靴 65–8 折；英國 Solovair 滿 $229 送皮革保養組；西班牙 Meermin 北美檔案特賣；Belstaff 線上膠囊特惠",
+          "store": "各品牌美國官網",
+          "highlight": "內行腕錶與紳裝靴迷必挖寶的高質感小眾神牌，台灣少見且價差超大！",
+          "tags": [
+            "小眾腕錶",
+            "手工皮靴"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "航空鋁 EDC 錢包＆美製烘焙神盤：Dango 8 折／Nordic Ware 55 折起／Fissler",
+          "price": "Dango 戰術金屬錢包 8–85 折；美製 Nordic Ware 烤盤＆蛋糕模 55–85 折（Amazon／Williams Sonoma）；德國 Fissler 壓力鍋 Nordstrom 特惠",
+          "store": "Dango / Amazon US / Williams Sonoma / Nordstrom",
+          "highlight": "Dango 錢包輕巧零體積，Nordic Ware 烤盤更是烘焙迷高討論度神物（鍋盤重量較重請留心行李限額）。",
+          "tags": [
+            "EDC 配件",
+            "烘焙廚具"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "有聲書＆創作者配樂＋美國快速通關：Everand 送 1 月再 5 折／Soundstripe 6 折／CLEAR Plus",
+          "price": "Everand 碼 COZY50 首月免費＋後 3 月 5 折（至 12/11）；Soundstripe 配樂年費最高 6 折；Bookshop.org 85 折；CLEAR Plus＋TSA PreCheck 合購省 $67（學生 $60）",
+          "store": "Everand / Soundstripe / Bookshop.org / CLEAR",
+          "highlight": "愛聽英文有聲書／剪片找配樂直接線上開通，常飛美國的旅客也能趁這波搞定快速通關！",
+          "tags": [
+            "閱讀配樂",
+            "商旅服務"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-0000",
       "date": "11/28",
