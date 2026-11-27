@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/27 10:30",
-  "updated_at_utc": "2026-11-27T02:30:18Z",
+  "updated_at_taipei": "2026/11/27 11:32",
+  "updated_at_utc": "2026-11-27T03:32:08Z",
   "digests": [
+    {
+      "id": "2026-11-27-1100",
+      "date": "11/27",
+      "time_taipei": "11/27 11:00",
+      "created_at_utc": "2026-11-27T03:32:08Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 Audeze Maxwell 平面振膜電競耳機直降 $100（＆ 水月雨／Lofree 矮軸鍵盤）",
+          "price": "Audeze Maxwell (1代) $199（67 折 / 省 $100 / 原價 $299）；Moondrop Chu II $19／Space Travel 2 $25.49／Aria 2 $84.99；Lofree 全站鍵盤 8 折（Flow Lite $79 起）",
+          "store": "Audeze 美國官網 / Amazon US / Lofree",
+          "highlight": "發燒圈封神的平面振膜無線電競耳機罕見破 $200！搭配水月雨耳機與 Lofree 矮軸鍵盤皆輕巧好帶（含鋰電池須手提登機）。",
+          "tags": [
+            "耳機影音",
+            "機械鍵盤"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "Mac 擴充底座＆DIY／穿戴：OWC 5 折起／Cricut／Amazfit／BOOX",
+          "price": "OWC Thunderbolt Go Dock $148–$199.99（5 折起 / 原價 $299.99）／Express 1M2 外接盒 $99.99；Cricut Joy Xtra $129（省 $50）；Amazfit Balance 2 / T-Rex 3 均 $219.99；BOOX Note Max 省 $50",
+          "store": "OWC / Amazon US / Walmart / BOOX",
+          "highlight": "Mac 玩家必收的 OWC 雷電底座與 SSD 外接盒下殺半價起，Amazfit 與電子紙皆好帶（含鋰電池須手提登機；Cricut 體積較大）。",
+          "tags": [
+            "Mac 配件",
+            "智慧穿戴"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "服飾美妝＆EDC 折刀：Athleta 6 折／OUAI 75 折／COSRX 54 折／Benchmade 8 折",
+          "price": "Athleta 全站 6 折（指定日碼 PLUS10）；Lacoste 最高 5 折；OUAI 全站 75 折；Clarins 滿 $150 享 75 折；COSRX 蝸牛精華 54 折；Benchmade Bugout 約 $160（8 折，加車見折）",
+          "store": "各品牌官網 / Amazon US / Blade HQ",
+          "highlight": "人氣運動服、沙龍髮香 OUAI、韓系保養與美國經典 EDC 折刀台灣價差大（⚠️ >100ml 液體與折刀嚴禁隨身，務必放托運行李）。",
+          "tags": [
+            "美妝保養",
+            "EDC 戶外"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "TW",
+          "title": "🔥 台灣好市多黑五 Day 5（11/27 今日）現場實際特價全揭曉！",
+          "price": "MSI 17.3\" RTX 5060 筆電 $41,999（省 $13,900）／ASUS 16\" $18,999／NB 996 $1,999／SIDIZ 辦公椅 $3,399／橘子工坊洗衣膠囊 $409／哈根達斯 10 入 $629／雞里肌肉 $169/kg（限今日）",
+          "store": "全台好市多賣場＆線上購物",
+          "highlight": "昨天僅預告折抵額，今早實際售價全出爐！NB 996 不到兩千、RTX 5060 筆電四萬二有找超吸睛（今日 16:00 再迎週六 Day 6 預告）。",
+          "tags": [
+            "好市多",
+            "今日實價"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "Mac 系統監控＆知識管理大促：iStat Menus 5 折／DEVONthink 75 折／Monarch 5 折",
+          "price": "iStat Menus 全面 5 折（免碼）；DEVONthink 全線 75 折（免碼，至 12/1）；Monarch Money 碼 BF2026 首年 5 折（預告：CrossOver 11/30 網一限時 30H 大促）",
+          "store": "Bjango / DEVONtechnologies / Monarch / CodeWeavers",
+          "highlight": "Mac 狀態列監控王者 iStat Menus 與筆記神軟 DEVONthink 年度罕見直降！（⏰ 1.5 小時後 13:00 台北＝美東黑五午夜，Apple＆LEGO 準點開搶）。",
+          "tags": [
+            "Mac 軟體",
+            "限時訂閱"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-27-1000",
       "date": "11/27",
