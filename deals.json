@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 12:31",
-  "updated_at_utc": "2026-11-28T04:31:04Z",
+  "updated_at_taipei": "2026/11/28 13:30",
+  "updated_at_utc": "2026-11-28T05:30:28Z",
   "digests": [
+    {
+      "id": "2026-11-28-1300",
+      "date": "11/28",
+      "time_taipei": "11/28 13:00",
+      "created_at_utc": "2026-11-28T05:30:28Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 美國週六 11/28 開搶！Target 寶可夢 30 週年卡牌特輯＋BBTS 模型最高 25 折",
+          "price": "Target 11/28 限定開賣：寶可夢 30 週年鐵盒 $29.99、補充包盒 $31.99、對戰牌組 $24.99、夢幻＆超夢模型禮盒 $39.99；BigBadToyStore 公仔／模型最高 25 折（變形金剛／星戰／Marvel／DC）",
+          "store": "Target / BigBadToyStore",
+          "highlight": "美東剛跨入週六，寶可夢 30 週年搶手限定盒組原價上架（台灣溢價高！），卡牌盒與公仔輕巧超好帶回。",
+          "tags": [
+            "寶可夢 30 週年",
+            "美系公仔"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "精品香氛蠟燭＆小眾香水黑五！Snif 全站 7 折＋Nest 75 折＋Voluspa 8 折",
+          "price": "Snif 潮流香水全站免碼 7 折（至 12/1）；Nest New York 碼 CYBER25 全站 75 折（滿 $200 送 Bamboo 蠟燭）；Voluspa 全站 8 折＋滿 $150 贈禮（Nordstrom 精選 75 折）",
+          "store": "Snif / Nest New York / Voluspa / Nordstrom",
+          "highlight": "歐美送禮人氣香氛三強齊降，價差比台灣專櫃甜太多（玻璃蠟燭與香水請務必防撞放托運行李）。",
+          "tags": [
+            "香氛蠟燭",
+            "小眾香水"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "硬核手工固特異靴＆紳士鞋黑五！White's 8 折＋Carmina／Tricker's",
+          "price": "White's Boots（Baker's 授權）全線＆客製靴罕見 8 折；Nicks Boots 全站 9 折；Carmina Outlet 男款自動再 85 折／女款再 9 折；Tricker's 原廠 Factory Shop 過季再 8 折；Beckett Simonon 手工皮鞋 2 雙 $359",
+          "store": "Baker's Boots / Nicks / Carmina / Tricker's / Beckett Simonon",
+          "highlight": "靴控年度重頭戲！美國手工神靴 White's／Nicks 與西班牙頂級皮鞋 Carmina 難得讓利（皮靴較重，留意行李限重）。",
+          "tags": [
+            "手工皮靴",
+            "紳士皮鞋"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "創客神機黑五！Prusa 耗材最高 7 折免運＋xTool 雷雕機大促",
+          "price": "Prusa 3D 列印全球免運專案＋Prusament 耗材＆配件最高 7 折（至 11/30）；xTool 雷射雕刻／切割機（P3／M2／F 系列）階梯狂省＋耗材閃購最高 6 折",
+          "store": "Prusa3D / xTool",
+          "highlight": "DIY 創客年度補貨期，Prusa 原廠免運配 7 折耗材超補（大型列印與雷雕機體積較大／僅適合美國自用或選直寄）。",
+          "tags": [
+            "3D 列印",
+            "雷射雕刻"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "隱私信箱＆密碼管家＋網域神價！Tuta 買 1 年送 1 年＋RoboForm 36 折",
+          "price": "Tuta 德國加密信箱網頁新購年繳「買 1 年送 1 年」（等於 5 折）；RoboForm Premium 最高 36 折（首年 ~$10.68）；Spaceship 碼 COM67 註冊 .com 網域享 33 折（KeePassium 確認不辦黑五）",
+          "store": "Tuta / RoboForm / Spaceship",
+          "highlight": "德國高隱私信箱 Tuta 直接買一送一超有誠意，Spaceship .com 首年 33 折適合搶個人專案網域。",
+          "tags": [
+            "加密信箱",
+            "密碼＆網域"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-1200",
       "date": "11/28",
