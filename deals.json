@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/29 00:30",
-  "updated_at_utc": "2026-11-28T16:30:19Z",
+  "updated_at_taipei": "2026/11/29 01:30",
+  "updated_at_utc": "2026-11-28T17:30:19Z",
   "digests": [
+    {
+      "id": "2026-11-29-0100",
+      "date": "11/29",
+      "time_taipei": "11/29 01:00",
+      "created_at_utc": "2026-11-28T17:30:19Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 送長輩＆健康黑科技！KardiaMobile 口袋心電圖 $65＋Muse 腦波頭帶 75 折",
+          "price": "KardiaMobile FDA 認證隨身心電圖單導聯 $65（原價 $79，Best Buy 同步）、6 導聯 6L $96（原價 $129）；Muse 腦波頭帶碼 BFCM25 享 75 折（Muse 2 $187.49、Muse S Athena $356.24，至 12/2）；Apollo Neuro 套組碼 WAREABLE1 $349（省 $99）",
+          "store": "Kardia / Best Buy / Muse / Apollo Neuro",
+          "highlight": "送台灣長輩超實用的隨身心電圖跟信用卡一樣小、零行李負擔！（Muse／Apollo 含鋰電須手提登機）。",
+          "tags": [
+            "口袋心電圖",
+            "腦波助眠"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "桌上迷你 Hi-Fi 擴大機＆影音線材神價！Fosi Audio 5 折起＋Monoprice 75 折",
+          "price": "Fosi Audio Amazon US 最高 5 折（至 11/30）：TB10A 擴大機 $35（原價 $69.99）、GR40 真空管 DAC/耳擴 $71.99（6 折 / 原價 $119.99）、Merak CD 機 $118.99、S3 串流前級 $220.99（官網碼 FDBF15）；Monoprice 碼 BF25 滿 $100 享 75 折（上限省 $250）",
+          "store": "Amazon US / Fosi Audio / Monoprice",
+          "highlight": "發燒入門小鋼炮 Fosi 真空管耳擴下殺 6 折！迷你機身與線材好帶（Monolith 重低音體積較大）。",
+          "tags": [
+            "迷你 Hi-Fi",
+            "真空管耳擴"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "人氣平替瑜珈服＆質感花卉文具黑五！CRZ YOGA 8 折＋Papier／Rifle Paper Co. 7 折",
+          "price": "CRZ YOGA 全站 8 折（另有節慶碼 2026BFCM15 精選 5 折起）；Papier 客製質感手帳全站自動最高 7 折；Rifle Paper Co. 花卉文具／手機殼最高 7 折",
+          "store": "CRZ YOGA / Papier / Rifle Paper Co.",
+          "highlight": "美國口碑最強 Lululemon 平替 CRZ YOGA ＆文青最愛手帳文具，全部極輕零體積、超好塞行李！",
+          "tags": [
+            "Lulu 平替",
+            "質感手帳"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "🔥 全系統擋廣告＆隱私 DNS 終身買斷！AdGuard 終身 55 折＋DNS 35 折（至 11/30）",
+          "price": "AdGuard 官方黑五免碼自動折（至 11/30）：Ad Blocker 終身買斷 55 折／年繳 5 折、AdGuard DNS 個人版 35 折、AdGuard VPN 最高 15–17 折（實測確認 NextDNS 堅持不辦黑五）",
+          "store": "AdGuard 官方網站",
+          "highlight": "手機／電腦全系統擋廣告神軟，一年最甜終身買斷價只到 11/30，多裝置一次買斷終身受用。",
+          "tags": [
+            "終身擋廣告",
+            "隱私 DNS"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-29-0000",
       "date": "11/29",
