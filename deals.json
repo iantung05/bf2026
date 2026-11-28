@@ -1,8 +1,53 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 17:30",
-  "updated_at_utc": "2026-11-28T09:30:18Z",
+  "updated_at_taipei": "2026/11/28 18:30",
+  "updated_at_utc": "2026-11-28T10:30:14Z",
   "digests": [
+    {
+      "id": "2026-11-28-1800",
+      "date": "11/28",
+      "time_taipei": "11/28 18:00",
+      "created_at_utc": "2026-11-28T10:30:14Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 雙系統防丟卡＆賞鳥望遠鏡／智慧烤肉探針！Pebblebee 7 折＋Vortex 省 $100＋Inkbird 3 折起",
+          "price": "Pebblebee 充電防丟器（Apple Find My & Android 雙棲）碼 BFCM26 套組 7–8 折；Vortex 雙筒望遠鏡 Diamondback HD $149（省 $100）／Crossfire HD $144／Viper HD 單筒 $399.99；Celestron 天文望遠鏡最高省 $500（8SE $1,499）；Inkbird 官網最高 3 折（無線探針 INT-12-BW $119 / 原價 $299）",
+          "store": "Pebblebee / MidwayUSA / Celestron / Inkbird",
+          "highlight": "冷門卻超賺的高價差清單！Pebblebee 防丟卡、Vortex 終身保固望遠鏡與 Inkbird 探針小巧好帶（含鋰電須手提登機；大型天文鏡僅適合美國自用）。",
+          "tags": [
+            "雙系統防丟",
+            "賞鳥望遠鏡"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "美軍指定飛行員墨鏡＆紐約輕珠寶黑五！Randolph 最高 5 折＋Costa／Ana Luisa／Blue Nile",
+          "price": "Randolph Engineering 美國手工軍規墨鏡正價 8 折／清倉最高 5 折（至 11/30）；Costa Del Mar 偏光墨鏡最高 5 折＋結帳再 9 折；Ana Luisa 輕珠寶全站 65 折（滿 $125 送圍巾，出清 3 折）；Blue Nile 培育鑽飾最高 6 折",
+          "store": "Randolph USA / Costa Del Mar / Ana Luisa / Blue Nile",
+          "highlight": "台灣極難買到的正宗美製軍規墨鏡 Randolph 與超人氣紐約輕珠寶，體積極輕零負擔塞行李帶回！",
+          "tags": [
+            "美製飛行員鏡",
+            "紐約輕珠寶"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "Digital",
+          "title": "買斷 SaaS 殿堂 AppSumo 全站再 9 折（Plus 81 折）＋Tella 錄影工具 7 折",
+          "price": "AppSumo 黑五全站終身軟體自動再 9 折（Plus 會員享 81 折，至美中 12/1 中午）；Tella 螢幕錄影＆產品簡報工具年繳自動 7 折（至 11/30；Sunsama 確認不打折）",
+          "store": "AppSumo / Tella",
+          "highlight": "創業者與效率控挖寶買斷 SaaS 倒數！⏰ 另提醒：美國 Best Buy 黑五核心檔期將於美東今晚（11/28）結束，11/30 接棒 Cyber Monday。",
+          "tags": [
+            "終身買斷 SaaS",
+            "Best Buy 倒數"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-1700",
       "date": "11/28",
