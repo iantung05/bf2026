@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 11:30",
-  "updated_at_utc": "2026-11-28T03:30:34Z",
+  "updated_at_taipei": "2026/11/28 12:31",
+  "updated_at_utc": "2026-11-28T04:31:04Z",
   "digests": [
+    {
+      "id": "2026-11-28-1200",
+      "date": "11/28",
+      "time_taipei": "11/28 12:00",
+      "created_at_utc": "2026-11-28T04:31:04Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "美型行李箱＆電影變形鏡頭黑五！Carl Friedrik 7 折＋July 6 折＋Sirui 2 折",
+          "price": "Carl Friedrik 全站 7 折（至 11/30）；July 行李箱全站 6–8 折（年度最大檔，至 11/30）；Travelpro 精選最高 5 折＋正價再 85 折；Eagle Creek 壓縮收納袋 75 折（至 12/1）；Sirui 思銳鏡頭官網最高 2 折（至 11/30）",
+          "store": "Carl Friedrik / July / Travelpro / Eagle Creek / Sirui",
+          "highlight": "歐美顏值天花板行李箱雙雙下殺，朋友可直接裝滿黑五戰利品托運回台！Eagle Creek 收納袋與 Sirui 鏡頭輕巧好帶。",
+          "tags": [
+            "美型行李箱",
+            "攝影鏡頭"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "🔥 送禮超紅智慧家庭行事曆＆網紅辣醬！Skylight 最高省 $220＋Heatonist",
+          "price": "Skylight Calendar 2（15 吋）$249–$269（省 $50–$80）、Max（27 吋）省 $100 至 $469–$499（套組最高省 $220）；Heatonist《Hot Ones》官方辣醬全站 75–8 折（含 Los Calientes／The Last Dab）",
+          "store": "Skylight / Amazon US / Best Buy / Heatonist",
+          "highlight": "今年美國家庭爆紅禮物 Skylight 智慧壁掛月曆破盤＋《Hot Ones》話題辣醬禮盒超適合作伴手禮（辣醬液體須放托運防撞；Skylight 27 吋體積較大）。",
+          "tags": [
+            "送禮神器",
+            "網紅辣醬"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "鋼筆＆設計文具控必逛！Atlas Stationers 8 折＋Baronfig 75 折",
+          "price": "Atlas Stationers 芝加哥百年鋼筆店黑五標籤品購物車自動 8 折；Baronfig 質感筆記本＆筆具滿 $50 碼 BF2026 享 75 折",
+          "store": "Atlas Stationers / Baronfig",
+          "highlight": "精品鋼筆與設計筆記本極輕零負擔、超適合請朋友塞行李帶回（墨水瓶請密封放托運行李）。",
+          "tags": [
+            "精品鋼筆",
+            "質感文具"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "歐美口碑瑜珈＆時尚健身配件！Beyond Yoga 全站免碼 7 折＋Bala 72 折",
+          "price": "Beyond Yoga 全站無門檻自動 7 折（出清區最高 25 折）；Girlfriend Collective 環保機能服 25–7 折；Bala Bangles 負重手環／腳環 72–75 折",
+          "store": "Beyond Yoga / Girlfriend Collective / Amazon US",
+          "highlight": "LA 女生最愛的 Spacedye 軟糯瑜珈服免碼直接 7 折，極輕好壓縮帶回（Bala 負重手環略重，請留意行李限重）。",
+          "tags": [
+            "瑜珈神衣",
+            "健身配件"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "終身買斷語言＆設計課！Rocket Languages 4 折＋Domestika 單堂 $10 起",
+          "price": "Rocket Languages 碼 BLACKFRIDAY 終身課程 4 折（Level 1–3 套組 $179.94 / 原價 $449.85、Level 1 $59.98）；Domestika 買斷設計／插畫課約 $10–$15；Perlego 線上教科書圖書館首期 8 折",
+          "store": "Rocket Languages / Domestika / Perlego",
+          "highlight": "免綁長期月租！Rocket Languages 4 折一次買斷三階語言課、Domestika $10 學設計超無痛。",
+          "tags": [
+            "終身課程",
+            "語言學習"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-1100",
       "date": "11/28",
