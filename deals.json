@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 18:30",
-  "updated_at_utc": "2026-11-28T10:30:14Z",
+  "updated_at_taipei": "2026/11/28 19:30",
+  "updated_at_utc": "2026-11-28T11:30:21Z",
   "digests": [
+    {
+      "id": "2026-11-28-1900",
+      "date": "11/28",
+      "time_taipei": "11/28 19:00",
+      "created_at_utc": "2026-11-28T11:30:21Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 冷錢包三強＆AI 迷你主機黑五！Trezor 57 折起＋Ledger 送 $80 BTC＋GEEKOM",
+          "price": "Trezor 官網最高 57 折（Safe 7 $179 / 原價 $249、Safe 3 $39 起）；Ledger 官網 Stax 送 $80 BTC／Flex 送 $70 BTC／Nano Gen 5 送 $50 BTC／Nano X 8 折 ~$79（至 11/30）；Tangem 72H 閃購最高 65 折（至 11/29）；GEEKOM 迷你主機官網最高 5 折（A5 碼 BFA5130 再省 $130+）",
+          "store": "Trezor / Ledger / Tangem / GEEKOM 官方網站",
+          "highlight": "冷錢包極輕超好帶（務必只向原廠官網買以防竄改！含電池的 Ledger 須手提登機）；GEEKOM 迷你桌機隨身塞包即可。",
+          "tags": [
+            "硬體冷錢包",
+            "迷你桌機"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "美國皮膚科醫美＆美容儀＋韓國壓力電子鍋！Medik8 7 折＋EltaMD 8 折＋Cuckoo",
+          "price": "Medik8 官網／Dermstore 碼 JOY 7 折（至 11/30）；EltaMD 皮膚科第一防曬官網自動 8 折＋贈小樣（Amazon 75–8 折）；ZIIP HALO 微電流儀碼 BEAUTYCALENDAR／ZIIPSOFIA 8 折；Cuckoo 福庫電子鍋 Amazon 53–8 折（8 杯 IH $191.98、雙壓 $232.55、電熱水壺 $47.90）",
+          "store": "Medik8 / EltaMD / ZIIP / Amazon US",
+          "highlight": "EltaMD UV Clear 防曬與 Medik8 台灣代購價差極大！（美容儀含鋰電須手提；逾 100ml 液體放托運；Cuckoo 電子鍋體積較大）。",
+          "tags": [
+            "皮膚科醫美",
+            "韓國電子鍋"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "創客電子零件殿堂 Adafruit 全站 85 折＋歐洲專業登山裝備 Salewa／SCARPA",
+          "price": "Adafruit 碼 OhFudge15 全站 85 折（至美東 11/30 23:59，不含樹莓派）；Salewa 登山鞋服最高 75 折（至 11/30）；SCARPA 攀岩＆登山鞋 6–75 折",
+          "store": "Adafruit / Salewa / Backcountry",
+          "highlight": "硬體 DIY 玩家必逛 Adafruit 年度全站折扣，微小感測器與開發板零體積好帶；歐洲頂尖攀岩登山鞋同步大降。",
+          "tags": [
+            "創客零件",
+            "專業登山"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "🔥 哩程票＆便宜機票雷達＋出國 eSIM 黑五！Seats.aero 8 折＋Thrifty 7 折＋Saily 8 折",
+          "price": "Seats.aero Pro 碼 FRIDAY2620 首年 8 折 $87.99（原價 $109.99，至 11/30）；Thrifty Traveler 碼 TT30 首年 7 折（$90.99 起，至 12/2）；Going.com 最高 6 折；Saily eSIM 碼 Sailybf26 全方案 8 折（180 天內皆可啟用）；Holafly 買 2 送 1",
+          "store": "Seats.aero / Thrifty Traveler / Going / Saily / Holafly",
+          "highlight": "常飛美日歐的哩程控必搶！Seats.aero 掃商務艙哩程神準，Saily eSIM 趁 8 折先囤半年內出國直接開。",
+          "tags": [
+            "哩程票神器",
+            "出國 eSIM"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-1800",
       "date": "11/28",
