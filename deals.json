@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 21:30",
-  "updated_at_utc": "2026-11-28T13:30:31Z",
+  "updated_at_taipei": "2026/11/28 22:30",
+  "updated_at_utc": "2026-11-28T14:30:30Z",
   "digests": [
+    {
+      "id": "2026-11-28-2200",
+      "date": "11/28",
+      "time_taipei": "11/28 22:00",
+      "created_at_utc": "2026-11-28T14:30:30Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 Slickdeals 240Hz 螢幕史低＋智慧居家繼電器／擴充座！Acer 27\" 2K 240Hz $159.99",
+          "price": "Acer Nitro VG272U W2（27\" 1440p 240Hz IPS）$159.99、ASUS TUF VG249QM5A（24\" 240Hz）$99.99（Newegg）；Sabrent 外接盒／擴充座最高 67 折（省至 $90）；Shelly 智慧居家繼電器最高 5 折；Meross Matter 插座 6–8 折／智慧車庫 $39.99",
+          "store": "Newegg / Sabrent / Shelly / Amazon US",
+          "highlight": "今年 PC 硬體最真香的就是高刷電競螢幕！Sabrent 外接盒與 Shelly／Meross 模組極輕好帶（螢幕體積較大／適合美國自用）。",
+          "tags": [
+            "240Hz 螢幕史低",
+            "智慧居家"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "頂級 100% 桑蠶絲枕套＆眼罩黑五狂殺！Slip 最高 35 折＋Blissy 41 折起",
+          "price": "Slip 純真絲枕套＆眼罩禮盒官網／Nordstrom 最高 35 折；Blissy 桑蠶絲枕套官網碼 BFCMBLISSY 最高 41 折（Amazon 低至 $39–$44 / 原價 $100+）；Drinkmate 萬用氣泡水機套組 7–75 折（至 12/1）",
+          "store": "Slip / Blissy / Nordstrom / Amazon US / Drinkmate",
+          "highlight": "明星最愛真絲枕套與睡眠眼罩極輕零體積，自用送禮超體面！（⚠️ Drinkmate CO2 鋼瓶嚴禁登機託運，氣泡水機僅適合美國自用）。",
+          "tags": [
+            "真絲枕套",
+            "送禮首選"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "美國線上配鏡＆磁吸變框眼鏡黑五！Zenni 最高 7 折＋EyeBuyDirect 鏡片 4 折",
+          "price": "Zenni Optical 碼 BFS 滿 $99 8 折／$150 75 折／$215 7 折（至 11/29）；EyeBuyDirect 碼 BF2026 鏡片 4 折＋鏡框 65 折；Pair Eyewear 磁吸變框全站最高 65 折（Pair+ 再 85 折）；Knockaround 偏光墨鏡 5–6 折",
+          "store": "Zenni / EyeBuyDirect / Pair Eyewear / Knockaround",
+          "highlight": "有驗光處方就能超低價配多副抗藍光／有度數墨鏡，輕巧好帶完全不佔行李！",
+          "tags": [
+            "線上配鏡",
+            "偏光墨鏡"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "英文寫作＆潤稿買斷神工具！ProWritingAid 終身版 5 折＋Hemingway 8 折",
+          "price": "ProWritingAid 年繳＆「終身買斷版」免碼一律 5 折（至 12/4）；Hemingway Editor Plus 首年自動 8 折（至 12/4；Overleaf 確認無公開黑五碼）",
+          "store": "ProWritingAid / Hemingway",
+          "highlight": "寫英文論文、長文與報告的口碑神工具，終身版對折免月租。（⏰ 提醒：台灣好市多 Day 7 明早 07:30 黑鑽開搶 Mac mini 省 $3,000＋1 日限定 A4 和牛！）",
+          "tags": [
+            "英文寫作",
+            "終身買斷"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-2100",
       "date": "11/28",
