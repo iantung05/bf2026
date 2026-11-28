@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 16:31",
-  "updated_at_utc": "2026-11-28T08:31:21Z",
+  "updated_at_taipei": "2026/11/28 17:30",
+  "updated_at_utc": "2026-11-28T09:30:18Z",
   "digests": [
+    {
+      "id": "2026-11-28-1700",
+      "date": "11/28",
+      "time_taipei": "11/28 17:00",
+      "created_at_utc": "2026-11-28T09:30:18Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 4K 行車記錄器＆口袋 EDC 強光燈狂殺！Vantrue 47 折起＋Wuben 5 折",
+          "price": "Vantrue 最高 47 折（至 11/30）：N5S 四錄 $293.99（原價 $419.99+）、N4 Pro S 三錄 $279.99（原價 $469.99）、N4S $199.99、E1 Pro S 迷你 4K $129.99；Thinkware U3000 $459.99／ARC 900 $369.99；BlackVue 最高 73 折；Wuben X1 Pro $111.99／X4 $30.99 起／G5 $12–$18；RovyVon 最高 65 折",
+          "store": "Vantrue / Thinkware / BlackVue / Wuben / RovyVon / Amazon US",
+          "highlight": "夜視神機行車記錄器＆鑰匙圈級迷你手電筒體積小、價差超高！（充電手電筒含鋰電須手提登機；Vantrue 多為超級電容無鋰電顧慮）。",
+          "tags": [
+            "4K 行車記錄器",
+            "EDC 迷你燈"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "寬楦赤足鞋＆全防水休閒鞋年度最低！Vivobarefoot／Xero／Vessi 5 折起",
+          "price": "Vivobarefoot 最高 5 折（至 11/30）；Xero Shoes 全站 75 折＋精選 Doorbusters 5 折（至 12/1）；Lems 年度最大檔 75 折（含 Trail Thrasher，至 12/1）；Vessi 防水編織鞋最高 5–6 折",
+          "store": "Vivobarefoot / Xero Shoes / Lems / Vessi",
+          "highlight": "台灣不好買的寬楦赤足鞋＆雨天必備 Vessi 全防水鞋年度最低，極輕軟超好塞行李箱帶回！",
+          "tags": [
+            "赤足寬楦鞋",
+            "全防水鞋"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "美國職人精品茶＆單一產地香料禮盒！Smith Teamaker 65 折＋Rishi／Burlap & Barrel",
+          "price": "Smith Teamaker 波特蘭名茶禮盒＆限量茶最高 65 折；Rishi Tea 滿 $125 享 8 折；Burlap & Barrel 頂級單一產地香料禮盒 85 折",
+          "store": "Smith Teamaker / Rishi Tea / Burlap & Barrel",
+          "highlight": "質感系伴手禮首選！波特蘭名茶 Smith Teamaker 輕巧體面（香料玻璃瓶放托運請防撞）。",
+          "tags": [
+            "波特蘭名茶",
+            "精品香料"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "🔥 台灣神軟 Eagle 7 折＋Carrd 6 折＋12 合 1 Mac 獨立 App 買斷包 $59.99",
+          "price": "Eagle（eagle.cool）設計素材管理買斷版新授權／加購名額自動 7 折（至 12/1）；Carrd 單頁建站碼 BF2026 Pro 新購／續約／升級一律 6 折；Once Upon Your Mac 12 款 Mac App 買斷包 $59.99（含 TextSniper、DaisyDisk、BetterZip 等）",
+          "store": "Eagle / Carrd / MacItBetter",
+          "highlight": "設計師＆Mac 玩家必搶！台灣團隊神作 Eagle 一年難得 7 折、Carrd 續約也直接 6 折，12 款買斷大禮包平均每款不到 $5！",
+          "tags": [
+            "台灣開發神軟",
+            "Mac 買斷包"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-1600",
       "date": "11/28",
