@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 15:30",
-  "updated_at_utc": "2026-11-28T07:30:43Z",
+  "updated_at_taipei": "2026/11/28 16:31",
+  "updated_at_utc": "2026-11-28T08:31:21Z",
   "digests": [
+    {
+      "id": "2026-11-28-1600",
+      "date": "11/28",
+      "time_taipei": "11/28 16:00",
+      "created_at_utc": "2026-11-28T08:31:21Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "TW",
+          "title": "🔥 台灣好市多黑五 Day 7（11/29 週日）預告剛出爐！Mac mini 省 $3,000＋1 日限定日本 A4 和牛",
+          "price": "Apple Mac mini（M6 系列）現省 NT$3,000；日本 A4 和牛肋眼每公斤省 $600（僅限 11/29 當天）；24K 金項鍊省 $11,000；ARPHA 12 合 1 電子鎖省 $6,000；Philips 75\" QLED 省 $5,600／65\" 省 $3,900；飛利浦抗敏清淨機省 $2,500；伊萊克斯 10L 除濕機省 $2,200",
+          "store": "台灣 Costco 實體賣場（11/29 黑鑽 07:30／一般 08:30）",
+          "highlight": "週日重磅端出蘋果 M6 桌機與 1 日限定日本和牛！每卡限購 1 件，官網黑色購物週同步至 11/29。",
+          "tags": [
+            "好市多 Day 7",
+            "Mac mini＆和牛"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "TW",
+          "title": "台灣好市多 Day 7（11/29）居家廚具＆母嬰樂高完整名單",
+          "price": "STAUB 24cm 雪花琺瑯鑄鐵鍋省 NT$1,200；BRITA STYLE ECO 3.6L 濾水壺（含 14 入濾芯）省 $1,050；WEDGWOOD 300 織純棉四件組雙人省 $1,000／加大省 $1,100；LEGO 賓士卡車起重機省 $750（哈利波特／Minecraft 省 $400）；INTEX 彈跳池省 $700；幫寶適安睡褲省 $320",
+          "store": "台灣 Costco 實體賣場（11/29 開賣）",
+          "highlight": "最實用的民生＆家庭補貨！BRITA 含 14 顆濾芯現省破千、STAUB 雕花鑄鐵鍋與幫寶適安睡褲都是爸媽必搶清單。",
+          "tags": [
+            "好市多 Day 7",
+            "居家＆母嬰"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "戶外滾輪登機包／露營神燈＆德國登山靴黑五！Topo 省 $100＋BioLite／Lowa 75 折",
+          "price": "Topo Designs Global Travel Bag Roller $199（67 折 / 原價 $299）；BioLite 全線頭燈／AlpenGlow 營燈 75 折（至 12/7）；Lowa 登山神靴官網自動 75 折；Oboz 登山靴 CampSaver 碼 BF30 出清再 7 折；Orvis 飛釣＆戶外服最高 5–6 折；Deuter 背包 7–8 折",
+          "store": "Topo Designs / BioLite / Lowa / CampSaver / Orvis",
+          "highlight": "Topo 滾輪包可直接裝美國戰利品回台！德國神靴 Lowa 與 BioLite 營燈價差超高（充電頭燈／營燈含鋰電須手提登機）。",
+          "tags": [
+            "登山神靴",
+            "露營裝備"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "美國沙龍美髮黑五！Amika 全站免門檻 7 折＋Oribe 75–8 折",
+          "price": "Amika 碼 SALE30 全站無門檻 7 折＋滿額贈梳鏡／洗護禮組；Oribe 頂級香氛護髮授權通路 75–8 折",
+          "store": "Amika / 授權美妝通路",
+          "highlight": "台灣代購溢價高的沙龍神級護髮趁這波囤貨最划算（逾 100ml 液體放托運；壓縮氣瓶乾洗髮勿帶上機）。",
+          "tags": [
+            "沙龍美髮",
+            "高價差"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "🔥 開發者＆自架站超殺 VPS！RackNerd 年費 $15.98＋SiteGround 12 折＋Cloudways",
+          "price": "RackNerd KVM SSD VPS 年費 $15.98 起（獨立 IPv4，支援一鍵部署 n8n／Ollama／Coolify）；SiteGround 首年最高 12 折（StartUp $1.99/月、GrowBig $3.99/月，至 12/2）；Cloudways 碼 BFCM802 前 2 月 2 折（至 12/4）；DreamHost $1.79–$1.99/月起",
+          "store": "RackNerd / SiteGround / Cloudways / DreamHost",
+          "highlight": "想自架 LINE Bot、n8n 自動化或個人網站的年度神價！RackNerd 一整年不用 NT$520 就有一台專屬 Linux 主機。",
+          "tags": [
+            "超值 VPS",
+            "網站託管"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-1500",
       "date": "11/28",
