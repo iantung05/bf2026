@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 13:30",
-  "updated_at_utc": "2026-11-28T05:30:28Z",
+  "updated_at_taipei": "2026/11/28 14:30",
+  "updated_at_utc": "2026-11-28T06:30:13Z",
   "digests": [
+    {
+      "id": "2026-11-28-1400",
+      "date": "11/28",
+      "time_taipei": "11/28 14:00",
+      "created_at_utc": "2026-11-28T06:30:13Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 美國人氣童裝＆嬰幼兒服年度最低！Hanna Andersson 全站 5 折＋Kyte Baby 8 折",
+          "price": "Hanna Andersson 有機棉童裝＆親子睡衣全站 5 折；Kyte Baby 竹纖維防踢被＆包屁衣全站 8 折；Janie and Jack 全場 7 折（出清區最高 4–5 折）；Magnetic Me 磁吸包屁衣授權通路低至 4 折起",
+          "store": "Hanna Andersson / Kyte Baby / Janie and Jack / Nordstrom Rack",
+          "highlight": "台灣爸媽超愛託人代購的美國神級童裝齊殺！衣服超輕超好塞行李，趁 5 折掃過年＆隔年尺碼最賺。",
+          "tags": [
+            "美國童裝",
+            "親子睡衣"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "紐約超輕量通勤包＆設計女包黑五！MZ Wallace 最高 4 折＋Cult Gaia 75 折",
+          "price": "MZ Wallace 經典空氣絎縫包最高 4 折（Nordstrom 同步促銷）；Cult Gaia 藝術包＆服飾全站 75 折（至 12/1，百貨精選 6–75 折）；Lo & Sons O.G. 2／Rowledge 筆電旅行包年度大降",
+          "store": "MZ Wallace / Cult Gaia / Lo & Sons / Nordstrom",
+          "highlight": "超輕耐裝的紐約通勤神包 MZ Wallace 與商務女包 Lo & Sons 壓平極好帶回，省下高額代購溢價。",
+          "tags": [
+            "輕量通勤包",
+            "設計女包"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "iPhone MagSafe 磁吸配件黑五！ESR 官網 75 折／Amazon 最高 6 折",
+          "price": "ESR 官網碼 ESR25CB 全站 75 折（至 11/30）；Amazon 精選最高 6 折：Classic Hybrid 磁吸支架殼 $21.66（原價 $29.99）、Armorite Pro 保護貼 $30.59（原價 $35.99）、三合一旅充座同步特價",
+          "store": "ESR 官網 / Amazon US",
+          "highlight": "口碑 CP 值最高的 MagSafe 保護殼與貼膜一次補齊，體積超小零負擔帶回（含行動電源款式須手提登機）。",
+          "tags": [
+            "MagSafe",
+            "手機配件"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "義式半自動咖啡機＆磨豆機黑五！Eureka 最高省 $200＋Profitec 套組省逾 $1,000",
+          "price": "Eureka Mignon 磨豆機（Specialità／Silenzio／Zero）最高折 $200；Profitec Drive＋商用磨豆機套組省逾 $1,000；Rancilio Silvia V6 與 Gaggia Classic 系列同步推出黑五組合價",
+          "store": "Whole Latte Love / Espresso Coffee Shop / iDrinkCoffee",
+          "highlight": "居家義式發燒玩家年度最大省錢檔！磨豆機可防撞託運，半自動主機體積較大／僅適合美國自用。（⏰ 再 1.5 小時台灣好市多 16:00 公布 Day 7 週日預告！）",
+          "tags": [
+            "義式咖啡機",
+            "磨豆機"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-1300",
       "date": "11/28",
