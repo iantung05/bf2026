@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 09:30",
-  "updated_at_utc": "2026-11-28T01:30:28Z",
+  "updated_at_taipei": "2026/11/28 10:30",
+  "updated_at_utc": "2026-11-28T02:30:36Z",
   "digests": [
+    {
+      "id": "2026-11-28-1000",
+      "date": "11/28",
+      "time_taipei": "11/28 10:00",
+      "created_at_utc": "2026-11-28T02:30:36Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "人體工學分離鍵盤 Dygma 最高省 $200（ZSA／Glove80 確認不打折）",
+          "price": "Dygma Defy／Raise 2／Sonsei 最高 9 折、客製配置最高省 $200、限量色直降 $70–$100、配件與桌墊 8 折",
+          "store": "Dygma",
+          "highlight": "工程師入坑無線分離鍵盤必看！已確認 ZSA（Voyager）與 Glove80 堅持全年不打折，黑五就看 Dygma（含鋰電池須手提登機）。",
+          "tags": [
+            "分離鍵盤",
+            "人體工學"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "滑雪裝備＆戶外旅行配件黑五！Burton 折上折今日 11/28 截止",
+          "price": "Burton 當季雪衣／雪鏡／包款 8 折＋過季出清疊碼 SNOWDAY 再 9 折（限至 11/28）；Smith Optics 雪鏡／安全帽／墨鏡 8 折、度數與抗藍光鏡最高 6 折；Thule 車頂架／單車架／推車授權通路最高 8 折",
+          "store": "Burton / Smith Optics / Thule Dealers",
+          "highlight": "冬天準備去日本／歐美滑雪的人快把握 Burton 最後一天！雪鏡與雪衣好壓縮帶回（Thule 車頂架與推車體積較大／適合美國自用）。",
+          "tags": [
+            "滑雪裝備",
+            "今日截止"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "北歐＆義大利設計居家最高 5 折！Iittala／Alessi／Marimekko 齊殺",
+          "price": "Iittala 官網 Teema／Kastehelmi 餐瓷與玻璃最高 5 折（至 11/30）；Alessi 設計廚具逾千款最高 5 折；Marimekko 家居／毛巾 Finnish Design Shop 5–7 折；Ferm Living 燈飾家飾授權通路 75–8 折",
+          "store": "Iittala / Alessi / Finnish Design Shop / Batten Home",
+          "highlight": "台灣專櫃貴鬆鬆的北歐與義式設計家飾直接腰斬！毛巾織品極好帶回（玻璃與陶瓷放托運請加強防撞）。",
+          "tags": [
+            "北歐設計",
+            "義式居家"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "🔥 Mac＆Windows 口碑效率神器！Kaleidoscope 5 折＋Tripsy 終身省 $50",
+          "price": "Kaleidoscope 碼 APPDEALBF26 首年 5 折 $48（原價 $96）；Tripsy 旅遊行程神 App 首年 $19（原價 $39）／終身 $149（原價 $199，至 12/1）；Acorn 8 Mac 買斷修圖 $14.99；Hello Weather 碼 BLACKFRIDAY 年繳 5 折（至 12/2）；Prizmo 5 掃描碼 BF26PROPACK 75 折；DisplayFusion Pro 多螢幕神器最高 67 折",
+          "store": "MacStories 精選 / Binary Fortress",
+          "highlight": "高評價獨立開發者工具大集合！旅人最愛 Tripsy 終身版現省 $50、最美程式碼比對神器 Kaleidoscope 對折，零運費立刻啟用。",
+          "tags": [
+            "Mac 工具",
+            "旅遊 App"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-0900",
       "date": "11/28",
