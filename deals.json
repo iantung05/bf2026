@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 20:30",
-  "updated_at_utc": "2026-11-28T12:30:17Z",
+  "updated_at_taipei": "2026/11/28 21:30",
+  "updated_at_utc": "2026-11-28T13:30:31Z",
   "digests": [
+    {
+      "id": "2026-11-28-2100",
+      "date": "11/28",
+      "time_taipei": "11/28 21:00",
+      "created_at_utc": "2026-11-28T13:30:31Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 Woot! 週六 11/28 閃購神碼 BIGFRIDAY！DJI Mini 5 Pro 暢飛組 $919＋Bose QC Ultra $229",
+          "price": "Woot 疊碼 BIGFRIDAY：DJI Mini 5 Pro＋Fly More 暢飛組 $919；Bose QuietComfort Ultra 耳罩耳機 $229；MSI 螢幕＆Milwaukee 工具同步參與",
+          "store": "Woot!（Amazon 旗下）",
+          "highlight": "美國週六早盤最新閃購！Bose 旗艦降噪耳罩直接破 $230、DJI 最新輕量空拍機暢飛組下殺（皆含鋰電須手提登機，輕巧超好帶）。",
+          "tags": [
+            "週六閃購",
+            "DJI＆Bose 神價"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "口袋 E-Ink 電子書＆空氣偵測器／平價耳機！Xteink 4.3 吋 $54.87＋Airthings",
+          "price": "Xteink X4 Classic 4.3 吋口袋 E-Ink 閱讀器 $54.87（62 折 / 原價 $89.99，Amazon）；Airthings 臥室 CO2/VOC 偵測器 Wave Enhance $119.99、View 系列 8 折、Corentium Home 67 折（至 11/30）；SoundPEATS 碼 SPBFDEAL 結帳再 9 折（至 11/30）",
+          "store": "Amazon US / Airthings / SoundPEATS",
+          "highlight": "手機大小的隨身電子書只要 $55 超療癒！與 CO2 偵測器、耳機一樣超輕好塞行李（含鋰電須手提登機）。",
+          "tags": [
+            "口袋電子書",
+            "空氣偵測"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "馬拉松神級機能襪＆瑞典木火車／醫療級清淨機！Swiftwick／Balega 75 折＋BRIO",
+          "price": "Swiftwick 全站 75 折（多入組最高 7 折）；Balega 碼 BLACKWEEK25／LASTLAP25 享 75 折；Injinji 五趾襪 7–8 折；BRIO 木質軌道火車 Amazon／Nordstrom 7–8 折；AirDoctor 清淨機最高 55 折",
+          "store": "Swiftwick / Balega / Injinji / Amazon US / AirDoctor",
+          "highlight": "跑圈封神的 Swiftwick 與 Balega 襪子零體積、填滿行李縫隙最賺！（BRIO 禮盒可託運；AirDoctor 體積較大／僅適合美國自用）。",
+          "tags": [
+            "神級跑襪",
+            "瑞典木火車"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "工程師 Git＆資料庫管理工具年度最低！GitKraken 4 折＋Navicat 7 折",
+          "price": "GitKraken Pro 視覺化 Git 工具新購＆增購名額 4 折；Navicat 全線（含 Navicat Premium）官方黑五 7 折（DBeaver Pro 確認無公開黑五碼）",
+          "store": "GitKraken / Navicat",
+          "highlight": "視覺化解衝突神器 GitKraken 與跨資料庫管理王牌 Navicat 同步大降，開發者零運費即時授權。",
+          "tags": [
+            "Git 工具",
+            "資料庫管理"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-2000",
       "date": "11/28",
