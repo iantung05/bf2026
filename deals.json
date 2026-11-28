@@ -1,8 +1,53 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 10:30",
-  "updated_at_utc": "2026-11-28T02:30:36Z",
+  "updated_at_taipei": "2026/11/28 11:30",
+  "updated_at_utc": "2026-11-28T03:30:34Z",
   "digests": [
+    {
+      "id": "2026-11-28-1100",
+      "date": "11/28",
+      "time_taipei": "11/28 11:00",
+      "created_at_utc": "2026-11-28T03:30:34Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 日牛＆美式工裝四大選物名店開殺！Blue Owl／Self Edge／Division Road",
+          "price": "Blue Owl Workshop 官網大多數商品 8 折（至 11/30）；Self Edge 碼 BF26 全站＆門市 85 折（至 12/1 09:00 PST）；Division Road 碼 GFRIDAY2026 服飾配件 8 折；Standard & Strange 每滿 $100 送 $20 禮卡",
+          "store": "Blue Owl / Self Edge / Division Road / Standard & Strange",
+          "highlight": "養牛＆阿美咔嘰玩家一年等這波！平常極少打折的日本重磅丹寧、工裝外套與皮帶免代購溢價、壓平極好帶回。",
+          "tags": [
+            "日牛工裝",
+            "罕見大促"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "發燒串流機＆桌上主動喇叭黑五！Bluesound NODE ICON 省 $200＋Audioengine",
+          "price": "Bluesound NODE ICON 旗艦串流機 $1,099（省 $200 / 原價 $1,299）；Audioengine 官網 A2+ Gen 3＋S6 重低音套組 $422（71 折 / 原價 $598），官翻 Open-Box 同步促銷附 3 年保；ELAC Debut 3.0／2.0 書架喇叭降價",
+          "store": "Bluesound / Audioengine / ELAC Dealers",
+          "highlight": "串流音響玩家口碑神機 NODE ICON 直砍 $200，機身精巧好塞行李（桌上喇叭與重低音體積較大）。",
+          "tags": [
+            "發燒串流",
+            "桌面喇叭"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "Digital",
+          "title": "心智圖＆習慣養成生產力 App 黑五！Xmind 買 1 年送 6 個月＋MindNode 7 折",
+          "price": "Xmind 買 1 年送 6 個月（18 個月碼 BF2026／MINDBF $99，單年碼 MIND15 $84.15，至 12/2）；MindNode Plus 碼 BLACKFRIDAY30 年繳 7 折（至 12/2）；Habitify Pro 5 折；MacSparky Field Guides 碼 GOBBLE26 8 折（至 11/30）",
+          "store": "Xmind / MindNode / Habitify / MacSparky",
+          "highlight": "兩大口碑心智圖工具同步年度最低＋Habitify 對折，零運費立刻啟用。（⏰ 提醒：台灣好市多 Day 6 開搶中，16:00 將公布 Day 7 週日預告！）",
+          "tags": [
+            "心智圖 App",
+            "習慣養成"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-1000",
       "date": "11/28",
