@@ -1,8 +1,77 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 22:30",
-  "updated_at_utc": "2026-11-28T14:30:30Z",
+  "updated_at_taipei": "2026/11/28 23:30",
+  "updated_at_utc": "2026-11-28T15:30:45Z",
   "digests": [
+    {
+      "id": "2026-11-28-2300",
+      "date": "11/28",
+      "time_taipei": "11/28 23:00",
+      "created_at_utc": "2026-11-28T15:30:45Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 美國百貨 Cyber Weekend 破盤！Macy's 西裝 $99.99／鑽鍊 $199＋Nordstrom 最高 4 折",
+          "price": "Macy's 男士西裝 $99.99（2 折 / 原價 $395–$495）、培育鑽網球手鍊 $199（2 折 / 原價 $975）、毛衣 $19.99 起、大衣 3–6 折；Nordstrom 125 週年特賣最高 4 折（至 12/1）：FRAME 牛仔褲 $139（5 折）、UGG Neuman 拖鞋 $75（原價 $130）",
+          "store": "Macy's / Nordstrom",
+          "highlight": "美國週六百貨大清倉！手鍊、毛衣、牛仔褲與 UGG 拖鞋全部好塞行李免關稅帶回。",
+          "tags": [
+            "百貨 2 折起",
+            "Cyber Weekend"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "奧地利監聽耳機＆精品口腔護理黑五！Austrian Audio 65 折＋Boka／Quip／Marvis",
+          "price": "Austrian Audio Hi-X20 監聽耳機 $110.13（65 折 / 原價 $169，Amazon）；Quip 電動牙刷 Target 金屬版 $19.99（原價 $29.99）／Ultra Lite $49.99；Boka 護齒牙膏 3 入 $23.99（75 折）、竹炭牙刷 3 折 $1.80；Marvis 義式牙膏大條 ~$13（65 折）",
+          "store": "Amazon US / Target / Boka",
+          "highlight": "前 AKG 維也納工程師團隊打造的 Hi-X20 耳機口碑極高！牙膏與輕量牙刷零體積超好帶（充電款須手提；大條牙膏放托運）。",
+          "tags": [
+            "維也納耳機",
+            "精品口腔"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "頂級鈦不鏽鋼＆無毒陶瓷鍋黑五！Hestan 8 折（精選 6 折）＋GreenPan 最高 25 折",
+          "price": "Hestan 義大利手工 NanoBond／ProBond 鍋具官網＆Williams Sonoma 8 折（精選平底鍋 $360 / 原價 $600）；GreenPan 無 PFAS 陶瓷不沾鍋官網最高 25 折（14 件組 $389.99 / 19 件組 $599.99）",
+          "store": "Hestan / Williams Sonoma / GreenPan",
+          "highlight": "米其林主廚愛牌 Hestan 與無毒陶瓷鍋 GreenPan 齊降（單支平底鍋可防撞託運；多件大組體積較大／適合美國自用）。",
+          "tags": [
+            "頂級廚具",
+            "無毒不沾鍋"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "US",
+          "title": "防雨＆純素保暖時尚！Hunter 雨靴 5–75 折＋Save the Duck／Stutterheim 3 折起",
+          "price": "Hunter 經典雨靴官網精選 75 折（清倉最高 5 折）；Save the Duck 義大利純素羽絨外套授權通路 3–6 折；Stutterheim 瑞典極簡雨衣 3–5 折",
+          "store": "Hunter / 授權選物通路",
+          "highlight": "台灣冬季多雨超實穿的歐系防雨與保暖外套，羽絨衣與雨衣壓平好帶（高筒雨靴較佔行李空間）。",
+          "tags": [
+            "英國雨靴",
+            "極簡雨衣"
+          ]
+        },
+        {
+          "num": 5,
+          "market": "Digital",
+          "title": "無損音樂＆大師通識公開課黑五！Qobuz 數位買斷最高 4 折＋The Great Courses $1.99 起",
+          "price": "Qobuz Hi-Res 無損母帶下載最高 4 折（至 11/30）；The Great Courses Plus 前 2 月 $4.99/月（Prime Video 頻道 $1.99/月×2、Roku $2.99/月×2，均至 11/30）",
+          "store": "Qobuz / The Great Courses / Prime Channels",
+          "highlight": "發燒友收無損專輯買斷檔趁 Qobuz 4 折最划算，想補歷史／科學通識課也有 2 個月銅板體驗價。",
+          "tags": [
+            "Hi-Res 無損",
+            "通識公開課"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-2200",
       "date": "11/28",
