@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 14:30",
-  "updated_at_utc": "2026-11-28T06:30:13Z",
+  "updated_at_taipei": "2026/11/28 15:30",
+  "updated_at_utc": "2026-11-28T07:30:43Z",
   "digests": [
+    {
+      "id": "2026-11-28-1500",
+      "date": "11/28",
+      "time_taipei": "11/28 15:00",
+      "created_at_utc": "2026-11-28T07:30:43Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 美國高價差保健＆美白牙貼大降！Crest 65 折 $29.99＋Momentous 6 折＋Thorne",
+          "price": "Crest 3D 美白牙貼 44 片 $29.99（65 折 / 原價 $45.99，Amazon）；Momentous 碼 BFCM 全站最高 6 折（肌酸 90 份 $32.24＋滿額贈正貨）；Thorne 精選最高 67 折；Nordic Naturals 67–8 折（藻油 Walmart $29.89）；Sports Research 官網 8 折",
+          "store": "Amazon US / Walmart / Momentous / Sports Research",
+          "highlight": "最值得請朋友人肉帶回的超輕量高價差神清單！美白牙貼與頂級保健品完全不佔行李空間、免關稅超划算。",
+          "tags": [
+            "保健高價差",
+            "超好帶回"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "錄音室麥克風＆格鬥大搖黑五！Warm Audio 5 折起／省 $400＋Lewitt 75 折＋Qanba",
+          "price": "Warm Audio WA-19 動圈麥對折 $99（原價 $199）、WA-CX24 省 $400（$1,199）、WA-8000／WA-67 省 $300、BUS-COMP 省 $100（$699）；Lewitt LCT 440 PURE／540 S／CONNECT 6 最高 75 折（至 12/20）；Qanba Drone 2＋保護包組 $124.99（原價 $169.99）",
+          "store": "Warm Audio / Sweetwater / Lewitt / Qanba USA",
+          "highlight": "Podcast 與音樂人必看！Warm Audio 動圈麥直接腰斬至 $99，麥克風與介面精巧好帶（格鬥大搖體積略大）。",
+          "tags": [
+            "錄音室麥克風",
+            "格鬥搖桿"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "TW",
+          "title": "台灣 Readmoo 讀墨年底購書碼整理（＋16:00 好市多 Day 7 預告倒數！）",
+          "price": "Readmoo × cama 碼 CAMAmoo2650 全站滿 NT$250 折 $50（約 8 折，至 12/31）；年度閱讀挑戰 11/30 前加入贈「5 本 7 折」優惠碼",
+          "store": "Readmoo 讀墨",
+          "highlight": "台灣書迷記得 11/30 前領 5 本 7 折碼！⏰ 另提醒：30 分鐘後（16:00）台灣好市多將公布 Day 7（11/29 週日）黑五預告，下小時準時為你抓！",
+          "tags": [
+            "台灣電子書",
+            "好市多預告倒數"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "漫威漫畫＆獨立串流黑五！Marvel Unlimited 7 折＋Shudder 3 折＋MagellanTV 終身",
+          "price": "Marvel Unlimited 網頁版年繳自動 7 折（Standard $48.99 / Ultimate $69.99，至 12/2）；Shudder 恐怖片串流年費 $29.99（3 折 / 原價 $99.99，至 12/1）；Acorn TV 前 2 月 $2.49–$2.99/月；HIDIVE（Roku）$0.99/月起；MagellanTV 4K 紀錄片終身 $129.97–$139.97",
+          "store": "Marvel / Shudder / Prime & Roku Channels / StackSocial",
+          "highlight": "漫威迷暢看 3 萬本漫畫省 $21、Shudder 恐怖片年費直接下殺 3 折，數位授權即時啟用。",
+          "tags": [
+            "漫威漫畫",
+            "紀錄片終身"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-1400",
       "date": "11/28",
