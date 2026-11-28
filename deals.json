@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 08:30",
-  "updated_at_utc": "2026-11-28T00:30:17Z",
+  "updated_at_taipei": "2026/11/28 09:30",
+  "updated_at_utc": "2026-11-28T01:30:28Z",
   "digests": [
+    {
+      "id": "2026-11-28-0900",
+      "date": "11/28",
+      "time_taipei": "11/28 09:00",
+      "created_at_utc": "2026-11-28T01:30:28Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "腕錶玩家必收！Delugs 手工錶帶 75 折＋錶帶＆獨立機械錶特賣",
+          "price": "Delugs 精品真皮／橡膠錶帶全站免碼 75 折（至 12 月初）；Crown & Buckle 尼龍／NATO 錶帶＆收納盒自動 5–9 折；Long Island Watch 黑五機械錶（含 Islander／日系錶）Doorbusters 特價（至 11/30）",
+          "store": "Delugs / Crown & Buckle / Long Island Watch",
+          "highlight": "錶圈公認質感天花板 Delugs 罕見全站 75 折，錶帶與腕錶體積超小、零負擔塞行李帶回。",
+          "tags": [
+            "質感錶帶",
+            "機械腕錶"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "歐美精品嬰兒推車＆汽座黑五！Bugaboo 最高 8 折（出清 5 折）＋CYBEX 贈好禮",
+          "price": "Bugaboo 官網 Kangaroo 推車最高 8 折、Fox 5 Renew／Donkey 6／套組＆Giraffe 餐椅 85 折、Butterfly 2 Plus 登機車 9 折、Final Sale 最高 5 折；CYBEX 汽座最高 87 折加送涼感套、Priam 推車送原廠腳套（至 11/30）",
+          "store": "Bugaboo / CYBEX",
+          "highlight": "育兒精品難得官方全線讓利！Butterfly 2 Plus 折疊可手提登機，其餘大型推車與汽座體積較大／較適合託運或美國自用。",
+          "tags": [
+            "精品推車",
+            "安全汽座"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "奢華羽絨＆北歐男裝＋智慧單車訓練台套組",
+          "price": "Mackage 精品羽絨／皮衣精選 6–7 折（SSENSE／Bloomingdale's 等通路）；Norse Projects 授權選物店精選低至 3–4 折；ROUVY 官方 Zwift Ride＋Wahoo KICKR CORE 2 套組 $999（至 11/30，附 ROUVY DUO 前 3 個月 5 折碼）；Strava 周邊服飾碼 KUDOS20%OFF 8 折",
+          "store": "Mackage / SSENSE / ROUVY / Strava Shop",
+          "highlight": "「羽絨界愛馬仕」Mackage 難得降價，壓縮袋好帶回；車友最愛智慧訓練台套組破千美元（訓練台體積較大／適合美國自用）。",
+          "tags": [
+            "精品羽絨",
+            "單車訓練台"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "🔥 發燒友炸鍋！Roon 睽違多年破例開放「終身版」＆年繳黑五優惠",
+          "price": "Roon 音樂管理系統 11/27–11/30 限時開放首次年繳＆罕見「終身版（Lifetime）」黑五特價（須於活動期開試用鎖價）；美國 Roon Store 同步祭出 Nucleus One 9 折、Nucleus Titan 8 折（至 11/30）",
+          "store": "Roon Labs",
+          "highlight": "串流音響圈（r/roonlabs）熱議焦點！Roon 已多年未對終身授權打折，這波僅限 4 天至 11/30，零運費直接鎖定。",
+          "tags": [
+            "發燒串流",
+            "終身版破例"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-0800",
       "date": "11/28",
