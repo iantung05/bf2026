@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 07:30",
-  "updated_at_utc": "2026-11-27T23:30:20Z",
+  "updated_at_taipei": "2026/11/28 08:30",
+  "updated_at_utc": "2026-11-28T00:30:17Z",
   "digests": [
+    {
+      "id": "2026-11-28-0800",
+      "date": "11/28",
+      "time_taipei": "11/28 08:00",
+      "created_at_utc": "2026-11-28T00:30:17Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 EDC 折刀／手電筒＆精密維修工具神價！Streamlight 38 折＋Spyderco MagnaCut",
+          "price": "Streamlight MicroStream USB $25.17（38 折 / 原價 $66+）、AAA 版 $15.18、Stylus Pro $17；Spyderco PM2（S45VN）$164、PM2 輕量 MagnaCut $142.31（原價 $189.75）、Manix 2 Salt $136.69；iFixit Manta 起子組 $59.46（85 折 / 原價 $69.95）；Victorinox Fibrox 8 吋主廚刀 ~$48（原價 $67）",
+          "store": "Amazon US / River's Edge Cutlery / Blade HQ / iFixit",
+          "highlight": "拆機控＆EDC 玩家夢幻清單！Streamlight 口袋神燈下殺 38 折，Spyderco 頂級 MagnaCut 鋼罕見破 $145（刀具與起子組須放托運行李；充電手電筒含鋰電須手提登機）。",
+          "tags": [
+            "EDC 神價",
+            "精密工具"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "歐美醫美＆純淨美妝選物網齊殺！Dermstore 碼 JOY 最高 7 折",
+          "price": "Dermstore 碼 JOY 最高 7 折＋滿額醫美豪禮（至 11/30）；Credo Beauty 純淨美妝全站免碼 8 折（至 11/29）；Space NK 精選最高 7 折（購物車再抽額外 9 折碼）；Beautylish 禮盒／刷具最高 5 折＋滿 $75 自動贈禮",
+          "store": "Dermstore / Credo Beauty / Space NK / Beautylish",
+          "highlight": "台灣不好買的美國專業醫美與純淨彩妝一次網羅，刷具與彩妝極輕好帶（逾 100ml 液體保養品須放托運）。",
+          "tags": [
+            "美國美妝",
+            "醫美選物"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "樂器＆效果器平台 Reverb 最高 2 折＋桌遊／模型黑五清倉",
+          "price": "Reverb.com 樂器／合成器／效果器／B-Stock 最高 2 折（含 Fender／Boss／Moog 等）；Miniature Market 黑五 Doorbusters＆戰棋模型 6–8 折；Board Game Bliss 數百款桌遊 3–8 折",
+          "store": "Reverb.com / Miniature Market / Board Game Bliss",
+          "highlight": "音樂人挖寶聖地 Reverb 的吉他單顆效果器體積小巧好塞行李（吉他與音箱體積較大）；桌遊與微縮模型玩家也可趁週末補齊清單。",
+          "tags": [
+            "樂器效果器",
+            "桌遊模型"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "🔥 音樂製作＆混音神級外掛年度最低！Neural DSP 5 折＋FabFilter 75 折",
+          "price": "Neural DSP 全系列音箱模擬外掛 5 折＋每消費 €100 回饋 €10（至 12/2）；FabFilter 全線外掛／套件／升級 75 折（經銷通路部分低至 67 折，至 12/1）；iZotope RX 12 最高 5 折、Ozone／Neutron 53–75 折（至 12/7）",
+          "store": "Neural DSP / FabFilter / iZotope / Plugin Boutique",
+          "highlight": "編曲＆吉他手每年苦等的必搶檔！Neural DSP 全線 Archetype 對折加回饋、業界標竿 EQ FabFilter 罕見 75 折，零運費即時下載授權。",
+          "tags": [
+            "音樂製作",
+            "音訊外掛"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-0700",
       "date": "11/28",
