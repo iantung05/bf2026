@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 19:30",
-  "updated_at_utc": "2026-11-28T11:30:21Z",
+  "updated_at_taipei": "2026/11/28 20:30",
+  "updated_at_utc": "2026-11-28T12:30:17Z",
   "digests": [
+    {
+      "id": "2026-11-28-2000",
+      "date": "11/28",
+      "time_taipei": "11/28 20:00",
+      "created_at_utc": "2026-11-28T12:30:17Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "🔥 英倫獨立名錶 Christopher Ward 罕見 85 折＋Mondaine 7 折／Yema 6 折起",
+          "price": "Christopher Ward 官網自動 85 折（至 12/1 08:00 GMT，不含限量／Bel Canto Lucia）；Mondaine 瑞士國鐵錶最高 7 折；Yema 法國機械錶最高 6–8 折",
+          "store": "Christopher Ward / Mondaine / Yema",
+          "highlight": "錶圈高 CP 值瑞士機芯名廠 Christopher Ward 難得全站 85 折！腕錶體積極小零負擔帶回。",
+          "tags": [
+            "機械腕錶",
+            "罕見 85 折"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "IG 爆紅質感洗沐＆男士保養＋磁吸金屬海報黑五！Salt & Stone／Nécessaire／Displate",
+          "price": "Salt & Stone 全站 8 折、套組最高 7 折（滿 $75 送正裝護手霜）；Nécessaire 免碼 8 折／滿 $125 享 75 折（全單送護唇膏）；Jack Black 男士禮盒 Nordstrom 7–8 折；Displate 磁吸金屬海報碼 BLACK 最高 58 折",
+          "store": "Salt & Stone / Nécessaire / Nordstrom / Displate",
+          "highlight": "美國超高人氣質感香氛止汗膏與洗沐禮盒趁黑五囤最賺（逾 100ml 液體瓶裝放托運；金屬海報扁平好夾行李）。",
+          "tags": [
+            "質感洗沐",
+            "金屬海報"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "胡桃木神顏機殼＆金牌電源／風扇黑五！Fractal North 75 折 $115.99＋NZXT 44 折",
+          "price": "Fractal Design North 胡桃木／橡木機殼 $115.99（75 折 / 原價 $154.99，Amazon）、Ion 3 Gold 1000W 電源 $127.99（8 折 / 750W $95.99，至 12/7）；NZXT F360 RGB 一體 360mm 風扇組 $34.99（44 折 / 原價 $79.99，Newegg）",
+          "store": "Amazon US / Newegg",
+          "highlight": "DIY 裝機圈最夯胡桃木機殼與千瓦電源齊降！風扇與電源好塞行李（機殼體積較大／僅適合美國自用）。",
+          "tags": [
+            "胡桃木機殼",
+            "PC 硬體"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "🔥 美股研究＆財報看盤工具年度最低！Seeking Alpha 55 折起＋Simply Wall St 5 折",
+          "price": "Seeking Alpha Premium 首年 $215（原價 $299）、Alpha Picks $359（原價 $499）、套組最高 55 折；Simply Wall St 新戶年繳 5 折（Premium $65.70 / 原價 $131.40）；TrendSpider 技術面＋AI 看盤年繳最高 35 折",
+          "store": "Seeking Alpha / Simply Wall St / TrendSpider",
+          "highlight": "美股投資人年度必搶檔！Simply Wall St 首年不到兩千台幣就能看視覺化財報一整年，零運費立刻啟用。",
+          "tags": [
+            "美股工具",
+            "投資研究"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-1900",
       "date": "11/28",
