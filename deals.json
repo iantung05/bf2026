@@ -1,8 +1,65 @@
 {
   "title": "2026 黑五＆感恩節每小時折扣雷達",
-  "updated_at_taipei": "2026/11/28 23:30",
-  "updated_at_utc": "2026-11-28T15:30:45Z",
+  "updated_at_taipei": "2026/11/29 00:30",
+  "updated_at_utc": "2026-11-28T16:30:19Z",
   "digests": [
+    {
+      "id": "2026-11-29-0000",
+      "date": "11/29",
+      "time_taipei": "11/29 00:00",
+      "created_at_utc": "2026-11-28T16:30:19Z",
+      "quiet": false,
+      "items": [
+        {
+          "num": 1,
+          "market": "US",
+          "title": "創作者補光燈＆超輕 FPS 電競鼠黑五！Lume Cube 59 折起＋Lamzu／Endgame Gear",
+          "price": "Lume Cube XL RGB 補光燈 $148（59 折 / 原價 $250）、Panel Pro 2.0 隨身燈 $126（7 折 / 原價 $180）；Lamzu（Atlantis／Maya 8K）＆Endgame Gear（OP1／XM）電競鼠同步促銷",
+          "store": "Lume Cube / Lamzu / MaxGaming / Caseking",
+          "highlight": "超輕競技神鼠與口袋補光燈都極輕好塞行李（含鋰電池須手提登機）。",
+          "tags": [
+            "電競神鼠",
+            "創作者補光"
+          ]
+        },
+        {
+          "num": 2,
+          "market": "US",
+          "title": "足底筋膜救星＆歐系復古球鞋！OOFOS 恢復拖鞋 $56＋Superga 4 折起＋Gola",
+          "price": "OOFOS 運動恢復拖鞋約 8 折（OOahh Sport Slide $56 / 原價 $70，REI／Zappos 同步）；Superga 義式帆布鞋最高 4–5 折；Gola 復古鞋官網 8 折（Revolve／Zappos 過季最高 2–7 折）",
+          "store": "OOFOS / REI / Zappos / Superga / Gola",
+          "highlight": "跑友＆久站族公認神級踩屎感 OOFOS 恢復拖鞋極輕好帶回，免台灣代購溢價！",
+          "tags": [
+            "恢復拖鞋",
+            "復古球鞋"
+          ]
+        },
+        {
+          "num": 3,
+          "market": "US",
+          "title": "🔥 廚房神級保鮮盒＆環保矽膠袋＋庭園工具！Rubbermaid 54 折＋Stasher 5–8 折",
+          "price": "Rubbermaid Brilliance 44 件防漏保鮮盒 $70（54 折 / 原價 $130，Amazon）、玻璃 9 件組 6–65 折（2023 來新低）；Stasher 矽膠保鮮袋 7–8 折（精選低至 5 折）；EGO Power+ 1400W 逆變器史低 $579／Worx 最高 55 折",
+          "store": "Amazon US / Stasher / Lowe's / Worx",
+          "highlight": "Stasher 矽膠袋扁平輕巧超好帶回！Rubbermaid 玻璃盒防撞託運即可（EGO／Worx 工具與大電池僅適合美國自用）。",
+          "tags": [
+            "保鮮神盒",
+            "環保矽膠袋"
+          ]
+        },
+        {
+          "num": 4,
+          "market": "Digital",
+          "title": "卡牌保護套＆TRPG 跑團神器黑五！Foundry VTT 8 折＋D&D Beyond 5 折＋Dragon Shield",
+          "price": "Foundry VTT 買斷主程式＆商城模組 8 折（至 12/7）；D&D Beyond 數位規則書最高 5 折；Dragon Shield 卡套／卡本 Black Weekend 75–85 折",
+          "store": "Foundry VTT / D&D Beyond / Dragon Shield",
+          "highlight": "TRPG 跑團神器買斷版一年難得 8 折、卡套剛好配寶可夢 30 週年卡！（⏰ 提醒：台灣好市多 Day 7 今早 07:30 開搶 Mac mini 省 $3,000＋1 日限定 A4 和牛；明日 11/30 迎來 Cyber Monday＆Amazon JP 黑五主場！）",
+          "tags": [
+            "TRPG 買斷",
+            "卡牌保護套"
+          ]
+        }
+      ]
+    },
     {
       "id": "2026-11-28-2300",
       "date": "11/28",
